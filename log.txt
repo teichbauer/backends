@@ -1,0 +1,32 @@
+[2022-05-12]
+git-0.0.1
+- MQTTClient in mqtt.py
+- data model in models.py
+- fastAPI server
+- tools
+  depending on local mosquitto broker_address
+- under data: formats.py - meta definitions of mongoDB doc:
+  -- format for collections and their contents
+  -- units
+  -- TBD: definitions forr relations
+
+
+[2022-05-10]
+- checking connections:
+    - checking localhost ip address (Windows/WSL2):
+        ip addr | grep eth0
+      getting:
+        172.30.149.76  
+    ---------------------------------------------------------------------------
+    - checking if mosquitto is running on (1883)
+        ss -tlpn | grep 1883
+    ---------------------------------------------------------------------------
+    - checking if mongoDB server is running on 27017
+        ss -tlpn | grep 27017
+    ---------------------------------------------------------------------------
+
+- starting / stopping mosquitto service
+    sudo service mosquitto start
+    sudo service mosquitto stop
+
+
