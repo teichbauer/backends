@@ -1,6 +1,7 @@
 import socket
 import threading
 import pdb
+from mqtt import MQTTClient
 
 PORT = 5050
 SERVER = "0.0.0.0"
@@ -14,6 +15,8 @@ server = socket.socket(
     socket.SOCK_STREAM      # type of socket
 )
 server.bind(ADDR)
+
+mqttclient = MQTTClient('Name1')
 
 
 def handle_client(conn, addr):
@@ -31,6 +34,7 @@ def handle_client(conn, addr):
 
 
 def start():
+    mqttclient.start()
     server.listen(1)
     print(f"[LISTENING] Server is listening on {SERVER}:{PORT}")
     while True:
@@ -47,6 +51,7 @@ def start():
         thread.join()
         print(f"[STOPPED]")
         break
+    mqttclient.stop()
 
 
 if __name__ == '__main__':

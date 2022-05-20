@@ -47,7 +47,7 @@ async def pub_plcmsg(msg: PLC_Object):
 
 @app.post("/addo")
 async def add_object(data: MDB_Object):
-    pdb.set_trace()
+    # pdb.set_trace()
     dic = data.dict()
     ret = db.insert_one(dic)
     dic.update({'db-code': str(ret)})
@@ -62,10 +62,15 @@ async def load_meta_data():
         '''
     from data.formats import data as formats
     from data.units import data as units
-    pdb.set_trace()
+    from data.relationships import data as relationships
+    # pdb.set_trace()
     try:
         # put into database 'META/DS' and 'META/US'
-        for pair in [(formats, 'CS'), (units, 'US')]:
+        for pair in [
+            (formats, 'CS'),
+            (units, 'US'),
+            (relationships, 'RS'),
+        ]:
             # first drop the collection
             db0.drop_collection(pair[1])
 

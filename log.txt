@@ -1,12 +1,80 @@
+[2022-05-19]
+git: 0.0.5
+
+[2022-05-15]
+git:0.0.4
+----------------------
+definitions of tasks
+-------
+Task-1
+  a. design/specify reuqests Node.js sends out to FastAPI, for
+     getting data(json format)
+  b. specify each data packet(json) keyed by each request of (a)
+-------
+Task-2
+  a. implementation of File watch server:
+    a1: when delta in watched file occurs, format the new line(data)
+        into json format : D1.
+    a2: employing mqtt sub/pub client, publishing the D1, under 
+          topic: XPX/* 
+        to MQTT broker (mosquitto)
+  b. implement PLC pub/sub client, sending MQTT message under 
+          topic: PLC/*
+      to MQTT broker (mosquitto)
+  c.  For testing FastAPI htpp request "plcmsg" can be used.
+      Here, specify json format/data structures:
+      for T2/b:
+        defined by models.py/PLC_Object: redesign it in agreement with Task-3
+      for T2/a:
+        a new data model may be defined in models.py, parallel to PLC_Object,
+        may be name as XPX_Object?
+  d.  Note: since we are using TLS certificate (Zhu Wen-Dong), make sure, the
+      port 8883 and all other mosquitto configuration works.
+-------
+Task-3
+  a.  TCP data-collecting server (from what Bob has implemented): 
+      add MQTT pub/sub client to the server loop, refering to the way how 
+      FastAPI uses MQTTClient
+  b.  Design of json data for sending to MQTT broker, merging, filtering inputs
+      from MQTT messages from XPegasus(XPX/*) and PLC(PLC/*)
+      The process of how the saving of XPX/* data and PLC/* data, and merging
+      of the, may be implemented in FastAPI?
+  c.  Implement MQTT/publishings of Xpegsus json-data, and handle the logic to 
+      interact with PLC. redesign of workpiece json-data structure
+  d.  timer-sync message sent to MQTT broker->PLC
+      The sending of MQTT message to PLC may be tested by adding a new 
+      http/request to FastAPI/post-req(s)
+-------
+Task-4
+  a. On lab/Ubuntu, installations of:
+     a1. node.js server (+npm) and all needed components
+     a2. MongoDB server on port 27017, set DB-user-name/password
+     a3. set up mosquitto broker, with TLS credentials(port 8883?), 
+         user/password
+     a4. install FastAPI + all needed components, determin the port
+     a5. install File-Watch server + all needed components, determin port
+     a6. install TCP-server + all needed components,determin port
+  b. after testing the workings and interactions between all server on 
+     lab/Ubuntu, installation of all a1-a6, do the same installations 
+     on Ali-Cloud (Ubuntu 20.04)
+-------
+Task-5
+  a. migrate stuff from ubuntu 18.04 (Ali-yun/ECS) to U20.04
+  b. nail down sub-domain names (xxx.digital-work.cn) for
+     for different apps
+  c. set up nginx for mapping sub-domain names to different ports.
+  d. install docker-ce on u20.04 ali-yun
+
+
 [2022-05-12]
  git0.0.3
 =============== Simple Architectural Diagram ========================
                           -----------                 ------------
                           | Node.js |<->(Internet)<-> |Browsers  |
                           | Web-srv |                 ------------
-                          ----------- \
-                                       \
-   --------------                         --------------
+                          ----------- \                  /
+                                       \               /
+   --------------                       --------------
    | PLCs        |                      | FastAPI    |   ---------
    |-------------|      -----------     |------------|<->| Mongo |
    |MQTT:sub/pub |<---->| MQTT     |<-->| MQTT       |   | DB    |
