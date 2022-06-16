@@ -1,0 +1,362 @@
+[
+{
+     "_id":"APPDB-CS-1653452535-1k1tQW",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"1",
+         "CSS_SPOTSETID":"15",
+         "CSS_CONTROLCABINET":"SPOTSET101",
+         "CSS_CONTROLCABINETID":"/FD010/010R02",
+         "CSS_SPOTSETSIGN":"2",
+         "CSS_SPOTID":"600",
+         "CSS_TYPEID":"1",
+         "CSS_QTHRESHOLD":"31"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452536-Co1ztC",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"2",
+         "CSS_SPOTSETID":"10",
+         "CSS_CONTROLCABINET":"SPOTSET101",
+         "CSS_CONTROLCABINETID":"/FD010/010R02",
+         "CSS_SPOTSETSIGN":"2",
+         "CSS_SPOTID":"600",
+         "CSS_TYPEID":"2",
+         "CSS_QTHRESHOLD":"31"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452537-JJqoWY",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"3",
+         "CSS_SPOTSETID":"16",
+         "CSS_CONTROLCABINET":"SPOTSET102",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"700",
+         "CSS_TYPEID":"3",
+         "CSS_QTHRESHOLD":"31"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452538-xHG9Ag",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"4",
+         "CSS_SPOTSETID":"17",
+         "CSS_CONTROLCABINET":"SPOTSET102",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"700",
+         "CSS_TYPEID":"4",
+         "CSS_QTHRESHOLD":"31"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452539-2hkXFo",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"5",
+         "CSS_SPOTSETID":"18",
+         "CSS_CONTROLCABINET":"SPOTSET102",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"700",
+         "CSS_TYPEID":"5",
+         "CSS_QTHRESHOLD":"31"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452540-ssnb6R",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"6",
+         "CSS_SPOTSETID":"19",
+         "CSS_CONTROLCABINET":"SPOTSET102",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"700",
+         "CSS_TYPEID":"6",
+         "CSS_QTHRESHOLD":"31"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452541-py7Ngy",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"7",
+         "CSS_SPOTSETID":"20",
+         "CSS_CONTROLCABINET":"SPOTSET103",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"820",
+         "CSS_TYPEID":"7",
+         "CSS_QTHRESHOLD":"31"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452542-wVEixV",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"8",
+         "CSS_SPOTSETID":"23",
+         "CSS_CONTROLCABINET":"SPOTSET103",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"820",
+         "CSS_TYPEID":"8",
+         "CSS_QTHRESHOLD":"31"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452543-1WgDbT",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"9",
+         "CSS_SPOTSETID":"26",
+         "CSS_CONTROLCABINET":"SPOTSET103",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"820",
+         "CSS_TYPEID":"9",
+         "CSS_QTHRESHOLD":"31"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452544-YRG8hv",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"10",
+         "CSS_SPOTSETID":"29",
+         "CSS_CONTROLCABINET":"SPOTSET103",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"820",
+         "CSS_TYPEID":"10",
+         "CSS_QTHRESHOLD":"31"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452545-BPOQfM",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"11",
+         "CSS_SPOTSETID":"32",
+         "CSS_CONTROLCABINET":"SPOTSET103",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"820",
+         "CSS_TYPEID":"11",
+         "CSS_QTHRESHOLD":"31"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452546-zVb0yI",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"12",
+         "CSS_SPOTSETID":"35",
+         "CSS_CONTROLCABINET":"SPOTSET103",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"820",
+         "CSS_TYPEID":"12",
+         "CSS_QTHRESHOLD":"31"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452547-78TepQ",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"13",
+         "CSS_SPOTSETID":"55",
+         "CSS_CONTROLCABINET":"SPOTSET103",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"820",
+         "CSS_TYPEID":"13",
+         "CSS_QTHRESHOLD":"31"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452548-uQy2br",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"14",
+         "CSS_SPOTSETID":"58",
+         "CSS_CONTROLCABINET":"SPOTSET103",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"820",
+         "CSS_TYPEID":"14",
+         "CSS_QTHRESHOLD":"31"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452549-bBOwdL",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"15",
+         "CSS_SPOTSETID":"61",
+         "CSS_CONTROLCABINET":"SPOTSET103",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"820",
+         "CSS_TYPEID":"15",
+         "CSS_QTHRESHOLD":"31"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452550-47YKev",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"16",
+         "CSS_SPOTSETID":"64",
+         "CSS_CONTROLCABINET":"SPOTSET104",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"810",
+         "CSS_TYPEID":"7",
+         "CSS_QTHRESHOLD":"21"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452551-MnyuSt",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"17",
+         "CSS_SPOTSETID":"67",
+         "CSS_CONTROLCABINET":"SPOTSET104",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"810",
+         "CSS_TYPEID":"8",
+         "CSS_QTHRESHOLD":"21"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452552-k0vRnE",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"18",
+         "CSS_SPOTSETID":"70",
+         "CSS_CONTROLCABINET":"SPOTSET104",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"810",
+         "CSS_TYPEID":"9",
+         "CSS_QTHRESHOLD":"21"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452553-a6GZOO",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"19",
+         "CSS_SPOTSETID":"73",
+         "CSS_CONTROLCABINET":"SPOTSET104",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"810",
+         "CSS_TYPEID":"10",
+         "CSS_QTHRESHOLD":"21"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452554-aTfmWC",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"20",
+         "CSS_SPOTSETID":"76",
+         "CSS_CONTROLCABINET":"SPOTSET104",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"810",
+         "CSS_TYPEID":"11",
+         "CSS_QTHRESHOLD":"21"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452555-d9ulRW",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"21",
+         "CSS_SPOTSETID":"79",
+         "CSS_CONTROLCABINET":"SPOTSET104",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"810",
+         "CSS_TYPEID":"12",
+         "CSS_QTHRESHOLD":"21"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452556-7g0u5U",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"22",
+         "CSS_SPOTSETID":"82",
+         "CSS_CONTROLCABINET":"SPOTSET104",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"810",
+         "CSS_TYPEID":"13",
+         "CSS_QTHRESHOLD":"21"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452557-jVOync",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"23",
+         "CSS_SPOTSETID":"85",
+         "CSS_CONTROLCABINET":"SPOTSET104",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"810",
+         "CSS_TYPEID":"14",
+         "CSS_QTHRESHOLD":"21"
+         }
+},
+{
+     "_id":"APPDB-CS-1653452558-WcE8Mp",
+     "category":"PROCESS",
+     "nick-name":"CSS_SPOTSET",
+     "properties":{
+         "CSS_ID":"24",
+         "CSS_SPOTSETID":"88",
+         "CSS_CONTROLCABINET":"SPOTSET104",
+         "CSS_CONTROLCABINETID":"/FD010/010R01",
+         "CSS_SPOTSETSIGN":"1",
+         "CSS_SPOTID":"810",
+         "CSS_TYPEID":"15",
+         "CSS_QTHRESHOLD":"21"
+         }
+}
+]

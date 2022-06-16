@@ -1,0 +1,866 @@
+[
+{
+     "_id":"APPDB-TS-1653452535-r5ZKuF",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200001",
+         "CGUNWP_GUNWPID":"200001",
+         "CGUNWP_GUNID":"3000",
+         "CGUNWP_WPID":"100001",
+         "CGUNWP_GUNWPQTY":"2",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"15",
+         "CGUNWP_WPALARM":"20",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452536-jJepFt",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200002",
+         "CGUNWP_GUNWPID":"200002",
+         "CGUNWP_GUNID":"3000",
+         "CGUNWP_WPID":"100003",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"15",
+         "CGUNWP_WPALARM":"20",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452537-5s1llf",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200003",
+         "CGUNWP_GUNWPID":"200003",
+         "CGUNWP_GUNID":"3000",
+         "CGUNWP_WPID":"100004",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"15",
+         "CGUNWP_WPALARM":"20",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452538-nBYwGA",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200004",
+         "CGUNWP_GUNWPID":"200004",
+         "CGUNWP_GUNID":"3000",
+         "CGUNWP_WPID":"100007",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"15",
+         "CGUNWP_WPALARM":"20",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452539-9ywKAr",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200005",
+         "CGUNWP_GUNWPID":"200005",
+         "CGUNWP_GUNID":"3001",
+         "CGUNWP_WPID":"100001",
+         "CGUNWP_GUNWPQTY":"2",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"999999",
+         "CGUNWP_WPALARM":"999999",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452540-4x4KFm",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200006",
+         "CGUNWP_GUNWPID":"200006",
+         "CGUNWP_GUNID":"3001",
+         "CGUNWP_WPID":"100003",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"999999",
+         "CGUNWP_WPALARM":"999999",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452541-i5gESC",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200007",
+         "CGUNWP_GUNWPID":"200007",
+         "CGUNWP_GUNID":"3001",
+         "CGUNWP_WPID":"100004",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"999999",
+         "CGUNWP_WPALARM":"999999",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452542-AKOojs",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200008",
+         "CGUNWP_GUNWPID":"200008",
+         "CGUNWP_GUNID":"3001",
+         "CGUNWP_WPID":"100007",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"999999",
+         "CGUNWP_WPALARM":"999999",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452543-84xj4Q",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200009",
+         "CGUNWP_GUNWPID":"200009",
+         "CGUNWP_GUNID":"3002",
+         "CGUNWP_WPID":"100001",
+         "CGUNWP_GUNWPQTY":"2",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"999999",
+         "CGUNWP_WPALARM":"999999",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452544-ye4xk9",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200010",
+         "CGUNWP_GUNWPID":"200010",
+         "CGUNWP_GUNID":"3002",
+         "CGUNWP_WPID":"100003",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"100000",
+         "CGUNWP_WPALARM":"15000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452545-GIxZ9j",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200011",
+         "CGUNWP_GUNWPID":"200011",
+         "CGUNWP_GUNID":"3002",
+         "CGUNWP_WPID":"100004",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"100000",
+         "CGUNWP_WPALARM":"15000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452546-ZVchGv",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200012",
+         "CGUNWP_GUNWPID":"200012",
+         "CGUNWP_GUNID":"3002",
+         "CGUNWP_WPID":"100007",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"100000",
+         "CGUNWP_WPALARM":"15000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452547-AaC7yX",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200013",
+         "CGUNWP_GUNWPID":"200013",
+         "CGUNWP_GUNID":"3003",
+         "CGUNWP_WPID":"100001",
+         "CGUNWP_GUNWPQTY":"2",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1000",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452548-oPOZlR",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200014",
+         "CGUNWP_GUNWPID":"200014",
+         "CGUNWP_GUNID":"3003",
+         "CGUNWP_WPID":"100003",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1000",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452549-P2fDPY",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200015",
+         "CGUNWP_GUNWPID":"200015",
+         "CGUNWP_GUNID":"3003",
+         "CGUNWP_WPID":"100004",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1000",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452550-IJPh2A",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200016",
+         "CGUNWP_GUNWPID":"200016",
+         "CGUNWP_GUNID":"3003",
+         "CGUNWP_WPID":"100007",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1000",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452551-iFcLjT",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200017",
+         "CGUNWP_GUNWPID":"200017",
+         "CGUNWP_GUNID":"3004",
+         "CGUNWP_WPID":"100001",
+         "CGUNWP_GUNWPQTY":"2",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1900",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452552-oyW4zW",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200018",
+         "CGUNWP_GUNWPID":"200018",
+         "CGUNWP_GUNID":"3004",
+         "CGUNWP_WPID":"100003",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1900",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452553-qRiVhu",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200019",
+         "CGUNWP_GUNWPID":"200019",
+         "CGUNWP_GUNID":"3004",
+         "CGUNWP_WPID":"100004",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1911",
+         "CGUNWP_WPALARM":"2011",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452554-uXHFpC",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200020",
+         "CGUNWP_GUNWPID":"200020",
+         "CGUNWP_GUNID":"3004",
+         "CGUNWP_WPID":"100007",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1911",
+         "CGUNWP_WPALARM":"2011",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452555-FDO09v",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200021",
+         "CGUNWP_GUNWPID":"200021",
+         "CGUNWP_GUNID":"3005",
+         "CGUNWP_WPID":"100001",
+         "CGUNWP_GUNWPQTY":"2",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1900",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452556-L4g8hi",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200022",
+         "CGUNWP_GUNWPID":"200022",
+         "CGUNWP_GUNID":"3005",
+         "CGUNWP_WPID":"100003",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1900",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452557-xhOhIW",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200023",
+         "CGUNWP_GUNWPID":"200023",
+         "CGUNWP_GUNID":"3005",
+         "CGUNWP_WPID":"100004",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1900",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452558-TmxU86",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200024",
+         "CGUNWP_GUNWPID":"200024",
+         "CGUNWP_GUNID":"3005",
+         "CGUNWP_WPID":"100007",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1900",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452559-2PMt67",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200025",
+         "CGUNWP_GUNWPID":"200025",
+         "CGUNWP_GUNID":"3006",
+         "CGUNWP_WPID":"100001",
+         "CGUNWP_GUNWPQTY":"2",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1500",
+         "CGUNWP_WPALARM":"3000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452560-cUgDrS",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200026",
+         "CGUNWP_GUNWPID":"200026",
+         "CGUNWP_GUNID":"3006",
+         "CGUNWP_WPID":"100003",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1500",
+         "CGUNWP_WPALARM":"3000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452561-TnJBOn",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200027",
+         "CGUNWP_GUNWPID":"200027",
+         "CGUNWP_GUNID":"3006",
+         "CGUNWP_WPID":"100004",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1500",
+         "CGUNWP_WPALARM":"3000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452562-6cvXlq",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200028",
+         "CGUNWP_GUNWPID":"200028",
+         "CGUNWP_GUNID":"3006",
+         "CGUNWP_WPID":"100007",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1500",
+         "CGUNWP_WPALARM":"3000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452563-ZmSUU6",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200029",
+         "CGUNWP_GUNWPID":"200029",
+         "CGUNWP_GUNID":"3007",
+         "CGUNWP_WPID":"100001",
+         "CGUNWP_GUNWPQTY":"2",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1900",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452564-1iIsJH",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200030",
+         "CGUNWP_GUNWPID":"200030",
+         "CGUNWP_GUNID":"3007",
+         "CGUNWP_WPID":"100003",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1900",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452565-PQ5rkW",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200031",
+         "CGUNWP_GUNWPID":"200031",
+         "CGUNWP_GUNID":"3007",
+         "CGUNWP_WPID":"100004",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1900",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452566-3rCozo",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200032",
+         "CGUNWP_GUNWPID":"200032",
+         "CGUNWP_GUNID":"3007",
+         "CGUNWP_WPID":"100007",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1900",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452567-5g4Hyd",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200033",
+         "CGUNWP_GUNWPID":"200033",
+         "CGUNWP_GUNID":"3008",
+         "CGUNWP_WPID":"100001",
+         "CGUNWP_GUNWPQTY":"2",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1900",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452568-hEZMhz",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200034",
+         "CGUNWP_GUNWPID":"200034",
+         "CGUNWP_GUNID":"3008",
+         "CGUNWP_WPID":"100003",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1900",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452569-6Kbwpp",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200035",
+         "CGUNWP_GUNWPID":"200035",
+         "CGUNWP_GUNID":"3008",
+         "CGUNWP_WPID":"100004",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1900",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452570-RaNBi1",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200036",
+         "CGUNWP_GUNWPID":"200036",
+         "CGUNWP_GUNID":"3008",
+         "CGUNWP_WPID":"100007",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1900",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452571-Tcsiuc",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200037",
+         "CGUNWP_GUNWPID":"200037",
+         "CGUNWP_GUNID":"3009",
+         "CGUNWP_WPID":"100001",
+         "CGUNWP_GUNWPQTY":"2",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1900",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452572-lZss1n",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200038",
+         "CGUNWP_GUNWPID":"200038",
+         "CGUNWP_GUNID":"3009",
+         "CGUNWP_WPID":"100003",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1900",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452573-CfdzyY",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200039",
+         "CGUNWP_GUNWPID":"200039",
+         "CGUNWP_GUNID":"3009",
+         "CGUNWP_WPID":"100004",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1900",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452574-BCQiSk",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200040",
+         "CGUNWP_GUNWPID":"200040",
+         "CGUNWP_GUNID":"3009",
+         "CGUNWP_WPID":"100007",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"1900",
+         "CGUNWP_WPALARM":"2000",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452575-FxMOXd",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200041",
+         "CGUNWP_GUNWPID":"200041",
+         "CGUNWP_GUNID":"3010",
+         "CGUNWP_WPID":"100001",
+         "CGUNWP_GUNWPQTY":"2",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"999999",
+         "CGUNWP_WPALARM":"999999",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452576-TCXpKs",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200042",
+         "CGUNWP_GUNWPID":"200042",
+         "CGUNWP_GUNID":"3010",
+         "CGUNWP_WPID":"100003",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"999999",
+         "CGUNWP_WPALARM":"999999",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452577-SW8ELi",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200043",
+         "CGUNWP_GUNWPID":"200043",
+         "CGUNWP_GUNID":"3010",
+         "CGUNWP_WPID":"100004",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"999999",
+         "CGUNWP_WPALARM":"999999",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452578-CZG9lh",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200044",
+         "CGUNWP_GUNWPID":"200044",
+         "CGUNWP_GUNID":"3010",
+         "CGUNWP_WPID":"100007",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"999999",
+         "CGUNWP_WPALARM":"999999",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452579-QnAbzu",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200045",
+         "CGUNWP_GUNWPID":"200045",
+         "CGUNWP_GUNID":"3011",
+         "CGUNWP_WPID":"100001",
+         "CGUNWP_GUNWPQTY":"2",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"999999",
+         "CGUNWP_WPALARM":"999999",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452580-Irbj92",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200046",
+         "CGUNWP_GUNWPID":"200046",
+         "CGUNWP_GUNID":"3011",
+         "CGUNWP_WPID":"100003",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"999999",
+         "CGUNWP_WPALARM":"999999",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452581-uaefSF",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200047",
+         "CGUNWP_GUNWPID":"200047",
+         "CGUNWP_GUNID":"3011",
+         "CGUNWP_WPID":"100004",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"999999",
+         "CGUNWP_WPALARM":"999999",
+         "CGUNWP_CONTROL":"0"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452582-HeWejm",
+     "category":"EQUIPMENT",
+     "nick-name":"CGUNWP_GUNWEARPART",
+     "properties":{
+         "CGUNWP_ID":"200048",
+         "CGUNWP_GUNWPID":"200048",
+         "CGUNWP_GUNID":"3011",
+         "CGUNWP_WPID":"100007",
+         "CGUNWP_GUNWPQTY":"1",
+         "CGUNWP_UNITCHN":"0",
+         "CGUNWP_UNITENG":"0",
+         "CGUNWP_UNITGER":"0",
+         "CGUNWP_WPPREALARM":"999999",
+         "CGUNWP_WPALARM":"999999",
+         "CGUNWP_CONTROL":"0"
+         }
+}
+]

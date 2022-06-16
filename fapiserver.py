@@ -32,9 +32,18 @@ async def index():
     return {'hello': "World!"}
 
 
-@app.get("/testget/{param}")
+@app.get("/hkhget/{param}")
 async def get_id(param):
-    return {"result": param}
+    queries = param[1:].split('&')
+    qdic = {}
+    for q in queries:
+        key, value = q.split('=')
+        key = 'properties.' + key
+        if value.isdigit():
+            value = eval(value)
+        qdic[key] = value
+    res = db.find('TS', qdic)[0]
+    return res
 
 
 @app.post("/plcmsg")

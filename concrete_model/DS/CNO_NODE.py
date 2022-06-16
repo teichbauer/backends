@@ -1,0 +1,362 @@
+[
+{
+     "_id":"APPDB-DS-1653448296-4J7b7y",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"1",
+         "ccc_collectorip":"IT",
+         "ccc_plcflag":"CSWSSCC001",
+         "ccc_id":"SorterControlComputer",
+         "ccc_port":"3"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448297-u7NC70",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"11",
+         "ccc_collectorip":"SQ01",
+         "ccc_plcflag":"SNGJNZQ001",
+         "ccc_id":"SNG Jinan Zhongqi 001",
+         "ccc_port":"3"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448298-QLfXdR",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"12",
+         "ccc_collectorip":"SQ02",
+         "ccc_plcflag":"SNGJNZQ002",
+         "ccc_id":"SNG Jinan Zhongqi 002",
+         "ccc_port":"3"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448299-zWoUsc",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"13",
+         "ccc_collectorip":"SQ03",
+         "ccc_plcflag":"SNGJNZQ003",
+         "ccc_id":"SNG Jinan Zhongqi 003",
+         "ccc_port":"3"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448300-mUJSkE",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"14",
+         "ccc_collectorip":"SQ04",
+         "ccc_plcflag":"SNGJNZQ004",
+         "ccc_id":"SNG Jinan Zhongqi 004",
+         "ccc_port":"3"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448301-8AY81X",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"15",
+         "ccc_collectorip":"SQ05",
+         "ccc_plcflag":"SNGJNZQ005",
+         "ccc_id":"SNG Jinan Zhongqi 005",
+         "ccc_port":"3"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448302-979gFB",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"16",
+         "ccc_collectorip":"SQ06",
+         "ccc_plcflag":"SNGJNZQ006",
+         "ccc_id":"SNG Jinan Zhongqi 006",
+         "ccc_port":"3"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448303-qU1Zzr",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"17",
+         "ccc_collectorip":"SQ07",
+         "ccc_plcflag":"SNGJNZQ007",
+         "ccc_id":"SNG Jinan Zhongqi 007",
+         "ccc_port":"3"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448304-Xtawbu",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"18",
+         "ccc_collectorip":"SQ08",
+         "ccc_plcflag":"SNGJNZQ008",
+         "ccc_id":"SNG Jinan Zhongqi 008",
+         "ccc_port":"3"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448305-9qKGYI",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"19",
+         "ccc_collectorip":"SQ09",
+         "ccc_plcflag":"SNGJNZQ009",
+         "ccc_id":"SNG Jinan Zhongqi 009",
+         "ccc_port":"3"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448306-5Rb9uq",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"20",
+         "ccc_collectorip":"SQ10",
+         "ccc_plcflag":"SNGJNZQ010",
+         "ccc_id":"SNG Jinan Zhongqi 010",
+         "ccc_port":"3"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448307-w0tNiI",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"21",
+         "ccc_collectorip":"SQ11",
+         "ccc_plcflag":"SNGJNZQ011",
+         "ccc_id":"SNG Jinan Zhongqi 011",
+         "ccc_port":"3"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448308-5QQu5V",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"22",
+         "ccc_collectorip":"SQ12",
+         "ccc_plcflag":"SNGJNZQ012",
+         "ccc_id":"SNG Jinan Zhongqi 012",
+         "ccc_port":"3"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448309-PubOt0",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"23",
+         "ccc_collectorip":"SQ13",
+         "ccc_plcflag":"SNGJNZQ013",
+         "ccc_id":"SNG Jinan Zhongqi 013",
+         "ccc_port":"3"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448310-UcBK7r",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"101",
+         "ccc_collectorip":"0",
+         "ccc_plcflag":"CSWSPLC101",
+         "ccc_id":"PLC-SO01",
+         "ccc_port":"12"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448311-qLJ3li",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"102",
+         "ccc_collectorip":"0",
+         "ccc_plcflag":"CSWSPLC102",
+         "ccc_id":"PLC-SO02",
+         "ccc_port":"12"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448312-NwTBoq",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"103",
+         "ccc_collectorip":"0",
+         "ccc_plcflag":"CSWSPLC103",
+         "ccc_id":"PLC-SO03",
+         "ccc_port":"12"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448313-1HSxq9",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"104",
+         "ccc_collectorip":"0",
+         "ccc_plcflag":"CSWSPLC104",
+         "ccc_id":"PLC-SO04",
+         "ccc_port":"12"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448314-uvB9sz",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"105",
+         "ccc_collectorip":"0",
+         "ccc_plcflag":"CSWSPLC105",
+         "ccc_id":"PLC-SO05",
+         "ccc_port":"12"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448315-tOs5kF",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"106",
+         "ccc_collectorip":"0",
+         "ccc_plcflag":"CSWSPLC106",
+         "ccc_id":"PLC-SO06",
+         "ccc_port":"12"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448316-XlhGpa",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"107",
+         "ccc_collectorip":"0",
+         "ccc_plcflag":"CSWSPLC107",
+         "ccc_id":"PLC-SO07",
+         "ccc_port":"12"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448317-Jf7tM2",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"108",
+         "ccc_collectorip":"0",
+         "ccc_plcflag":"CSWSPLC108",
+         "ccc_id":"PLC-SO08",
+         "ccc_port":"12"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448318-Vdf8TP",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"109",
+         "ccc_collectorip":"0",
+         "ccc_plcflag":"CSWSPLC109",
+         "ccc_id":"PLC-SO09",
+         "ccc_port":"12"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448319-u4ALKi",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"110",
+         "ccc_collectorip":"0",
+         "ccc_plcflag":"CSWSPLC110",
+         "ccc_id":"PLC-SO10",
+         "ccc_port":"12"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448320-Augkyc",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"111",
+         "ccc_collectorip":"0",
+         "ccc_plcflag":"CSWSPLC111",
+         "ccc_id":"PLC-SO11",
+         "ccc_port":"12"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448321-VBhZ9v",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"112",
+         "ccc_collectorip":"0",
+         "ccc_plcflag":"CSWSPLC112",
+         "ccc_id":"PLC-SO12",
+         "ccc_port":"12"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448322-FXQDg3",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"113",
+         "ccc_collectorip":"0",
+         "ccc_plcflag":"CSWSPLC113",
+         "ccc_id":"PLC-SO13",
+         "ccc_port":"12"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448323-iZNJIj",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"201",
+         "ccc_collectorip":"0",
+         "ccc_plcflag":"CSWSPLC201",
+         "ccc_id":"PLC-Conveyor",
+         "ccc_port":"11"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448324-f4V68E",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"901",
+         "ccc_collectorip":"0",
+         "ccc_plcflag":"CSWSVCS901",
+         "ccc_id":"VideoCodingSystem",
+         "ccc_port":"17"
+         }
+},
+{
+     "_id":"APPDB-DS-1653448325-aVaOlX",
+     "category":"dictionary",
+     "nick-name":"cno_node",
+     "properties":{
+         "ccc_controlcabinet":"911",
+         "ccc_collectorip":"SSTACK001",
+         "ccc_plcflag":"CSWSSCC001-v",
+         "ccc_id":"virtual SorterStack",
+         "ccc_port":"99"
+         }
+}
+]

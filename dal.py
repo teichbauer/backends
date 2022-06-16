@@ -1,3 +1,4 @@
+from warnings import catch_warnings
 from pymongo import MongoClient
 from tools.gen_id import generate_id
 import pdb
@@ -30,20 +31,21 @@ class DB:
             colname = 'XX'
         return dbname, colname
 
-    def insert_one(self, dic):
+    def insert1(self, dic, cname):
         try:
-            # pdb.set_trace()
-            dname, cname = self.get_names(dic)
-            if '_id' not in dic:
-                the_id = generate_id(dname, cname)
-                dic['_id'] = the_id
+            # mongoDB _id contains onlt 24 bytes. 
+            # APPDB-TS-1653531424212-KnfeDV has 26: 
+            # _id should cut-off db-name: TS-1653531424212-KnfeDV (23 long)
+            # -----------------------------------------------------
+            ID = dic['_id']
+            if ID.startswith(self.db_name):
+                dic['_id'] = ID[6:]
+            # ret = self.db[cname].insert_one(dic)
             ret = self.db[cname].insert_one(dic)
-            if ret.acknowledged:
-                return 'inserted'
-            else:
-                return 'not inserted'
-        except:
-            return 'failed'
+            return bool(ret.acknowledged)
+        except Exception as e:
+            print(str(e))
+            return False
 
     def insert_many(self, dics, cname):
         # -----------------------------------------------------
@@ -59,3 +61,15 @@ class DB:
                 return 'not inserted'
         except:
             return 'failed'
+
+    def find(self, cname, q):
+        results = []
+        coll = self.db[cname] 
+        lst = list(coll.find(q))
+        for e in lst:
+            results.append(e)
+            # print(e)
+        return results
+
+    def delete1(self, cname, the_id):
+        self.db[cname].delete_many({'_id': the_id})

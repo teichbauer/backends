@@ -1,0 +1,41 @@
+------ 2022/6/10 ------
+调整HKH.py数据类型
+可使用 convert 程序 将 .py 转为 .json
+
+------ 2022/6/14 ------
+存入如下已调整好数据类型.py文件：
+PSL_SPOTLOG.py
+PSG_GUN_IMAGE.py
+PSI_SPOT_IMAGE.py
+PSQ_SCORE.py
+XAL_XPEGASUSARCHIVELOG.py
+
+可使用 convert 程序 将 .py 转为 .json
+
+------ 2022/6/15 ------
+增加数据内容说明
+增加数据类型说明
+更改文件名HKH.py为SPOT_DETAIL.py，category从HKH更改MIX
+
+将.py文件按类别存入ES, CS, DS, TS文件夹中
++---------------+-------------------------+-------------+-------------+
+|    py file    |   中文描述              |  collector  | category    |
++---------------+-------------------------+-------------+-------------+
+|   SPOT_DETAL  |   焊点数据融合          |   CS        | MIX         |
+|   PSG         |   焊钳现场布局图坐标    |   CS        | planning    |
+|   PSI         |   焊点集图和坐标        |   CS        | design      |
+|   PSL         |   采集器焊点日志表      |   TS        | activating  |
+|   PSQ         |   焊点新Q值             |   TS        | report      |
+|   XAL         |   控制器归档日志表      |   TS        | activating  |
++---------------+-------------------------+-------------+-------------+
+
+------ 2022/6/16 ------
+SPOT_DETAIL是由如下关系关联并融合而成
+
+PSL.PSL_CREATETIME = PSQ.PSQ_CREATETIME
+PSL.PSL_WORKPIECEID = XAL.XAL_WORKPIECEID
+XAL.XAL_GUNNAME = PSG.PSG_GUNNAME
+XAL.XAL_CURRENTSPOT = PSI.PSI_SPOT_NAME
+PSL.PSL_SEQUENCEID = XAL.XAL_SEQUENCEID
+
+详细说明查看 views_SPOT_DETAIL_SQL.txt

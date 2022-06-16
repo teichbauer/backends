@@ -1,0 +1,6802 @@
+[
+{
+     "_id":"APPDB-CS-1653467313-Csrhwf",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 11",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"56",
+         "SPOT_TOTAL":"56",
+         "OK_COUNT":"50",
+         "OK_PERCENT":"0.892857142857142",
+         "AVG_QVAL":"0.896677",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467314-coeTPq",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 12",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"164",
+         "SPOT_TOTAL":"164",
+         "OK_COUNT":"145",
+         "OK_PERCENT":"0.884146341463414",
+         "AVG_QVAL":"0.023339",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467315-1miKdN",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 12",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"36",
+         "SPOT_TOTAL":"36",
+         "OK_COUNT":"34",
+         "OK_PERCENT":"0.944444444444444",
+         "AVG_QVAL":"0.934816",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467316-3qHkZL",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 12",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"68",
+         "SPOT_TOTAL":"68",
+         "OK_COUNT":"68",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.981023",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467317-wv4W61",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 13",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"144",
+         "SPOT_TOTAL":"144",
+         "OK_COUNT":"133",
+         "OK_PERCENT":"0.923611111111111",
+         "AVG_QVAL":"0.814797",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467318-jigfEx",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 13",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"324",
+         "SPOT_TOTAL":"324",
+         "OK_COUNT":"319",
+         "OK_PERCENT":"0.984567901234567",
+         "AVG_QVAL":"0.949157",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467319-N73mQt",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 13",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"52",
+         "SPOT_TOTAL":"52",
+         "OK_COUNT":"52",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.95451",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467320-M0iL60",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 14",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"104",
+         "SPOT_TOTAL":"104",
+         "OK_COUNT":"103",
+         "OK_PERCENT":"0.990384615384615",
+         "AVG_QVAL":"0.949628",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467321-ykpxXi",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 14",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"131",
+         "SPOT_TOTAL":"131",
+         "OK_COUNT":"112",
+         "OK_PERCENT":"0.854961832061068",
+         "AVG_QVAL":"0.977899",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467322-LZf81n",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 14",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"64",
+         "SPOT_TOTAL":"64",
+         "OK_COUNT":"64",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.882001",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467323-eBEXGT",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 15",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"16",
+         "SPOT_TOTAL":"16",
+         "OK_COUNT":"16",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.952167",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467324-9roWg5",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44670",
+         "TYPE":"3",
+         "MODEL":"700",
+         "CAR_TOTAL":"2400",
+         "SPOT_TOTAL":"2400",
+         "OK_COUNT":"2384",
+         "OK_PERCENT":"0.993333333333333",
+         "AVG_QVAL":"0.980067",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467325-in5KzP",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-19 15",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"224",
+         "SPOT_TOTAL":"224",
+         "OK_COUNT":"224",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.980067",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467326-Oln3gI",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-19 14",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"408",
+         "SPOT_TOTAL":"408",
+         "OK_COUNT":"408",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.981077",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467327-b2VLGs",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44670",
+         "TYPE":"3",
+         "MODEL":"600",
+         "CAR_TOTAL":"1200",
+         "SPOT_TOTAL":"1200",
+         "OK_COUNT":"1198",
+         "OK_PERCENT":"0.998333333333333",
+         "AVG_QVAL":"0.95016",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467328-HK8wmq",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-19 14",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"264",
+         "SPOT_TOTAL":"264",
+         "OK_COUNT":"264",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.95016",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467329-8vCWqQ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-19 13",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"200",
+         "SPOT_TOTAL":"200",
+         "OK_COUNT":"200",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.941831",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467330-fPRGzi",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-19 13",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"392",
+         "SPOT_TOTAL":"392",
+         "OK_COUNT":"392",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.981363",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467331-8pjDYb",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44670",
+         "TYPE":"3",
+         "MODEL":"820",
+         "CAR_TOTAL":"2376",
+         "SPOT_TOTAL":"2376",
+         "OK_COUNT":"2174",
+         "OK_PERCENT":"0.914983164983164",
+         "AVG_QVAL":"0.958765",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467332-xNQRc3",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-19 13",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"612",
+         "SPOT_TOTAL":"612",
+         "OK_COUNT":"566",
+         "OK_PERCENT":"0.924836601307189",
+         "AVG_QVAL":"0.958765",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467333-n9oFaM",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-19 12",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"304",
+         "SPOT_TOTAL":"304",
+         "OK_COUNT":"304",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.984486",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467334-K0Lm8T",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-19 12",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"144",
+         "SPOT_TOTAL":"144",
+         "OK_COUNT":"138",
+         "OK_PERCENT":"0.958333333333333",
+         "AVG_QVAL":"0.946333",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467335-1ORBhT",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-19 12",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"152",
+         "SPOT_TOTAL":"152",
+         "OK_COUNT":"150",
+         "OK_PERCENT":"0.986842105263157",
+         "AVG_QVAL":"0.930193",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467336-XmiNlF",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-19 11",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"48",
+         "SPOT_TOTAL":"48",
+         "OK_COUNT":"48",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.96356",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467337-uGeTzD",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-19 11",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"104",
+         "SPOT_TOTAL":"104",
+         "OK_COUNT":"104",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.981145",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467338-djU0iz",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-19 10",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"200",
+         "SPOT_TOTAL":"200",
+         "OK_COUNT":"200",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.973364",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467339-6VxyfP",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-19 10",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"344",
+         "SPOT_TOTAL":"344",
+         "OK_COUNT":"342",
+         "OK_PERCENT":"0.994186046511627",
+         "AVG_QVAL":"0.979021",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467340-KEJquu",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022",
+         "TYPE":"1",
+         "MODEL":"810",
+         "CAR_TOTAL":"8885",
+         "SPOT_TOTAL":"8885",
+         "OK_COUNT":"8885",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.954629",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467341-49qaGO",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44652",
+         "TYPE":"2",
+         "MODEL":"810",
+         "CAR_TOTAL":"6656",
+         "SPOT_TOTAL":"6656",
+         "OK_COUNT":"6656",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.954629",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467342-YFRUWa",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44670",
+         "TYPE":"3",
+         "MODEL":"810",
+         "CAR_TOTAL":"126",
+         "SPOT_TOTAL":"126",
+         "OK_COUNT":"126",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.954629",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467343-SV5XFP",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-19 10",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"126",
+         "SPOT_TOTAL":"126",
+         "OK_COUNT":"126",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.954629",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467344-4r1vLX",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-19 10",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"486",
+         "SPOT_TOTAL":"486",
+         "OK_COUNT":"436",
+         "OK_PERCENT":"0.897119341563786",
+         "AVG_QVAL":"0.915184",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467345-gty6Zw",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-19 09",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"864",
+         "SPOT_TOTAL":"864",
+         "OK_COUNT":"788",
+         "OK_PERCENT":"0.912037037037037",
+         "AVG_QVAL":"0.930573",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467346-xPbrGb",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-19 09",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"200",
+         "SPOT_TOTAL":"200",
+         "OK_COUNT":"200",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.966659",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467347-HsYT2z",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-19 09",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"380",
+         "SPOT_TOTAL":"380",
+         "OK_COUNT":"376",
+         "OK_PERCENT":"0.989473684210526",
+         "AVG_QVAL":"0.976535",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467348-EJXKUd",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-19 08",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"244",
+         "SPOT_TOTAL":"244",
+         "OK_COUNT":"234",
+         "OK_PERCENT":"0.959016393442622",
+         "AVG_QVAL":"0.930412",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467349-9u37uk",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-19 08",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"136",
+         "SPOT_TOTAL":"136",
+         "OK_COUNT":"136",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.954492",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467350-shjlp6",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-19 08",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"270",
+         "SPOT_TOTAL":"270",
+         "OK_COUNT":"246",
+         "OK_PERCENT":"0.911111111111111",
+         "AVG_QVAL":"0.94568",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467351-piw6QM",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44669",
+         "TYPE":"3",
+         "MODEL":"810",
+         "CAR_TOTAL":"981",
+         "SPOT_TOTAL":"981",
+         "OK_COUNT":"981",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.928255",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467352-RuPHTJ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 17",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"180",
+         "SPOT_TOTAL":"180",
+         "OK_COUNT":"180",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.928255",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467353-W94Baz",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 16",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"360",
+         "SPOT_TOTAL":"360",
+         "OK_COUNT":"360",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.960304",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467354-4KUCUD",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 16",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"272",
+         "SPOT_TOTAL":"272",
+         "OK_COUNT":"272",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.980029",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467355-FWodBd",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 16",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"92",
+         "SPOT_TOTAL":"92",
+         "OK_COUNT":"92",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.935252",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467356-ZvhqHv",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 15",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"448",
+         "SPOT_TOTAL":"448",
+         "OK_COUNT":"448",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.981595",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467357-ju812Y",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 15",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"468",
+         "SPOT_TOTAL":"468",
+         "OK_COUNT":"466",
+         "OK_PERCENT":"0.995726495726495",
+         "AVG_QVAL":"0.933296",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467358-jql8sz",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 14",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"456",
+         "SPOT_TOTAL":"456",
+         "OK_COUNT":"454",
+         "OK_PERCENT":"0.995614035087719",
+         "AVG_QVAL":"0.983426",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467359-vFX1Ob",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 14",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"292",
+         "SPOT_TOTAL":"292",
+         "OK_COUNT":"292",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.959029",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467360-XETzT6",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 11",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"18",
+         "SPOT_TOTAL":"18",
+         "OK_COUNT":"18",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.973692",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467361-OJqRea",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 11",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"40",
+         "SPOT_TOTAL":"40",
+         "OK_COUNT":"40",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.981153",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467362-NhBXRl",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 11",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"81",
+         "SPOT_TOTAL":"81",
+         "OK_COUNT":"73",
+         "OK_PERCENT":"0.901234567901234",
+         "AVG_QVAL":"0.972126",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467363-cL6U0Y",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 10",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"196",
+         "SPOT_TOTAL":"196",
+         "OK_COUNT":"175",
+         "OK_PERCENT":"0.892857142857142",
+         "AVG_QVAL":"0.962402",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467364-4MIte4",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 10",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"60",
+         "SPOT_TOTAL":"60",
+         "OK_COUNT":"60",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.963586",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467365-rb6BnR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 10",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"84",
+         "SPOT_TOTAL":"84",
+         "OK_COUNT":"80",
+         "OK_PERCENT":"0.952380952380952",
+         "AVG_QVAL":"0.979498",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467366-FB6tf9",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 09",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"74",
+         "SPOT_TOTAL":"74",
+         "OK_COUNT":"74",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.961049",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467367-Vvgd5B",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 09",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"124",
+         "SPOT_TOTAL":"124",
+         "OK_COUNT":"123",
+         "OK_PERCENT":"0.991935483870967",
+         "AVG_QVAL":"0.97943",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467368-QFS0lO",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 09",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"63",
+         "SPOT_TOTAL":"63",
+         "OK_COUNT":"56",
+         "OK_PERCENT":"0.888888888888888",
+         "AVG_QVAL":"0.963848",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467369-Nme0vJ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 09",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"216",
+         "SPOT_TOTAL":"216",
+         "OK_COUNT":"216",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.910955",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467370-7OjKY7",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 08",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"68",
+         "SPOT_TOTAL":"68",
+         "OK_COUNT":"68",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.922376",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467371-dfuwnW",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 08",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"100",
+         "SPOT_TOTAL":"100",
+         "OK_COUNT":"99",
+         "OK_PERCENT":"0.99",
+         "AVG_QVAL":"0.983758",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467372-8b4ONR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 08",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"225",
+         "SPOT_TOTAL":"225",
+         "OK_COUNT":"225",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.934872",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467373-kinvpw",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44663",
+         "TYPE":"3",
+         "MODEL":"600",
+         "CAR_TOTAL":"830",
+         "SPOT_TOTAL":"830",
+         "OK_COUNT":"830",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.934707",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467374-TEiBzz",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-12 16",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"30",
+         "SPOT_TOTAL":"30",
+         "OK_COUNT":"30",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.934707",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467375-LxUrqv",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-12 15",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"84",
+         "SPOT_TOTAL":"84",
+         "OK_COUNT":"84",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.922246",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467376-3FXk6f",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44663",
+         "TYPE":"3",
+         "MODEL":"700",
+         "CAR_TOTAL":"800",
+         "SPOT_TOTAL":"800",
+         "OK_COUNT":"800",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.979878",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467377-4A1WpM",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-12 15",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"120",
+         "SPOT_TOTAL":"120",
+         "OK_COUNT":"120",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.979878",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467378-jnZCWN",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-12 14",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"108",
+         "SPOT_TOTAL":"108",
+         "OK_COUNT":"108",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.979676",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467379-iEcVPL",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-12 13",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"85",
+         "SPOT_TOTAL":"85",
+         "OK_COUNT":"85",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.976403",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467380-X6GqVO",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-12 13",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"148",
+         "SPOT_TOTAL":"148",
+         "OK_COUNT":"148",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.974955",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467381-NwDCAs",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-12 12",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"83",
+         "SPOT_TOTAL":"83",
+         "OK_COUNT":"83",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.958253",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467382-5UXNDK",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-12 12",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"154",
+         "SPOT_TOTAL":"154",
+         "OK_COUNT":"154",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.96596",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467383-CdrI1o",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-12 11",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"54",
+         "SPOT_TOTAL":"54",
+         "OK_COUNT":"54",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.918536",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467384-bEeYe1",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-12 11",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"56",
+         "SPOT_TOTAL":"56",
+         "OK_COUNT":"56",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.976356",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467385-9zjBpo",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-12 10",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"134",
+         "SPOT_TOTAL":"134",
+         "OK_COUNT":"134",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.974465",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467386-3VMnLI",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-12 10",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"148",
+         "SPOT_TOTAL":"148",
+         "OK_COUNT":"148",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.975389",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467387-ravTYa",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-12 09",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"164",
+         "SPOT_TOTAL":"164",
+         "OK_COUNT":"164",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.984621",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467388-AVQuxC",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-12 09",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"144",
+         "SPOT_TOTAL":"144",
+         "OK_COUNT":"144",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.973239",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467389-PFLsTW",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-12 08",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"62",
+         "SPOT_TOTAL":"62",
+         "OK_COUNT":"62",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.94185",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467390-aoHFKD",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-12 08",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"56",
+         "SPOT_TOTAL":"56",
+         "OK_COUNT":"56",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.974812",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467391-Tv4L3F",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44660",
+         "TYPE":"3",
+         "MODEL":"600",
+         "CAR_TOTAL":"408",
+         "SPOT_TOTAL":"408",
+         "OK_COUNT":"408",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.929168",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467392-XjKgaf",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-09 16",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"10",
+         "SPOT_TOTAL":"10",
+         "OK_COUNT":"10",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.929168",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467393-Z0xEnb",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44660",
+         "TYPE":"3",
+         "MODEL":"810",
+         "CAR_TOTAL":"477",
+         "SPOT_TOTAL":"477",
+         "OK_COUNT":"477",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.959295",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467394-i3mtgM",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-09 16",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"279",
+         "SPOT_TOTAL":"279",
+         "OK_COUNT":"279",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.959295",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467395-N5QBAs",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-09 15",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"108",
+         "SPOT_TOTAL":"108",
+         "OK_COUNT":"108",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.922032",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467396-O1nk7G",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44660",
+         "TYPE":"3",
+         "MODEL":"820",
+         "CAR_TOTAL":"261",
+         "SPOT_TOTAL":"261",
+         "OK_COUNT":"261",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.959808",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467397-WobfOp",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-09 14",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"18",
+         "SPOT_TOTAL":"18",
+         "OK_COUNT":"18",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.959808",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467398-9j420N",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-09 13",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"40",
+         "SPOT_TOTAL":"40",
+         "OK_COUNT":"40",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.908908",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467399-oVPL8J",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44660",
+         "TYPE":"3",
+         "MODEL":"700",
+         "CAR_TOTAL":"720",
+         "SPOT_TOTAL":"720",
+         "OK_COUNT":"720",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.962554",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467400-p1QEX8",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-09 13",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"56",
+         "SPOT_TOTAL":"56",
+         "OK_COUNT":"56",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.962554",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467401-jZxy8H",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-09 13",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"135",
+         "SPOT_TOTAL":"135",
+         "OK_COUNT":"135",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.975398",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467402-yT4m7L",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-09 12",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"108",
+         "SPOT_TOTAL":"108",
+         "OK_COUNT":"108",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.978788",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467403-i8ZEqB",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-09 12",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"104",
+         "SPOT_TOTAL":"104",
+         "OK_COUNT":"104",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.962199",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467404-ihxoHN",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-09 12",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"90",
+         "SPOT_TOTAL":"90",
+         "OK_COUNT":"90",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.98013",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467405-adScP9",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-09 11",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"36",
+         "SPOT_TOTAL":"36",
+         "OK_COUNT":"36",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.97148",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467406-Ac4sv4",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-09 11",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"14",
+         "SPOT_TOTAL":"14",
+         "OK_COUNT":"14",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.989833",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467407-6UXmWT",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-09 10",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"156",
+         "SPOT_TOTAL":"156",
+         "OK_COUNT":"156",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.972679",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467408-kqWhnu",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-09 10",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"192",
+         "SPOT_TOTAL":"192",
+         "OK_COUNT":"192",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.969614",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467409-ZFS789",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-09 09",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"200",
+         "SPOT_TOTAL":"200",
+         "OK_COUNT":"200",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.968826",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467410-ML2XjA",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-09 09",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"110",
+         "SPOT_TOTAL":"110",
+         "OK_COUNT":"110",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.964615",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467411-56SqDL",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-09 08",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"132",
+         "SPOT_TOTAL":"132",
+         "OK_COUNT":"132",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.968337",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467412-COtKeh",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-09 08",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"78",
+         "SPOT_TOTAL":"78",
+         "OK_COUNT":"78",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.945838",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467413-H0R9GO",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44659",
+         "TYPE":"3",
+         "MODEL":"700",
+         "CAR_TOTAL":"1078",
+         "SPOT_TOTAL":"1078",
+         "OK_COUNT":"1078",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.959431",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467414-aBGRRB",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 16",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"36",
+         "SPOT_TOTAL":"36",
+         "OK_COUNT":"36",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.959431",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467415-loeFep",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44659",
+         "TYPE":"3",
+         "MODEL":"810",
+         "CAR_TOTAL":"1197",
+         "SPOT_TOTAL":"1197",
+         "OK_COUNT":"1197",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.982308",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467416-LXV3jB",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 16",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"36",
+         "SPOT_TOTAL":"36",
+         "OK_COUNT":"36",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.982308",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467417-8DYyqa",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 15",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"126",
+         "SPOT_TOTAL":"126",
+         "OK_COUNT":"126",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.982632",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467418-6A8dOs",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 15",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"156",
+         "SPOT_TOTAL":"156",
+         "OK_COUNT":"156",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.960745",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467419-vAqp7r",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 14",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"160",
+         "SPOT_TOTAL":"160",
+         "OK_COUNT":"160",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.96491",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467420-DSYVgB",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 14",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"153",
+         "SPOT_TOTAL":"153",
+         "OK_COUNT":"153",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.964743",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467421-PpOrIR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44659",
+         "TYPE":"3",
+         "MODEL":"600",
+         "CAR_TOTAL":"482",
+         "SPOT_TOTAL":"482",
+         "OK_COUNT":"482",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.915956",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467422-YWs2jx",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 14",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"34",
+         "SPOT_TOTAL":"34",
+         "OK_COUNT":"34",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.915956",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467423-KtgTNe",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 13",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"342",
+         "SPOT_TOTAL":"342",
+         "OK_COUNT":"342",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.884068",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467424-tZ4jVh",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 13",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"152",
+         "SPOT_TOTAL":"152",
+         "OK_COUNT":"152",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.967032",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467425-NbTLVh",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 13",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"94",
+         "SPOT_TOTAL":"94",
+         "OK_COUNT":"94",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.970177",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467426-d00ssA",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 12",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"315",
+         "SPOT_TOTAL":"315",
+         "OK_COUNT":"315",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.981112",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467427-xqVCmA",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 12",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"74",
+         "SPOT_TOTAL":"74",
+         "OK_COUNT":"74",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.972685",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467428-dVlRNC",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 12",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"136",
+         "SPOT_TOTAL":"136",
+         "OK_COUNT":"136",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.970466",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467429-1BY2x7",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 11",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"40",
+         "SPOT_TOTAL":"40",
+         "OK_COUNT":"40",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.966679",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467430-Xa20B2",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 11",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"22",
+         "SPOT_TOTAL":"22",
+         "OK_COUNT":"22",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.970768",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467431-TCzpPs",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 10",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"168",
+         "SPOT_TOTAL":"168",
+         "OK_COUNT":"168",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.967703",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467432-M9j6mM",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 10",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"90",
+         "SPOT_TOTAL":"90",
+         "OK_COUNT":"90",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.968565",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467433-59qnVm",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44659",
+         "TYPE":"3",
+         "MODEL":"820",
+         "CAR_TOTAL":"441",
+         "SPOT_TOTAL":"441",
+         "OK_COUNT":"441",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.988272",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467434-OD54og",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 10",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"153",
+         "SPOT_TOTAL":"153",
+         "OK_COUNT":"153",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.988272",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467435-ThVq6j",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 09",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"279",
+         "SPOT_TOTAL":"279",
+         "OK_COUNT":"279",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.984579",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467436-UrdBIO",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 09",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"94",
+         "SPOT_TOTAL":"94",
+         "OK_COUNT":"94",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.946525",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467437-t8ADIH",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 09",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"126",
+         "SPOT_TOTAL":"126",
+         "OK_COUNT":"126",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.971727",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467438-g3kRpw",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 08",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"9",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.983279",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467439-0zx8xU",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 08",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"74",
+         "SPOT_TOTAL":"74",
+         "OK_COUNT":"74",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.976214",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467440-cJEMnN",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 08",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"100",
+         "SPOT_TOTAL":"100",
+         "OK_COUNT":"100",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.969691",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467441-U53jOg",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 08",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"216",
+         "SPOT_TOTAL":"216",
+         "OK_COUNT":"216",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.976114",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467442-ZknG2W",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 07",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"9",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.93951",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467443-WVcUE2",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-08 07",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"4",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.978027",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467444-Z8DoBN",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44658",
+         "TYPE":"3",
+         "MODEL":"810",
+         "CAR_TOTAL":"1895",
+         "SPOT_TOTAL":"1895",
+         "OK_COUNT":"1895",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.955211",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467445-WqnYE5",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 18",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"7",
+         "SPOT_TOTAL":"7",
+         "OK_COUNT":"7",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.955211",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467446-SgHixO",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 17",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"16",
+         "SPOT_TOTAL":"16",
+         "OK_COUNT":"16",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.936908",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467447-rHOu8e",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44658",
+         "TYPE":"3",
+         "MODEL":"700",
+         "CAR_TOTAL":"1325",
+         "SPOT_TOTAL":"1325",
+         "OK_COUNT":"1314",
+         "OK_PERCENT":"0.991698113207547",
+         "AVG_QVAL":"0.97805",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467448-1o0Ljo",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 17",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"3",
+         "SPOT_TOTAL":"3",
+         "OK_COUNT":"3",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.97805",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467449-Vb0qa0",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 16",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"150",
+         "SPOT_TOTAL":"150",
+         "OK_COUNT":"139",
+         "OK_PERCENT":"0.926666666666666",
+         "AVG_QVAL":"0",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467450-DNHJSz",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 16",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"315",
+         "SPOT_TOTAL":"315",
+         "OK_COUNT":"315",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.936672",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467451-Lkm7CE",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44658",
+         "TYPE":"3",
+         "MODEL":"600",
+         "CAR_TOTAL":"758",
+         "SPOT_TOTAL":"758",
+         "OK_COUNT":"758",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.975804",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467452-aZhbPL",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 16",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"34",
+         "SPOT_TOTAL":"34",
+         "OK_COUNT":"34",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.975804",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467453-xETXOj",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 15",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"98",
+         "SPOT_TOTAL":"98",
+         "OK_COUNT":"98",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.97838",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467454-pttsZe",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 15",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"292",
+         "SPOT_TOTAL":"292",
+         "OK_COUNT":"292",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.960492",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467455-OvMWLX",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 15",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"128",
+         "SPOT_TOTAL":"128",
+         "OK_COUNT":"128",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467456-YYDnJ8",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 14",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"384",
+         "SPOT_TOTAL":"384",
+         "OK_COUNT":"384",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.937149",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467457-qMiIWa",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 14",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"96",
+         "SPOT_TOTAL":"96",
+         "OK_COUNT":"96",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.965359",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467458-5WQpZR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 14",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"172",
+         "SPOT_TOTAL":"172",
+         "OK_COUNT":"172",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467459-nXUAsA",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 13",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"206",
+         "SPOT_TOTAL":"206",
+         "OK_COUNT":"206",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.978535",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467460-S6ODMI",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 13",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"100",
+         "SPOT_TOTAL":"100",
+         "OK_COUNT":"100",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.966033",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467461-VrK7HX",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 13",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"156",
+         "SPOT_TOTAL":"156",
+         "OK_COUNT":"156",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467462-Fm1xN3",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 12",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"156",
+         "SPOT_TOTAL":"156",
+         "OK_COUNT":"156",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467463-TyuI7i",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 12",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"66",
+         "SPOT_TOTAL":"66",
+         "OK_COUNT":"66",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.98618",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467464-B4zRS4",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 12",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"90",
+         "SPOT_TOTAL":"90",
+         "OK_COUNT":"90",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.970842",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467465-nvX0BO",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 11",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"99",
+         "SPOT_TOTAL":"99",
+         "OK_COUNT":"99",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.983141",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467466-Rv47Q6",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 11",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"18",
+         "SPOT_TOTAL":"18",
+         "OK_COUNT":"18",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.990695",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467467-WprpeS",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 11",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"36",
+         "SPOT_TOTAL":"36",
+         "OK_COUNT":"36",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467468-qtALRS",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 10",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"288",
+         "SPOT_TOTAL":"288",
+         "OK_COUNT":"288",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.973945",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467469-dGoSkL",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 10",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"118",
+         "SPOT_TOTAL":"118",
+         "OK_COUNT":"118",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.985209",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467470-EuZADz",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 10",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"196",
+         "SPOT_TOTAL":"196",
+         "OK_COUNT":"196",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467471-yKFMG2",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 09",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"138",
+         "SPOT_TOTAL":"138",
+         "OK_COUNT":"138",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.986309",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467472-up17Xt",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 09",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"196",
+         "SPOT_TOTAL":"196",
+         "OK_COUNT":"196",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467473-FiiEyC",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44658",
+         "TYPE":"3",
+         "MODEL":"820",
+         "CAR_TOTAL":"261",
+         "SPOT_TOTAL":"261",
+         "OK_COUNT":"261",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.977845",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467474-B7RCEd",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 09",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"261",
+         "SPOT_TOTAL":"261",
+         "OK_COUNT":"261",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.977845",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467475-lY2Whz",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 08",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"132",
+         "SPOT_TOTAL":"132",
+         "OK_COUNT":"132",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467476-2I7IhB",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 08",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"90",
+         "SPOT_TOTAL":"90",
+         "OK_COUNT":"90",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.965283",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467477-sxqoJn",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-07 08",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"198",
+         "SPOT_TOTAL":"198",
+         "OK_COUNT":"198",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.960208",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467478-zFzpMi",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44656",
+         "TYPE":"3",
+         "MODEL":"820",
+         "CAR_TOTAL":"522",
+         "SPOT_TOTAL":"522",
+         "OK_COUNT":"522",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.982617",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467479-IX1sQv",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 16",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"90",
+         "SPOT_TOTAL":"90",
+         "OK_COUNT":"90",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.982617",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467480-rJsNSc",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 15",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"405",
+         "SPOT_TOTAL":"405",
+         "OK_COUNT":"405",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.981773",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467481-l6vF6n",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44656",
+         "TYPE":"3",
+         "MODEL":"600",
+         "CAR_TOTAL":"482",
+         "SPOT_TOTAL":"482",
+         "OK_COUNT":"482",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.975825",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467482-XurLEL",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 15",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"78",
+         "SPOT_TOTAL":"78",
+         "OK_COUNT":"78",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.975825",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467483-o1vV3c",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44656",
+         "TYPE":"3",
+         "MODEL":"700",
+         "CAR_TOTAL":"884",
+         "SPOT_TOTAL":"884",
+         "OK_COUNT":"884",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467484-c2iZ2F",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 15",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"28",
+         "SPOT_TOTAL":"28",
+         "OK_COUNT":"28",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467485-uhN6qb",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 14",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"27",
+         "SPOT_TOTAL":"27",
+         "OK_COUNT":"27",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.977387",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467486-nIRx1o",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 14",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"88",
+         "SPOT_TOTAL":"88",
+         "OK_COUNT":"88",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.970672",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467487-ezNaJp",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 14",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"188",
+         "SPOT_TOTAL":"188",
+         "OK_COUNT":"188",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467488-XfhBPa",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 13",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"62",
+         "SPOT_TOTAL":"62",
+         "OK_COUNT":"62",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.968018",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467489-qp4lPU",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 13",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"156",
+         "SPOT_TOTAL":"156",
+         "OK_COUNT":"156",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467490-vPL3ij",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44656",
+         "TYPE":"3",
+         "MODEL":"810",
+         "CAR_TOTAL":"1215",
+         "SPOT_TOTAL":"1215",
+         "OK_COUNT":"1215",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.964466",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467491-EORvzt",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 12",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"270",
+         "SPOT_TOTAL":"270",
+         "OK_COUNT":"270",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.964466",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467492-wBcqK6",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 12",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"54",
+         "SPOT_TOTAL":"54",
+         "OK_COUNT":"54",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.92473",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467493-VEjv0z",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 12",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"120",
+         "SPOT_TOTAL":"120",
+         "OK_COUNT":"120",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467494-25Edln",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 11",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"122",
+         "SPOT_TOTAL":"122",
+         "OK_COUNT":"122",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.970677",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467495-4ijW9a",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 11",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"52",
+         "SPOT_TOTAL":"52",
+         "OK_COUNT":"52",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467496-CFLHEh",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 11",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"24",
+         "SPOT_TOTAL":"24",
+         "OK_COUNT":"24",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.945295",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467497-1wOh31",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 10",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"326",
+         "SPOT_TOTAL":"326",
+         "OK_COUNT":"326",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.964897",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467498-Tn0eLO",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 10",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"120",
+         "SPOT_TOTAL":"120",
+         "OK_COUNT":"120",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467499-CDa3Nb",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 10",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"68",
+         "SPOT_TOTAL":"68",
+         "OK_COUNT":"68",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.919726",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467500-uu7XVQ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 09",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"398",
+         "SPOT_TOTAL":"398",
+         "OK_COUNT":"398",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.975172",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467501-CN7oH4",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 09",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"180",
+         "SPOT_TOTAL":"180",
+         "OK_COUNT":"180",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467502-FK3ER5",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 09",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"88",
+         "SPOT_TOTAL":"88",
+         "OK_COUNT":"88",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467503-NfClGJ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 08",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"99",
+         "SPOT_TOTAL":"99",
+         "OK_COUNT":"99",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.955244",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467504-mFXoUz",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 08",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"20",
+         "SPOT_TOTAL":"20",
+         "OK_COUNT":"20",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.939242",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467505-pvtLTI",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-05 08",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"40",
+         "SPOT_TOTAL":"40",
+         "OK_COUNT":"40",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467506-SKKLM3",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44680",
+         "TYPE":"3",
+         "MODEL":"700",
+         "CAR_TOTAL":"136",
+         "SPOT_TOTAL":"136",
+         "OK_COUNT":"121",
+         "OK_PERCENT":"0.889705882352941",
+         "AVG_QVAL":"0.933376",
+         "CREATED_TIME":"44680",
+         "UPDATED_TIME":"44680"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467507-hQJ8ND",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-29 08",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"136",
+         "SPOT_TOTAL":"136",
+         "OK_COUNT":"121",
+         "OK_PERCENT":"0.889705882352941",
+         "AVG_QVAL":"0.933376",
+         "CREATED_TIME":"44680",
+         "UPDATED_TIME":"44680"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467508-cktnsT",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44678",
+         "TYPE":"3",
+         "MODEL":"600",
+         "CAR_TOTAL":"396",
+         "SPOT_TOTAL":"396",
+         "OK_COUNT":"396",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.900956",
+         "CREATED_TIME":"44680",
+         "UPDATED_TIME":"44680"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467509-Zzigps",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-27 12",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"159",
+         "SPOT_TOTAL":"159",
+         "OK_COUNT":"159",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.900956",
+         "CREATED_TIME":"44680",
+         "UPDATED_TIME":"44680"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467510-bwvUhH",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44680",
+         "TYPE":"3",
+         "MODEL":"820",
+         "CAR_TOTAL":"396",
+         "SPOT_TOTAL":"396",
+         "OK_COUNT":"380",
+         "OK_PERCENT":"0.959595959595959",
+         "AVG_QVAL":"0.910737",
+         "CREATED_TIME":"44680",
+         "UPDATED_TIME":"44680"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467511-QGEbxR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-29 08",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"9",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"8",
+         "OK_PERCENT":"0.888888888888888",
+         "AVG_QVAL":"0.910737",
+         "CREATED_TIME":"44680",
+         "UPDATED_TIME":"44680"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467512-6jdum5",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-29 09",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"387",
+         "SPOT_TOTAL":"387",
+         "OK_COUNT":"372",
+         "OK_PERCENT":"0.961240310077519",
+         "AVG_QVAL":"0.917449",
+         "CREATED_TIME":"44680",
+         "UPDATED_TIME":"44680"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467513-bBNyc0",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-27 13",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"215",
+         "SPOT_TOTAL":"215",
+         "OK_COUNT":"215",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.950996",
+         "CREATED_TIME":"44680",
+         "UPDATED_TIME":"44680"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467514-WNbBLW",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-27 14",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"22",
+         "SPOT_TOTAL":"22",
+         "OK_COUNT":"22",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.882355",
+         "CREATED_TIME":"44680",
+         "UPDATED_TIME":"44680"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467515-MkNAfn",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44680",
+         "TYPE":"3",
+         "MODEL":"600",
+         "CAR_TOTAL":"120",
+         "SPOT_TOTAL":"120",
+         "OK_COUNT":"120",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.874526",
+         "CREATED_TIME":"44680",
+         "UPDATED_TIME":"44680"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467516-hJeMQ5",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-29 08",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"120",
+         "SPOT_TOTAL":"120",
+         "OK_COUNT":"120",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.874526",
+         "CREATED_TIME":"44680",
+         "UPDATED_TIME":"44680"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467517-PtZsX3",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44682",
+         "TYPE":"2",
+         "MODEL":"810",
+         "CAR_TOTAL":"2229",
+         "SPOT_TOTAL":"2229",
+         "OK_COUNT":"2229",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.915647",
+         "CREATED_TIME":"44685",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467518-2dFMOG",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44685",
+         "TYPE":"3",
+         "MODEL":"810",
+         "CAR_TOTAL":"99",
+         "SPOT_TOTAL":"99",
+         "OK_COUNT":"99",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.915647",
+         "CREATED_TIME":"44685",
+         "UPDATED_TIME":"44685"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467519-4dFGrD",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-04 14",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"99",
+         "SPOT_TOTAL":"99",
+         "OK_COUNT":"99",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.915647",
+         "CREATED_TIME":"44685",
+         "UPDATED_TIME":"44685"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467520-K4C96E",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44682",
+         "TYPE":"2",
+         "MODEL":"820",
+         "CAR_TOTAL":"4176",
+         "SPOT_TOTAL":"4176",
+         "OK_COUNT":"4057",
+         "OK_PERCENT":"0.971503831417624",
+         "AVG_QVAL":"0.949562",
+         "CREATED_TIME":"44685",
+         "UPDATED_TIME":"44705"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467521-7OyUBP",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44685",
+         "TYPE":"3",
+         "MODEL":"820",
+         "CAR_TOTAL":"234",
+         "SPOT_TOTAL":"234",
+         "OK_COUNT":"234",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.949562",
+         "CREATED_TIME":"44685",
+         "UPDATED_TIME":"44685"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467522-RZLCng",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-04 14",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"189",
+         "SPOT_TOTAL":"189",
+         "OK_COUNT":"189",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.949562",
+         "CREATED_TIME":"44685",
+         "UPDATED_TIME":"44685"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467523-D1eL2B",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-04 15",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"45",
+         "SPOT_TOTAL":"45",
+         "OK_COUNT":"45",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.965327",
+         "CREATED_TIME":"44685",
+         "UPDATED_TIME":"44685"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467524-fdH9oI",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44682",
+         "TYPE":"2",
+         "MODEL":"700",
+         "CAR_TOTAL":"4763",
+         "SPOT_TOTAL":"4763",
+         "OK_COUNT":"4581",
+         "OK_PERCENT":"0.961788788578626",
+         "AVG_QVAL":"0.777953",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44705"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467525-6U66Yy",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44690",
+         "TYPE":"3",
+         "MODEL":"700",
+         "CAR_TOTAL":"1233",
+         "SPOT_TOTAL":"1233",
+         "OK_COUNT":"1180",
+         "OK_PERCENT":"0.957015409570154",
+         "AVG_QVAL":"0.777953",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467526-82WttL",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 08",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"12",
+         "SPOT_TOTAL":"12",
+         "OK_COUNT":"10",
+         "OK_PERCENT":"0.833333333333333",
+         "AVG_QVAL":"0.777953",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44690"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467527-TyxiiD",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44682",
+         "TYPE":"2",
+         "MODEL":"600",
+         "CAR_TOTAL":"2309",
+         "SPOT_TOTAL":"2309",
+         "OK_COUNT":"2309",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.90468",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44705"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467528-xFRuVV",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44690",
+         "TYPE":"3",
+         "MODEL":"600",
+         "CAR_TOTAL":"418",
+         "SPOT_TOTAL":"418",
+         "OK_COUNT":"418",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.90468",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467529-hHYZCc",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 08",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"66",
+         "SPOT_TOTAL":"66",
+         "OK_COUNT":"66",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.90468",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44690"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467530-PJ578f",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 09",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"110",
+         "SPOT_TOTAL":"110",
+         "OK_COUNT":"110",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.969895",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44690"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467531-us5n5e",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44690",
+         "TYPE":"3",
+         "MODEL":"810",
+         "CAR_TOTAL":"702",
+         "SPOT_TOTAL":"702",
+         "OK_COUNT":"702",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.957256",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44690"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467532-gch3wq",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 09",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"288",
+         "SPOT_TOTAL":"288",
+         "OK_COUNT":"288",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.957256",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44690"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467533-yl5kGR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 09",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"124",
+         "SPOT_TOTAL":"124",
+         "OK_COUNT":"107",
+         "OK_PERCENT":"0.862903225806451",
+         "AVG_QVAL":"0.781932",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44690"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467534-vkuYey",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 10",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"136",
+         "SPOT_TOTAL":"136",
+         "OK_COUNT":"129",
+         "OK_PERCENT":"0.948529411764705",
+         "AVG_QVAL":"0.799123",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44690"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467535-jnslPL",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 10",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"104",
+         "SPOT_TOTAL":"104",
+         "OK_COUNT":"104",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.968492",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44690"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467536-9klGHX",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 10",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"261",
+         "SPOT_TOTAL":"261",
+         "OK_COUNT":"261",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.966073",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44690"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467537-9lrxRS",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44690",
+         "TYPE":"3",
+         "MODEL":"820",
+         "CAR_TOTAL":"549",
+         "SPOT_TOTAL":"549",
+         "OK_COUNT":"528",
+         "OK_PERCENT":"0.961748633879781",
+         "AVG_QVAL":"0.966446",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467538-odB77k",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 11",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"9",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.966446",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44690"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467539-hUYoNh",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 11",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"4",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.847999",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44690"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467540-W6b65W",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 12",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"162",
+         "SPOT_TOTAL":"162",
+         "OK_COUNT":"149",
+         "OK_PERCENT":"0.919753086419753",
+         "AVG_QVAL":"0.975099",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44690"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467541-tacu1A",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 12",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"150",
+         "SPOT_TOTAL":"150",
+         "OK_COUNT":"144",
+         "OK_PERCENT":"0.96",
+         "AVG_QVAL":"0.911887",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44690"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467542-RyGXGU",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 12",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"58",
+         "SPOT_TOTAL":"58",
+         "OK_COUNT":"58",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.965183",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44690"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467543-upAWY4",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 13",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"149",
+         "SPOT_TOTAL":"149",
+         "OK_COUNT":"144",
+         "OK_PERCENT":"0.966442953020134",
+         "AVG_QVAL":"0.972988",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44690"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467544-JCMEnP",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 13",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"144",
+         "SPOT_TOTAL":"144",
+         "OK_COUNT":"144",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.941081",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44690"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467545-87Pfyg",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 13",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"22",
+         "SPOT_TOTAL":"22",
+         "OK_COUNT":"22",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.961179",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44690"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467546-FeAhyA",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 14",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"58",
+         "SPOT_TOTAL":"58",
+         "OK_COUNT":"58",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.980376",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467547-q7316G",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 14",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"326",
+         "SPOT_TOTAL":"326",
+         "OK_COUNT":"314",
+         "OK_PERCENT":"0.963190184049079",
+         "AVG_QVAL":"0.934829",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467548-QRVj1O",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 14",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"9",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.937288",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44690"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467549-IR5Z3y",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 14",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"360",
+         "SPOT_TOTAL":"360",
+         "OK_COUNT":"352",
+         "OK_PERCENT":"0.977777777777777",
+         "AVG_QVAL":"0.964321",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467550-pnTR1q",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 15",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"332",
+         "SPOT_TOTAL":"332",
+         "OK_COUNT":"328",
+         "OK_PERCENT":"0.987951807228915",
+         "AVG_QVAL":"0.940535",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467551-XtbsPF",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-09 15",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"18",
+         "SPOT_TOTAL":"18",
+         "OK_COUNT":"18",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.96962",
+         "CREATED_TIME":"44690",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467552-tMXmuT",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44691",
+         "TYPE":"3",
+         "MODEL":"820",
+         "CAR_TOTAL":"1379",
+         "SPOT_TOTAL":"1379",
+         "OK_COUNT":"1320",
+         "OK_PERCENT":"0.957215373459028",
+         "AVG_QVAL":"0.982328",
+         "CREATED_TIME":"44691",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467553-ibx23g",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-10 08",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"929",
+         "SPOT_TOTAL":"929",
+         "OK_COUNT":"878",
+         "OK_PERCENT":"0.945102260495156",
+         "AVG_QVAL":"0.982328",
+         "CREATED_TIME":"44691",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467554-3y4EAO",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022",
+         "TYPE":"1",
+         "MODEL":"700",
+         "CAR_TOTAL":"16147",
+         "SPOT_TOTAL":"16147",
+         "OK_COUNT":"15894",
+         "OK_PERCENT":"0.984331454759398",
+         "AVG_QVAL":"0.938453",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44705"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467555-tDKaDp",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44652",
+         "TYPE":"2",
+         "MODEL":"700",
+         "CAR_TOTAL":"11384",
+         "SPOT_TOTAL":"11384",
+         "OK_COUNT":"11313",
+         "OK_PERCENT":"0.993763176387912",
+         "AVG_QVAL":"0.938453",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467556-yPRkrK",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44669",
+         "TYPE":"3",
+         "MODEL":"700",
+         "CAR_TOTAL":"2206",
+         "SPOT_TOTAL":"2206",
+         "OK_COUNT":"2198",
+         "OK_PERCENT":"0.99637352674524",
+         "AVG_QVAL":"0.938453",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467557-IVN0yo",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 12",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"346",
+         "SPOT_TOTAL":"346",
+         "OK_COUNT":"346",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.938453",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467558-1bv2Bx",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022",
+         "TYPE":"1",
+         "MODEL":"600",
+         "CAR_TOTAL":"9463",
+         "SPOT_TOTAL":"9463",
+         "OK_COUNT":"9459",
+         "OK_PERCENT":"0.999577301067314",
+         "AVG_QVAL":"0.896376",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44705"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467559-pnBJo8",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44652",
+         "TYPE":"2",
+         "MODEL":"600",
+         "CAR_TOTAL":"7154",
+         "SPOT_TOTAL":"7154",
+         "OK_COUNT":"7150",
+         "OK_PERCENT":"0.999440872239306",
+         "AVG_QVAL":"0.896376",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467560-FweUHU",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44669",
+         "TYPE":"3",
+         "MODEL":"600",
+         "CAR_TOTAL":"1458",
+         "SPOT_TOTAL":"1458",
+         "OK_COUNT":"1456",
+         "OK_PERCENT":"0.998628257887517",
+         "AVG_QVAL":"0.896376",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467561-LY5n0t",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 12",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"158",
+         "SPOT_TOTAL":"158",
+         "OK_COUNT":"158",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.896376",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467562-YdbQHm",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 13",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"228",
+         "SPOT_TOTAL":"228",
+         "OK_COUNT":"228",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.947186",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467563-zx4Zyn",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 13",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"336",
+         "SPOT_TOTAL":"336",
+         "OK_COUNT":"336",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.848116",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467564-AYVp8A",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022",
+         "TYPE":"1",
+         "MODEL":"820",
+         "CAR_TOTAL":"10582",
+         "SPOT_TOTAL":"10582",
+         "OK_COUNT":"10108",
+         "OK_PERCENT":"0.955206955206955",
+         "AVG_QVAL":"0.961044",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44705"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467565-UvtnZX",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44652",
+         "TYPE":"2",
+         "MODEL":"820",
+         "CAR_TOTAL":"6406",
+         "SPOT_TOTAL":"6406",
+         "OK_COUNT":"6051",
+         "OK_PERCENT":"0.944583203246955",
+         "AVG_QVAL":"0.961044",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467566-ZWuoN6",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44669",
+         "TYPE":"3",
+         "MODEL":"820",
+         "CAR_TOTAL":"987",
+         "SPOT_TOTAL":"987",
+         "OK_COUNT":"919",
+         "OK_PERCENT":"0.931104356636271",
+         "AVG_QVAL":"0.961044",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467567-UCPqGj",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-18 13",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"647",
+         "SPOT_TOTAL":"647",
+         "OK_COUNT":"615",
+         "OK_PERCENT":"0.950540958268933",
+         "AVG_QVAL":"0.961044",
+         "CREATED_TIME":"44671",
+         "UPDATED_TIME":"44671"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467568-oEuIbV",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44691",
+         "TYPE":"3",
+         "MODEL":"600",
+         "CAR_TOTAL":"647",
+         "SPOT_TOTAL":"647",
+         "OK_COUNT":"647",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.970649",
+         "CREATED_TIME":"44691",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467569-JXz0vV",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-10 08",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"242",
+         "SPOT_TOTAL":"242",
+         "OK_COUNT":"242",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.970649",
+         "CREATED_TIME":"44691",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467570-mFgTz5",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44691",
+         "TYPE":"3",
+         "MODEL":"700",
+         "CAR_TOTAL":"1652",
+         "SPOT_TOTAL":"1652",
+         "OK_COUNT":"1572",
+         "OK_PERCENT":"0.951573849878934",
+         "AVG_QVAL":"0.971263",
+         "CREATED_TIME":"44691",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467571-5x5u4U",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-10 08",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"410",
+         "SPOT_TOTAL":"410",
+         "OK_COUNT":"403",
+         "OK_PERCENT":"0.982926829268292",
+         "AVG_QVAL":"0.971263",
+         "CREATED_TIME":"44691",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467572-pBIwOD",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-10 09",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"345",
+         "SPOT_TOTAL":"345",
+         "OK_COUNT":"345",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.952404",
+         "CREATED_TIME":"44691",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467573-PGehVa",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-10 09",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"126",
+         "SPOT_TOTAL":"126",
+         "OK_COUNT":"126",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.920114",
+         "CREATED_TIME":"44691",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467574-gwhnFN",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-10 09",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"708",
+         "SPOT_TOTAL":"708",
+         "OK_COUNT":"681",
+         "OK_PERCENT":"0.961864406779661",
+         "AVG_QVAL":"0.943215",
+         "CREATED_TIME":"44691",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467575-i3CtBl",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-10 12",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"44",
+         "SPOT_TOTAL":"44",
+         "OK_COUNT":"44",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.947893",
+         "CREATED_TIME":"44691",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467576-GvZ04G",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-10 12",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"216",
+         "SPOT_TOTAL":"216",
+         "OK_COUNT":"191",
+         "OK_PERCENT":"0.884259259259259",
+         "AVG_QVAL":"0.84691",
+         "CREATED_TIME":"44691",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467577-3pmFFQ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-10 13",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"8",
+         "SPOT_TOTAL":"8",
+         "OK_COUNT":"8",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.958137",
+         "CREATED_TIME":"44691",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467578-1to0cB",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-10 13",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"84",
+         "SPOT_TOTAL":"84",
+         "OK_COUNT":"82",
+         "OK_PERCENT":"0.976190476190476",
+         "AVG_QVAL":"0.803366",
+         "CREATED_TIME":"44691",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467579-2pzCKP",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-10 14",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"85",
+         "SPOT_TOTAL":"85",
+         "OK_COUNT":"77",
+         "OK_PERCENT":"0.905882352941176",
+         "AVG_QVAL":"0.849666",
+         "CREATED_TIME":"44691",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467580-3S4loU",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-10 14",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"189",
+         "SPOT_TOTAL":"189",
+         "OK_COUNT":"181",
+         "OK_PERCENT":"0.957671957671957",
+         "AVG_QVAL":"0.946188",
+         "CREATED_TIME":"44691",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467581-trrRtu",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-10 15",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"75",
+         "SPOT_TOTAL":"75",
+         "OK_COUNT":"66",
+         "OK_PERCENT":"0.88",
+         "AVG_QVAL":"0.952945",
+         "CREATED_TIME":"44691",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467582-h4VTp9",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-10 15",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"135",
+         "SPOT_TOTAL":"135",
+         "OK_COUNT":"135",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.966257",
+         "CREATED_TIME":"44691",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467583-0bhWJy",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44693",
+         "TYPE":"3",
+         "MODEL":"600",
+         "CAR_TOTAL":"320",
+         "SPOT_TOTAL":"320",
+         "OK_COUNT":"320",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.970083",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467584-jCz8ST",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 07",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"4",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.970083",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467585-QCflAz",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 08",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"70",
+         "SPOT_TOTAL":"70",
+         "OK_COUNT":"70",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.9748",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467586-FFDFAw",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44693",
+         "TYPE":"3",
+         "MODEL":"700",
+         "CAR_TOTAL":"532",
+         "SPOT_TOTAL":"532",
+         "OK_COUNT":"489",
+         "OK_PERCENT":"0.919172932330827",
+         "AVG_QVAL":"0.944632",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467587-Kf85UZ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 08",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"4",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.944632",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467588-db4FsH",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44693",
+         "TYPE":"3",
+         "MODEL":"810",
+         "CAR_TOTAL":"108",
+         "SPOT_TOTAL":"108",
+         "OK_COUNT":"108",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.947915",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467589-yiXcCl",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 08",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"108",
+         "SPOT_TOTAL":"108",
+         "OK_COUNT":"108",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.947915",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467590-YJxbTU",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 09",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"6",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.962754",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467591-aUVQqa",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44693",
+         "TYPE":"3",
+         "MODEL":"820",
+         "CAR_TOTAL":"788",
+         "SPOT_TOTAL":"788",
+         "OK_COUNT":"750",
+         "OK_PERCENT":"0.951776649746192",
+         "AVG_QVAL":"0.952502",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467592-Y9haIb",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 09",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"153",
+         "SPOT_TOTAL":"153",
+         "OK_COUNT":"145",
+         "OK_PERCENT":"0.947712418300653",
+         "AVG_QVAL":"0.952502",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467593-kp6Pr0",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 10",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"18",
+         "SPOT_TOTAL":"18",
+         "OK_COUNT":"17",
+         "OK_PERCENT":"0.944444444444444",
+         "AVG_QVAL":"0.959534",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467594-kJwmuD",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 10",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"60",
+         "SPOT_TOTAL":"60",
+         "OK_COUNT":"54",
+         "OK_PERCENT":"0.9",
+         "AVG_QVAL":"0.793405",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467595-kmZ1Ap",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 10",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"24",
+         "SPOT_TOTAL":"24",
+         "OK_COUNT":"24",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.910495",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467596-jWW4Sm",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 11",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"126",
+         "SPOT_TOTAL":"126",
+         "OK_COUNT":"123",
+         "OK_PERCENT":"0.976190476190476",
+         "AVG_QVAL":"0.959713",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467597-hcEWiB",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-12 11",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"16",
+         "SPOT_TOTAL":"16",
+         "OK_COUNT":"16",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.936809",
+         "CREATED_TIME":"44693",
+         "UPDATED_TIME":"44693"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467598-FhkRD0",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44697",
+         "TYPE":"3",
+         "MODEL":"600",
+         "CAR_TOTAL":"216",
+         "SPOT_TOTAL":"216",
+         "OK_COUNT":"216",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.908825",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467599-sktsgi",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-16 10",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"54",
+         "SPOT_TOTAL":"54",
+         "OK_COUNT":"54",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.908825",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467600-BIISrZ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44700",
+         "TYPE":"3",
+         "MODEL":"820",
+         "CAR_TOTAL":"356",
+         "SPOT_TOTAL":"356",
+         "OK_COUNT":"355",
+         "OK_PERCENT":"0.997191011235955",
+         "AVG_QVAL":"0.978305",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467601-jirwen",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-19 09",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"141",
+         "SPOT_TOTAL":"141",
+         "OK_COUNT":"141",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.978305",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467602-03WJiq",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44700",
+         "TYPE":"3",
+         "MODEL":"700",
+         "CAR_TOTAL":"244",
+         "SPOT_TOTAL":"244",
+         "OK_COUNT":"239",
+         "OK_PERCENT":"0.979508196721311",
+         "AVG_QVAL":"0.887761",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467603-bP7DaC",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-19 09",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"52",
+         "SPOT_TOTAL":"52",
+         "OK_COUNT":"48",
+         "OK_PERCENT":"0.923076923076923",
+         "AVG_QVAL":"0.887761",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467604-bhlyp5",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-16 12",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"42",
+         "SPOT_TOTAL":"42",
+         "OK_COUNT":"42",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.944685",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467605-yeKYqa",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-16 13",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"78",
+         "SPOT_TOTAL":"78",
+         "OK_COUNT":"78",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.885241",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467606-O5jSds",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-16 14",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"40",
+         "SPOT_TOTAL":"40",
+         "OK_COUNT":"40",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.962664",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467607-Ra4BUp",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-19 10",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"145",
+         "SPOT_TOTAL":"145",
+         "OK_COUNT":"144",
+         "OK_PERCENT":"0.993103448275862",
+         "AVG_QVAL":"0.959264",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467608-Rh8nqG",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-19 10",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"60",
+         "SPOT_TOTAL":"60",
+         "OK_COUNT":"59",
+         "OK_PERCENT":"0.983333333333333",
+         "AVG_QVAL":"0.938996",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467609-3PSlYw",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-16 16",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"2",
+         "SPOT_TOTAL":"2",
+         "OK_COUNT":"2",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.964471",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467610-zGmOQD",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44700",
+         "TYPE":"3",
+         "MODEL":"600",
+         "CAR_TOTAL":"158",
+         "SPOT_TOTAL":"158",
+         "OK_COUNT":"158",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.959771",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467611-eVhWzR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-19 08",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"40",
+         "SPOT_TOTAL":"40",
+         "OK_COUNT":"40",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.959771",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467612-Yon9aR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-19 09",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"60",
+         "SPOT_TOTAL":"60",
+         "OK_COUNT":"60",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.962638",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467613-kreS4E",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-19 10",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"18",
+         "SPOT_TOTAL":"18",
+         "OK_COUNT":"18",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.967998",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467614-PvxR4p",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-19 11",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"16",
+         "SPOT_TOTAL":"16",
+         "OK_COUNT":"16",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.936743",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467615-qtnSv2",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-19 11",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"10",
+         "SPOT_TOTAL":"10",
+         "OK_COUNT":"10",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.928634",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467616-wPew8E",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-19 11",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"10",
+         "SPOT_TOTAL":"10",
+         "OK_COUNT":"10",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.962979",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467617-9zoilb",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44673",
+         "TYPE":"3",
+         "MODEL":"600",
+         "CAR_TOTAL":"1020",
+         "SPOT_TOTAL":"1020",
+         "OK_COUNT":"1020",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.952599",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467618-saXlB0",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 08",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"122",
+         "SPOT_TOTAL":"122",
+         "OK_COUNT":"122",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.952599",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467619-h7KmPC",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44673",
+         "TYPE":"3",
+         "MODEL":"700",
+         "CAR_TOTAL":"1835",
+         "SPOT_TOTAL":"1835",
+         "OK_COUNT":"1814",
+         "OK_PERCENT":"0.988555858310626",
+         "AVG_QVAL":"0.959232",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467620-RiHTWL",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 08",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"205",
+         "SPOT_TOTAL":"205",
+         "OK_COUNT":"205",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.959232",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467621-FIT2rk",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44673",
+         "TYPE":"3",
+         "MODEL":"810",
+         "CAR_TOTAL":"765",
+         "SPOT_TOTAL":"765",
+         "OK_COUNT":"765",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.913816",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467622-OiY8u5",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 08",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"381",
+         "SPOT_TOTAL":"381",
+         "OK_COUNT":"381",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.913816",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467623-gUvKVP",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 09",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"78",
+         "SPOT_TOTAL":"78",
+         "OK_COUNT":"78",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.970746",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467624-VRnTt3",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 09",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"368",
+         "SPOT_TOTAL":"368",
+         "OK_COUNT":"358",
+         "OK_PERCENT":"0.972826086956521",
+         "AVG_QVAL":"0.924103",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467625-qxXW66",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 09",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"188",
+         "SPOT_TOTAL":"188",
+         "OK_COUNT":"188",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.964536",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467626-2WQCfR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44673",
+         "TYPE":"3",
+         "MODEL":"820",
+         "CAR_TOTAL":"1162",
+         "SPOT_TOTAL":"1162",
+         "OK_COUNT":"1093",
+         "OK_PERCENT":"0.940619621342512",
+         "AVG_QVAL":"0.917106",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467627-11sujA",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 09",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"486",
+         "SPOT_TOTAL":"486",
+         "OK_COUNT":"442",
+         "OK_PERCENT":"0.909465020576131",
+         "AVG_QVAL":"0.917106",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467628-QV7qcv",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 10",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"352",
+         "SPOT_TOTAL":"352",
+         "OK_COUNT":"346",
+         "OK_PERCENT":"0.982954545454545",
+         "AVG_QVAL":"0.925905",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467629-8Ygxb6",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 10",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"216",
+         "SPOT_TOTAL":"216",
+         "OK_COUNT":"216",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.920913",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467630-UmAvgn",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 10",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"306",
+         "SPOT_TOTAL":"306",
+         "OK_COUNT":"306",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.903917",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467631-jzwgc8",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 10",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"414",
+         "SPOT_TOTAL":"414",
+         "OK_COUNT":"394",
+         "OK_PERCENT":"0.951690821256038",
+         "AVG_QVAL":"0.975886",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467632-qOgrGO",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 11",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"110",
+         "SPOT_TOTAL":"110",
+         "OK_COUNT":"106",
+         "OK_PERCENT":"0.963636363636363",
+         "AVG_QVAL":"0.918984",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467633-aKsuC5",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 11",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"225",
+         "SPOT_TOTAL":"225",
+         "OK_COUNT":"223",
+         "OK_PERCENT":"0.991111111111111",
+         "AVG_QVAL":"0.948687",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467634-sTwNck",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 11",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"70",
+         "SPOT_TOTAL":"70",
+         "OK_COUNT":"70",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.947728",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44687"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467635-DJUvQg",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 12",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"27",
+         "SPOT_TOTAL":"27",
+         "OK_COUNT":"24",
+         "OK_PERCENT":"0.888888888888888",
+         "AVG_QVAL":"0.929786",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44673"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467636-oMCrp1",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 12",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"180",
+         "SPOT_TOTAL":"180",
+         "OK_COUNT":"179",
+         "OK_PERCENT":"0.994444444444444",
+         "AVG_QVAL":"0.916077",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44673"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467637-itc8Lc",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 12",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"92",
+         "SPOT_TOTAL":"92",
+         "OK_COUNT":"92",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.942304",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44673"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467638-kzED1m",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 13",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"232",
+         "SPOT_TOTAL":"232",
+         "OK_COUNT":"232",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.830339",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44673"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467639-mqUpZL",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 13",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"125",
+         "SPOT_TOTAL":"125",
+         "OK_COUNT":"125",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.9374",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44673"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467640-sa5nm0",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 14",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"137",
+         "SPOT_TOTAL":"137",
+         "OK_COUNT":"137",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.937698",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44673"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467641-rOtg2T",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 14",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"192",
+         "SPOT_TOTAL":"192",
+         "OK_COUNT":"192",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.909606",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44673"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467642-0fSYGl",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 14",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"5",
+         "SPOT_TOTAL":"5",
+         "OK_COUNT":"5",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.959835",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44673"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467643-SUo9HD",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 15",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"5",
+         "SPOT_TOTAL":"5",
+         "OK_COUNT":"5",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.933022",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44673"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467644-fwC4Ic",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 15",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"70",
+         "SPOT_TOTAL":"70",
+         "OK_COUNT":"70",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.936135",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44673"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467645-mrT31F",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 15",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"116",
+         "SPOT_TOTAL":"116",
+         "OK_COUNT":"116",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.941568",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44673"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467646-VR2I1r",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-04-22 16",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"80",
+         "SPOT_TOTAL":"80",
+         "OK_COUNT":"80",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.942782",
+         "CREATED_TIME":"44673",
+         "UPDATED_TIME":"44673"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467647-QJcVu6",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-10 10",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"74",
+         "SPOT_TOTAL":"74",
+         "OK_COUNT":"72",
+         "OK_PERCENT":"0.972972972972972",
+         "AVG_QVAL":"0.790186",
+         "CREATED_TIME":"44691",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467648-2GU6Vy",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-10 10",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"8",
+         "SPOT_TOTAL":"8",
+         "OK_COUNT":"8",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.950324",
+         "CREATED_TIME":"44691",
+         "UPDATED_TIME":"44691"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467649-g1GgT5",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44700",
+         "TYPE":"3",
+         "MODEL":"810",
+         "CAR_TOTAL":"20",
+         "SPOT_TOTAL":"20",
+         "OK_COUNT":"20",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.813549",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467650-lZmzxM",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-19 11",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"20",
+         "SPOT_TOTAL":"20",
+         "OK_COUNT":"20",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.813549",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467651-cBgX33",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-19 12",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"30",
+         "SPOT_TOTAL":"30",
+         "OK_COUNT":"30",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.962063",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467652-eVpjYF",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-19 13",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"30",
+         "SPOT_TOTAL":"30",
+         "OK_COUNT":"30",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.948722",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467653-cBDThL",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-19 13",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"40",
+         "SPOT_TOTAL":"40",
+         "OK_COUNT":"40",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.921992",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467654-14W6xI",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-19 13",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"10",
+         "SPOT_TOTAL":"10",
+         "OK_COUNT":"10",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.961326",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467655-d7wDn8",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-19 14",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"20",
+         "SPOT_TOTAL":"20",
+         "OK_COUNT":"20",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.95421",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467656-BLk4xo",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-19 14",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"20",
+         "SPOT_TOTAL":"20",
+         "OK_COUNT":"20",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.954549",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467657-gNWGcZ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-19 15",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"56",
+         "SPOT_TOTAL":"56",
+         "OK_COUNT":"56",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.972531",
+         "CREATED_TIME":"44700",
+         "UPDATED_TIME":"44700"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467658-QZ7qD9",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44701",
+         "TYPE":"3",
+         "MODEL":"700",
+         "CAR_TOTAL":"420",
+         "SPOT_TOTAL":"420",
+         "OK_COUNT":"420",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.977721",
+         "CREATED_TIME":"44701",
+         "UPDATED_TIME":"44701"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467659-qr1dQh",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-20 08",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"84",
+         "SPOT_TOTAL":"84",
+         "OK_COUNT":"84",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.977721",
+         "CREATED_TIME":"44701",
+         "UPDATED_TIME":"44701"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467660-ytcPP9",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44701",
+         "TYPE":"3",
+         "MODEL":"600",
+         "CAR_TOTAL":"230",
+         "SPOT_TOTAL":"230",
+         "OK_COUNT":"230",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.923313",
+         "CREATED_TIME":"44701",
+         "UPDATED_TIME":"44701"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467661-X4eIL7",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-20 08",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"66",
+         "SPOT_TOTAL":"66",
+         "OK_COUNT":"66",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.923313",
+         "CREATED_TIME":"44701",
+         "UPDATED_TIME":"44701"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467662-oO19g2",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44701",
+         "TYPE":"3",
+         "MODEL":"810",
+         "CAR_TOTAL":"760",
+         "SPOT_TOTAL":"760",
+         "OK_COUNT":"760",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.957691",
+         "CREATED_TIME":"44701",
+         "UPDATED_TIME":"44701"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467663-Zjie2r",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-20 08",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"100",
+         "SPOT_TOTAL":"100",
+         "OK_COUNT":"100",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.957691",
+         "CREATED_TIME":"44701",
+         "UPDATED_TIME":"44701"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467664-GfdSTX",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-20 09",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"156",
+         "SPOT_TOTAL":"156",
+         "OK_COUNT":"156",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.941951",
+         "CREATED_TIME":"44701",
+         "UPDATED_TIME":"44701"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467665-hwWBLt",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-20 09",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"54",
+         "SPOT_TOTAL":"54",
+         "OK_COUNT":"54",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.951703",
+         "CREATED_TIME":"44701",
+         "UPDATED_TIME":"44701"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467666-HCdw31",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-20 09",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"210",
+         "SPOT_TOTAL":"210",
+         "OK_COUNT":"210",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.881562",
+         "CREATED_TIME":"44701",
+         "UPDATED_TIME":"44701"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467667-0rsCff",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44701",
+         "TYPE":"3",
+         "MODEL":"820",
+         "CAR_TOTAL":"180",
+         "SPOT_TOTAL":"180",
+         "OK_COUNT":"180",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.939548",
+         "CREATED_TIME":"44701",
+         "UPDATED_TIME":"44701"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467668-zHxftf",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-20 09",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"180",
+         "SPOT_TOTAL":"180",
+         "OK_COUNT":"180",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.939548",
+         "CREATED_TIME":"44701",
+         "UPDATED_TIME":"44701"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467669-X2SmnC",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-20 13",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"52",
+         "SPOT_TOTAL":"52",
+         "OK_COUNT":"52",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.903333",
+         "CREATED_TIME":"44701",
+         "UPDATED_TIME":"44701"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467670-QN8her",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-20 13",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"30",
+         "SPOT_TOTAL":"30",
+         "OK_COUNT":"30",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.966886",
+         "CREATED_TIME":"44701",
+         "UPDATED_TIME":"44701"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467671-f1tzgp",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-20 14",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"68",
+         "SPOT_TOTAL":"68",
+         "OK_COUNT":"68",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.952866",
+         "CREATED_TIME":"44701",
+         "UPDATED_TIME":"44701"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467672-TTnMHU",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-20 14",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"72",
+         "SPOT_TOTAL":"72",
+         "OK_COUNT":"72",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.967673",
+         "CREATED_TIME":"44701",
+         "UPDATED_TIME":"44701"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467673-AYSadB",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-20 14",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"100",
+         "SPOT_TOTAL":"100",
+         "OK_COUNT":"100",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.936111",
+         "CREATED_TIME":"44701",
+         "UPDATED_TIME":"44701"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467674-8GRbgu",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-20 15",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"60",
+         "SPOT_TOTAL":"60",
+         "OK_COUNT":"60",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.977423",
+         "CREATED_TIME":"44701",
+         "UPDATED_TIME":"44701"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467675-LIxXah",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-20 15",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"8",
+         "SPOT_TOTAL":"8",
+         "OK_COUNT":"8",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.967393",
+         "CREATED_TIME":"44701",
+         "UPDATED_TIME":"44701"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467676-rfiQTs",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-20 15",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"350",
+         "SPOT_TOTAL":"350",
+         "OK_COUNT":"350",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.97115",
+         "CREATED_TIME":"44701",
+         "UPDATED_TIME":"44701"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467677-wjOBuD",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44704",
+         "TYPE":"3",
+         "MODEL":"810",
+         "CAR_TOTAL":"540",
+         "SPOT_TOTAL":"540",
+         "OK_COUNT":"540",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.97148",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467678-JVCNow",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-23 08",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"200",
+         "SPOT_TOTAL":"200",
+         "OK_COUNT":"200",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.97148",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467679-njqde8",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44704",
+         "TYPE":"3",
+         "MODEL":"700",
+         "CAR_TOTAL":"480",
+         "SPOT_TOTAL":"480",
+         "OK_COUNT":"479",
+         "OK_PERCENT":"0.997916666666666",
+         "AVG_QVAL":"0.911487",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467680-i96ZXj",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-23 08",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"76",
+         "SPOT_TOTAL":"76",
+         "OK_COUNT":"75",
+         "OK_PERCENT":"0.986842105263157",
+         "AVG_QVAL":"0.911487",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467681-lKlVLQ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44704",
+         "TYPE":"3",
+         "MODEL":"600",
+         "CAR_TOTAL":"240",
+         "SPOT_TOTAL":"240",
+         "OK_COUNT":"240",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.963124",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467682-birFv6",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-23 08",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"14",
+         "SPOT_TOTAL":"14",
+         "OK_COUNT":"14",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.963124",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467683-9swQs5",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-23 09",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"104",
+         "SPOT_TOTAL":"104",
+         "OK_COUNT":"104",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.968367",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467684-7uuWJc",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-23 09",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"180",
+         "SPOT_TOTAL":"180",
+         "OK_COUNT":"180",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.972571",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467685-unz4Dz",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-23 09",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"62",
+         "SPOT_TOTAL":"62",
+         "OK_COUNT":"62",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.924998",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467686-Xdec6o",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44704",
+         "TYPE":"3",
+         "MODEL":"820",
+         "CAR_TOTAL":"80",
+         "SPOT_TOTAL":"80",
+         "OK_COUNT":"80",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.976832",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467687-A8D9nK",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-23 09",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"80",
+         "SPOT_TOTAL":"80",
+         "OK_COUNT":"80",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.976832",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467688-STklkq",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-23 10",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"60",
+         "SPOT_TOTAL":"60",
+         "OK_COUNT":"60",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.951236",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467689-H1v5Fb",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-23 10",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"44",
+         "SPOT_TOTAL":"44",
+         "OK_COUNT":"44",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.913999",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467690-Qj5Ga5",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-23 10",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"70",
+         "SPOT_TOTAL":"70",
+         "OK_COUNT":"70",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.921152",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467691-QuUDlV",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-23 12",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"132",
+         "SPOT_TOTAL":"132",
+         "OK_COUNT":"132",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.981983",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467692-q7ih2u",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-23 12",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"50",
+         "SPOT_TOTAL":"50",
+         "OK_COUNT":"50",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.9668",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467693-7r2Pmv",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-23 13",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"60",
+         "SPOT_TOTAL":"60",
+         "OK_COUNT":"60",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.883343",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467694-UA4FXJ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-23 13",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"42",
+         "SPOT_TOTAL":"42",
+         "OK_COUNT":"42",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.971689",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467695-A0DnsM",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-23 13",
+         "TYPE":"4",
+         "MODEL":"810",
+         "CAR_TOTAL":"90",
+         "SPOT_TOTAL":"90",
+         "OK_COUNT":"90",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.879083",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467696-qBQ48a",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-23 14",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"10",
+         "SPOT_TOTAL":"10",
+         "OK_COUNT":"10",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.859269",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467697-hnGpTi",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-23 14",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"8",
+         "SPOT_TOTAL":"8",
+         "OK_COUNT":"8",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.97741",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467698-hjQrZt",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-23 15",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"18",
+         "SPOT_TOTAL":"18",
+         "OK_COUNT":"18",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.926458",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467699-CJAAdZ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-23 15",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"40",
+         "SPOT_TOTAL":"40",
+         "OK_COUNT":"40",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.97637",
+         "CREATED_TIME":"44704",
+         "UPDATED_TIME":"44704"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467700-b6jnzu",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44705",
+         "TYPE":"3",
+         "MODEL":"600",
+         "CAR_TOTAL":"80",
+         "SPOT_TOTAL":"80",
+         "OK_COUNT":"80",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.946021",
+         "CREATED_TIME":"44705",
+         "UPDATED_TIME":"44705"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467701-BcjKEz",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-24 08",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"46",
+         "SPOT_TOTAL":"46",
+         "OK_COUNT":"46",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.946021",
+         "CREATED_TIME":"44705",
+         "UPDATED_TIME":"44705"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467702-faZmHK",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44705",
+         "TYPE":"3",
+         "MODEL":"820",
+         "CAR_TOTAL":"610",
+         "SPOT_TOTAL":"610",
+         "OK_COUNT":"610",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.984768",
+         "CREATED_TIME":"44705",
+         "UPDATED_TIME":"44705"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467703-mML0eq",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-24 08",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"190",
+         "SPOT_TOTAL":"190",
+         "OK_COUNT":"190",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.984768",
+         "CREATED_TIME":"44705",
+         "UPDATED_TIME":"44705"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467704-BInwJM",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"44705",
+         "TYPE":"3",
+         "MODEL":"700",
+         "CAR_TOTAL":"202",
+         "SPOT_TOTAL":"202",
+         "OK_COUNT":"202",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.964282",
+         "CREATED_TIME":"44705",
+         "UPDATED_TIME":"44705"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467705-t8ZLtm",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-24 08",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"76",
+         "SPOT_TOTAL":"76",
+         "OK_COUNT":"76",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.964282",
+         "CREATED_TIME":"44705",
+         "UPDATED_TIME":"44705"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467706-2CAjHM",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-24 09",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"220",
+         "SPOT_TOTAL":"220",
+         "OK_COUNT":"220",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.978448",
+         "CREATED_TIME":"44705",
+         "UPDATED_TIME":"44705"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467707-fIebRZ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-24 09",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"88",
+         "SPOT_TOTAL":"88",
+         "OK_COUNT":"88",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.843342",
+         "CREATED_TIME":"44705",
+         "UPDATED_TIME":"44705"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467708-AEeNFR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-24 09",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"22",
+         "SPOT_TOTAL":"22",
+         "OK_COUNT":"22",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.965534",
+         "CREATED_TIME":"44705",
+         "UPDATED_TIME":"44705"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467709-pY7eSf",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-24 10",
+         "TYPE":"4",
+         "MODEL":"820",
+         "CAR_TOTAL":"200",
+         "SPOT_TOTAL":"200",
+         "OK_COUNT":"200",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.97826",
+         "CREATED_TIME":"44705",
+         "UPDATED_TIME":"44705"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467710-HUlTci",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-24 10",
+         "TYPE":"4",
+         "MODEL":"600",
+         "CAR_TOTAL":"12",
+         "SPOT_TOTAL":"12",
+         "OK_COUNT":"12",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.951209",
+         "CREATED_TIME":"44705",
+         "UPDATED_TIME":"44705"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467711-i0LhuA",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-24 10",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"34",
+         "SPOT_TOTAL":"34",
+         "OK_COUNT":"34",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.942318",
+         "CREATED_TIME":"44705",
+         "UPDATED_TIME":"44705"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467712-GcmVhG",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_MODEL",
+     "properties":{
+         "TIME_RANGE":"2022-05-24 11",
+         "TYPE":"4",
+         "MODEL":"700",
+         "CAR_TOTAL":"4",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "OK_PERCENT":"1",
+         "AVG_QVAL":"0.976064",
+         "CREATED_TIME":"44705",
+         "UPDATED_TIME":"44705"
+         }
+}
+]

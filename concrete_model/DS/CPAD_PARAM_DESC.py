@@ -1,0 +1,3138 @@
+[
+{
+     "_id":"APPDB-DS-1653528860-rcPY6v",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S03_MINMIDCURRENT",
+         "CPAD_CPA_NODEID":"13",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO03电流下限预警值(A)",
+                   "en_US":"SO03 Min Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528861-DDhJCl",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S03_MINMIDPRESSURE",
+         "CPAD_CPA_NODEID":"13",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO03压力下限预警值(N)",
+                   "en_US":"SO03 Mid Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528862-ATZfdD",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S03_MINMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"13",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO03温度下限预警值(℃)",
+                   "en_US":"SO03 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528863-TL8Kcc",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S03_MINPRESSURE",
+         "CPAD_CPA_NODEID":"13",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO03压力下限报警值(N)",
+                   "en_US":"SO03 Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528864-VJ1DF9",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S03_MINTEMPERATURE",
+         "CPAD_CPA_NODEID":"13",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO03温度下限报警值(℃)",
+                   "en_US":"SO03 Min Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528865-pqPCXg",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S03_MIDWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"13",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO03水流量Q1下限预警值(升/分钟)",
+                   "en_US":"SO03 Mid Value of  Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528866-cRcSZ2",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S03_MINWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"13",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO03水流量Q1下限报警值(升/分钟)",
+                   "en_US":"SO03 Min Value of Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528867-tCDotj",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S03_MIDWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"13",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO03水流量Q2下限预警值(升/分钟)",
+                   "en_US":"SO03 Mid Value of  Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528868-n5XNMf",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S03_MINWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"13",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO03水流量Q2下限报警值(升/分钟)",
+                   "en_US":"SO03 Min Value of Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528869-xTz38C",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S03_MIDWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"13",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO03水流量Q3下限预警值(升/分钟)",
+                   "en_US":"SO03 Mid Value of  Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528870-Hrgdhu",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S03_MINWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"13",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO03水流量Q3下限报警值(升/分钟)",
+                   "en_US":"SO03 Min Value of Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528871-sjbxEl",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S04_MAXCURRENT",
+         "CPAD_CPA_NODEID":"14",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO04电流上限报警值(A)",
+                   "en_US":"SO04 Max Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528872-07nD9D",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S04_MAXMIDCURRENT",
+         "CPAD_CPA_NODEID":"14",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO04电流上限预警值(A)",
+                   "en_US":"SO04 Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528873-SSTgAB",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S04_MAXMIDPRESSURE",
+         "CPAD_CPA_NODEID":"14",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO04压力上限预警值(N)",
+                   "en_US":"SO04 Mid Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528874-WphIp6",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S04_MAXMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"14",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO04温度上限预警值(℃)",
+                   "en_US":"SO04 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528875-hAmHZh",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S04_MAXPRESSURE",
+         "CPAD_CPA_NODEID":"14",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO04压力上限报警值(N)",
+                   "en_US":"SO04 Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528876-v63j69",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S04_MAXTEMPERATURE",
+         "CPAD_CPA_NODEID":"14",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO04温度上限报警值(℃)",
+                   "en_US":"SO04 Max Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528877-zjDihY",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S04_MINCURRENT",
+         "CPAD_CPA_NODEID":"14",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO04电流下限报警值(A)",
+                   "en_US":"SO04 Min Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528878-FsX2Ig",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S04_MINMIDCURRENT",
+         "CPAD_CPA_NODEID":"14",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO04电流下限预警值(A)",
+                   "en_US":"SO04 Min Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528879-CMufSk",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S04_MINMIDPRESSURE",
+         "CPAD_CPA_NODEID":"14",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO04压力下限预警值(N)",
+                   "en_US":"SO04 Mid Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528880-ddKkli",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S04_MINMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"14",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO04温度下限预警值(℃)",
+                   "en_US":"SO04 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528881-kqRsTk",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S04_MINPRESSURE",
+         "CPAD_CPA_NODEID":"14",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO04压力下限报警值(N)",
+                   "en_US":"SO04 Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528882-isEQkQ",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S04_MINTEMPERATURE",
+         "CPAD_CPA_NODEID":"14",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO04温度下限报警值(℃)",
+                   "en_US":"SO04 Min Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528883-Bk77Uf",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S04_MIDWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"14",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO04水流量Q1下限预警值(升/分钟)",
+                   "en_US":"SO04 Mid Value of  Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528884-g7fTMa",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S04_MINWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"14",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO04水流量Q1下限报警值(升/分钟)",
+                   "en_US":"SO04 Min Value of Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528885-n7DCFy",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S04_MIDWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"14",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO04水流量Q2下限预警值(升/分钟)",
+                   "en_US":"SO04 Mid Value of  Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528886-2oW8bj",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S04_MINWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"14",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO04水流量Q2下限报警值(升/分钟)",
+                   "en_US":"SO04 Min Value of Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528887-zUF8HW",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S04_MIDWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"14",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO04水流量Q3下限预警值(升/分钟)",
+                   "en_US":"SO04 Mid Value of  Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528888-YfpT6j",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S04_MINWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"14",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO04水流量Q3下限报警值(升/分钟)",
+                   "en_US":"SO04 Min Value of Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528889-rC4I2E",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S05_MAXCURRENT",
+         "CPAD_CPA_NODEID":"15",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO05电流上限报警值(A)",
+                   "en_US":"SO05 Max Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528890-ONWY2f",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S05_MAXMIDCURRENT",
+         "CPAD_CPA_NODEID":"15",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO05电流上限预警值(A)",
+                   "en_US":"SO05 Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528891-pgxdJt",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S05_MAXMIDPRESSURE",
+         "CPAD_CPA_NODEID":"15",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO05压力上限预警值(N)",
+                   "en_US":"SO05 Mid Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528892-xvKtyg",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S05_MAXMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"15",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO05温度上限预警值(℃)",
+                   "en_US":"SO05 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528893-fBzQtx",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S05_MAXPRESSURE",
+         "CPAD_CPA_NODEID":"15",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO05压力上限报警值(N)",
+                   "en_US":"SO05 Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528894-fM0ffM",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S05_MAXTEMPERATURE",
+         "CPAD_CPA_NODEID":"15",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO05温度上限报警值(℃)",
+                   "en_US":"SO05 Max Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528895-ZGBUSf",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S05_MINCURRENT",
+         "CPAD_CPA_NODEID":"15",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO05电流下限报警值(A)",
+                   "en_US":"SO05 Min Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528896-uQFgIx",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S05_MINMIDCURRENT",
+         "CPAD_CPA_NODEID":"15",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO05电流下限预警值(A)",
+                   "en_US":"SO05 Min Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528897-BHPURr",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S05_MINMIDPRESSURE",
+         "CPAD_CPA_NODEID":"15",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO05压力下限预警值(N)",
+                   "en_US":"SO05 Mid Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528898-SnH11N",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S05_MINMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"15",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO05温度下限预警值(℃)",
+                   "en_US":"SO05 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528899-N7xR2o",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S05_MINPRESSURE",
+         "CPAD_CPA_NODEID":"15",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO05压力下限报警值(N)",
+                   "en_US":"SO05 Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528900-BYhOlO",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S05_MINTEMPERATURE",
+         "CPAD_CPA_NODEID":"15",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO05温度下限报警值(℃)",
+                   "en_US":"SO05 Min Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528901-jx78Gz",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S05_MIDWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"15",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO05水流量Q1下限预警值(升/分钟)",
+                   "en_US":"SO05 Mid Value of  Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528902-NnLuA7",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S05_MINWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"15",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO05水流量Q1下限报警值(升/分钟)",
+                   "en_US":"SO05 Min Value of Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528903-QONO5x",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S05_MIDWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"15",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO05水流量Q2下限预警值(升/分钟)",
+                   "en_US":"SO05 Mid Value of  Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528904-b9qkJj",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S05_MINWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"15",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO05水流量Q2下限报警值(升/分钟)",
+                   "en_US":"SO05 Min Value of Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528905-VS2NOh",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S05_MIDWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"15",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO05水流量Q3下限预警值(升/分钟)",
+                   "en_US":"SO05 Mid Value of  Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528906-FiJkn3",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"COLLECTORSENDDATA0",
+         "CPAD_CPA_NODEID":"1",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"采集器发送焊点数据",
+                   "en_US":"Collector send data 0"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528907-AtCf3e",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"COLLECTORAUTOMARK0",
+         "CPAD_CPA_NODEID":"1",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"采集器自动标零",
+                   "en_US":"Collector auto mark 0"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528908-80gr0z",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S05_MINWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"15",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO05水流量Q3下限报警值(升/分钟)",
+                   "en_US":"SO05 Min Value of Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528909-c8Kupq",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S06_MAXCURRENT",
+         "CPAD_CPA_NODEID":"16",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO06电流上限报警值(A)",
+                   "en_US":"SO06 Max Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528910-3YoR2L",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S06_MAXMIDCURRENT",
+         "CPAD_CPA_NODEID":"16",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO06电流上限预警值(A)",
+                   "en_US":"SO06 Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528911-f9FkLH",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S06_MAXMIDPRESSURE",
+         "CPAD_CPA_NODEID":"16",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO06压力上限预警值(N)",
+                   "en_US":"SO06 Mid Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528912-qWXsHu",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S06_MAXMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"16",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO06温度上限预警值(℃)",
+                   "en_US":"SO06 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528913-Ol6OVk",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S06_MAXPRESSURE",
+         "CPAD_CPA_NODEID":"16",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO06压力上限报警值(N)",
+                   "en_US":"SO06 Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528914-WgGRRH",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S06_MAXTEMPERATURE",
+         "CPAD_CPA_NODEID":"16",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO06温度上限报警值(℃)",
+                   "en_US":"SO06 Max Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528915-PopbCM",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S06_MINCURRENT",
+         "CPAD_CPA_NODEID":"16",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO06电流下限报警值(A)",
+                   "en_US":"SO06 Min Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528916-vdKGrP",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S06_MINMIDCURRENT",
+         "CPAD_CPA_NODEID":"16",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO06电流下限预警值(A)",
+                   "en_US":"SO06 Min Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528917-yJETuV",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S06_MINMIDPRESSURE",
+         "CPAD_CPA_NODEID":"16",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO06压力下限预警值(N)",
+                   "en_US":"SO06 Mid Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528918-uDLtX2",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S06_MINMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"16",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO06温度下限预警值(℃)",
+                   "en_US":"SO06 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528919-59I2wV",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S06_MINPRESSURE",
+         "CPAD_CPA_NODEID":"16",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO06压力下限报警值(N)",
+                   "en_US":"SO06 Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528920-Tdz9iQ",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S06_MINTEMPERATURE",
+         "CPAD_CPA_NODEID":"16",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO06温度下限报警值(℃)",
+                   "en_US":"SO06 Min Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528921-rcAZzy",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S06_MIDWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"16",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO06水流量Q1下限预警值(升/分钟)",
+                   "en_US":"SO06 Mid Value of  Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528922-61IqDt",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S06_MINWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"16",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO06水流量Q1下限报警值(升/分钟)",
+                   "en_US":"SO06 Min Value of Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528923-iG5Poy",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S06_MIDWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"16",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO06水流量Q2下限预警值(升/分钟)",
+                   "en_US":"SO06 Mid Value of  Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528924-qAEnnW",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S06_MINWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"16",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO06水流量Q2下限报警值(升/分钟)",
+                   "en_US":"SO06 Min Value of Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528925-EybgYG",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S06_MIDWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"16",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO06水流量Q3下限预警值(升/分钟)",
+                   "en_US":"SO06 Mid Value of  Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528926-TwPvFT",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S06_MINWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"16",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO06水流量Q3下限报警值(升/分钟)",
+                   "en_US":"SO06 Min Value of Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528927-rXYCqX",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S07_MAXCURRENT",
+         "CPAD_CPA_NODEID":"17",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO07电流上限报警值(A)",
+                   "en_US":"SO07 Max Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528928-ownJd9",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S07_MAXMIDCURRENT",
+         "CPAD_CPA_NODEID":"17",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO07电流上限预警值(A)",
+                   "en_US":"SO07 Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528929-vbRe8D",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S07_MAXMIDPRESSURE",
+         "CPAD_CPA_NODEID":"17",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO07压力上限预警值(N)",
+                   "en_US":"SO07 Mid Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528930-UGLGA3",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S07_MAXMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"17",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO07温度上限预警值(℃)",
+                   "en_US":"SO07 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528931-iD4Wjf",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S07_MAXPRESSURE",
+         "CPAD_CPA_NODEID":"17",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO07压力上限报警值(N)",
+                   "en_US":"SO07 Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528932-rG4hjZ",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S07_MAXTEMPERATURE",
+         "CPAD_CPA_NODEID":"17",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO07温度上限报警值(℃)",
+                   "en_US":"SO07 Max Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528933-OrCGve",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S07_MINCURRENT",
+         "CPAD_CPA_NODEID":"17",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO07电流下限报警值(A)",
+                   "en_US":"SO07 Min Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528934-gcZeyl",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S07_MINMIDCURRENT",
+         "CPAD_CPA_NODEID":"17",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO07电流下限预警值(A)",
+                   "en_US":"SO07 Min Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528935-k0WDMF",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S07_MINMIDPRESSURE",
+         "CPAD_CPA_NODEID":"17",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO07压力下限预警值(N)",
+                   "en_US":"SO07 Mid Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528936-TBEV8E",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S07_MINMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"17",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO07温度下限预警值(℃)",
+                   "en_US":"SO07 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528937-iQCdYy",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S07_MINPRESSURE",
+         "CPAD_CPA_NODEID":"17",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO07压力下限报警值(N)",
+                   "en_US":"SO07 Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528938-47u7J4",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S07_MINTEMPERATURE",
+         "CPAD_CPA_NODEID":"17",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO07温度下限报警值(℃)",
+                   "en_US":"SO07 Min Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528939-6wY7SH",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S07_MIDWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"17",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO07水流量Q1下限预警值(升/分钟)",
+                   "en_US":"SO07 Mid Value of  Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528940-ezw2W5",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S07_MINWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"17",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO07水流量Q1下限报警值(升/分钟)",
+                   "en_US":"SO07 Min Value of Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528941-TXM2hP",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S07_MIDWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"17",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO07水流量Q2下限预警值(升/分钟)",
+                   "en_US":"SO07 Mid Value of  Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528942-kju94d",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S07_MINWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"17",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO07水流量Q2下限报警值(升/分钟)",
+                   "en_US":"SO07 Min Value of Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528943-T3OZxR",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S07_MIDWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"17",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO07水流量Q3下限预警值(升/分钟)",
+                   "en_US":"SO07 Mid Value of  Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528944-973mkG",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S07_MINWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"17",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO07水流量Q3下限报警值(升/分钟)",
+                   "en_US":"SO07 Min Value of Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528945-cfztJK",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S08_MAXCURRENT",
+         "CPAD_CPA_NODEID":"18",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO08电流上限报警值(A)",
+                   "en_US":"SO08 Max Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528946-YbSPnL",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S08_MAXMIDCURRENT",
+         "CPAD_CPA_NODEID":"18",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO08电流上限预警值(A)",
+                   "en_US":"SO08 Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528947-cSbuHm",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S08_MAXMIDPRESSURE",
+         "CPAD_CPA_NODEID":"18",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO08压力上限预警值(N)",
+                   "en_US":"SO08 Mid Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528948-JoMwAg",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S08_MAXMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"18",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO08温度上限预警值(℃)",
+                   "en_US":"SO08 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528949-Drgrh8",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S08_MAXPRESSURE",
+         "CPAD_CPA_NODEID":"18",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO08压力上限报警值(N)",
+                   "en_US":"SO08 Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528950-9r4sHb",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S08_MAXTEMPERATURE",
+         "CPAD_CPA_NODEID":"18",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO08温度上限报警值(℃)",
+                   "en_US":"SO08 Max Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528951-PUYV0I",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S08_MINCURRENT",
+         "CPAD_CPA_NODEID":"18",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO08电流下限报警值(A)",
+                   "en_US":"SO08 Min Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528952-fDD9Q2",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S08_MINMIDCURRENT",
+         "CPAD_CPA_NODEID":"18",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO08电流下限预警值(A)",
+                   "en_US":"SO08 Min Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528953-x87iuH",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S08_MINMIDPRESSURE",
+         "CPAD_CPA_NODEID":"18",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO08压力下限预警值(N)",
+                   "en_US":"SO08 Mid Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528954-Z2Hv4j",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S08_MINMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"18",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO08温度下限预警值(℃)",
+                   "en_US":"SO08 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528955-WYhIwC",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S08_MINPRESSURE",
+         "CPAD_CPA_NODEID":"18",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO08压力下限报警值(N)",
+                   "en_US":"SO08 Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528956-fBZVzc",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S08_MINTEMPERATURE",
+         "CPAD_CPA_NODEID":"18",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO08温度下限报警值(℃)",
+                   "en_US":"SO08 Min Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528957-z3wk8G",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S08_MIDWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"18",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO08水流量Q1下限预警值(升/分钟)",
+                   "en_US":"SO08 Mid Value of  Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528958-BpbeEO",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S08_MINWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"18",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO08水流量Q1下限报警值(升/分钟)",
+                   "en_US":"SO08 Min Value of Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528959-TDuWkH",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S08_MIDWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"18",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO08水流量Q2下限预警值(升/分钟)",
+                   "en_US":"SO08 Mid Value of  Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528960-E39Uup",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S08_MINWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"18",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO08水流量Q2下限报警值(升/分钟)",
+                   "en_US":"SO08 Min Value of Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528961-4GWOib",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S08_MIDWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"18",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO08水流量Q3下限预警值(升/分钟)",
+                   "en_US":"SO08 Mid Value of  Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528962-9YtDK8",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S08_MINWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"18",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO08水流量Q3下限报警值(升/分钟)",
+                   "en_US":"SO08 Min Value of Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528963-82bAC9",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S09_MAXCURRENT",
+         "CPAD_CPA_NODEID":"19",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO09电流上限报警值(A)",
+                   "en_US":"SO09 Max Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528964-x2Ec5x",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S09_MAXMIDCURRENT",
+         "CPAD_CPA_NODEID":"19",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO09电流上限预警值(A)",
+                   "en_US":"SO09 Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528965-RNukah",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S09_MAXMIDPRESSURE",
+         "CPAD_CPA_NODEID":"19",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO09压力上限预警值(N)",
+                   "en_US":"SO09 Mid Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528966-JWCcGC",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S09_MAXMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"19",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO09温度上限预警值(℃)",
+                   "en_US":"SO09 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528967-rvLVDB",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S09_MAXPRESSURE",
+         "CPAD_CPA_NODEID":"19",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO09压力上限报警值(N)",
+                   "en_US":"SO09 Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528968-ZAZxsJ",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S09_MAXTEMPERATURE",
+         "CPAD_CPA_NODEID":"19",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO09温度上限报警值(℃)",
+                   "en_US":"SO09 Max Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528969-XMLHPX",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S09_MINCURRENT",
+         "CPAD_CPA_NODEID":"19",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO09电流下限报警值(A)",
+                   "en_US":"SO09 Min Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528970-gCOEC9",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S09_MINMIDCURRENT",
+         "CPAD_CPA_NODEID":"19",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO09电流下限预警值(A)",
+                   "en_US":"SO09 Min Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528971-gCYcEM",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S09_MINMIDPRESSURE",
+         "CPAD_CPA_NODEID":"19",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO09压力下限预警值(N)",
+                   "en_US":"SO09 Mid Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528972-45STw3",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S09_MINMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"19",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO09温度下限预警值(℃)",
+                   "en_US":"SO09 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528973-K6JihL",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S09_MINPRESSURE",
+         "CPAD_CPA_NODEID":"19",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO09压力下限报警值(N)",
+                   "en_US":"SO09 Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528974-G39q2w",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S09_MINTEMPERATURE",
+         "CPAD_CPA_NODEID":"19",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO09温度下限报警值(℃)",
+                   "en_US":"SO09 Min Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528975-Cy1JLZ",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S09_MIDWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"19",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO09水流量Q1下限预警值(升/分钟)",
+                   "en_US":"SO09 Mid Value of  Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528976-k4RmD2",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S09_MINWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"19",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO09水流量Q1下限报警值(升/分钟)",
+                   "en_US":"SO09 Min Value of Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528977-QaCnl7",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S09_MIDWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"19",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO09水流量Q2下限预警值(升/分钟)",
+                   "en_US":"SO09 Mid Value of  Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528978-Hl8vyF",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S09_MINWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"19",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO09水流量Q2下限报警值(升/分钟)",
+                   "en_US":"SO09 Min Value of Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528979-bWVEQl",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S09_MIDWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"19",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO09水流量Q3下限预警值(升/分钟)",
+                   "en_US":"SO09 Mid Value of  Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528980-56TBBU",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S09_MINWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"19",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO09水流量Q3下限报警值(升/分钟)",
+                   "en_US":"SO09 Min Value of Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528981-cZHZpg",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S10_MAXCURRENT",
+         "CPAD_CPA_NODEID":"20",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO10电流上限报警值(A)",
+                   "en_US":"SO10 Max Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528982-TluVBm",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S10_MAXMIDCURRENT",
+         "CPAD_CPA_NODEID":"20",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO10电流上限预警值(A)",
+                   "en_US":"SO10 Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528983-7v7XIX",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S10_MAXMIDPRESSURE",
+         "CPAD_CPA_NODEID":"20",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO10压力上限预警值(N)",
+                   "en_US":"SO10 Mid Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528984-17i0dn",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S10_MAXMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"20",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO10温度上限预警值(℃)",
+                   "en_US":"SO10 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528985-a9Rsoz",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S10_MAXPRESSURE",
+         "CPAD_CPA_NODEID":"20",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO10压力上限报警值(N)",
+                   "en_US":"SO10 Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528986-e3d46P",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S10_MAXTEMPERATURE",
+         "CPAD_CPA_NODEID":"20",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO10温度上限报警值(℃)",
+                   "en_US":"SO10 Max Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528987-Q9gASL",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S10_MINCURRENT",
+         "CPAD_CPA_NODEID":"20",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO10电流下限报警值(A)",
+                   "en_US":"SO10 Min Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528988-LvSVjB",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S10_MINMIDCURRENT",
+         "CPAD_CPA_NODEID":"20",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO10电流下限预警值(A)",
+                   "en_US":"SO10 Min Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528989-z7gZbw",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S10_MINMIDPRESSURE",
+         "CPAD_CPA_NODEID":"20",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO10压力下限预警值(N)",
+                   "en_US":"SO10 Mid Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528990-fog5FU",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S10_MINMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"20",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO10温度下限预警值(℃)",
+                   "en_US":"SO10 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528991-qCOORG",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S10_MINPRESSURE",
+         "CPAD_CPA_NODEID":"20",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO10压力下限报警值(N)",
+                   "en_US":"SO10 Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528992-XPhNqy",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S10_MINTEMPERATURE",
+         "CPAD_CPA_NODEID":"20",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO10温度下限报警值(℃)",
+                   "en_US":"SO10 Min Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528993-rydNvx",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S10_MIDWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"20",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO10水流量Q1下限预警值(升/分钟)",
+                   "en_US":"SO10 Mid Value of  Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528994-BSLhTZ",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S10_MINWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"20",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO10水流量Q1下限报警值(升/分钟)",
+                   "en_US":"SO10 Min Value of Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528995-PfFI7Z",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S10_MIDWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"20",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO10水流量Q2下限预警值(升/分钟)",
+                   "en_US":"SO10 Mid Value of  Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528996-1LMIXV",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S10_MINWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"20",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO10水流量Q2下限报警值(升/分钟)",
+                   "en_US":"SO10 Min Value of Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528997-50fCTx",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S10_MIDWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"20",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO10水流量Q3下限预警值(升/分钟)",
+                   "en_US":"SO10 Mid Value of  Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528998-JeGEqv",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S10_MINWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"20",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO10水流量Q3下限报警值(升/分钟)",
+                   "en_US":"SO10 Min Value of Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653528999-EixmL4",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"N_VALUE_01",
+         "CPAD_CPA_NODEID":"11",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO01最新统计N值参考",
+                   "en_US":"Latest stat. SO01 N-value reference"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529000-DoEYIG",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"N_VALUE_02",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02最新统计N值参考",
+                   "en_US":"Latest stat. SO02 N-value reference"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529001-yKCgpd",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"N_VALUE_03",
+         "CPAD_CPA_NODEID":"13",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO03最新统计N值参考",
+                   "en_US":"Latest stat. SO03 N-value reference"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529002-Z1eubq",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"N_VALUE_04",
+         "CPAD_CPA_NODEID":"14",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO04最新统计N值参考",
+                   "en_US":"Latest stat. SO04 N-value reference"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529003-F8xbCT",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"N_VALUE_05",
+         "CPAD_CPA_NODEID":"15",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO05最新统计N值参考",
+                   "en_US":"Latest stat. SO05 N-value reference"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529004-ZNhaXs",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"N_VALUE_06",
+         "CPAD_CPA_NODEID":"16",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO06最新统计N值参考",
+                   "en_US":"Latest stat. SO06 N-value reference"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529005-Ws4GGH",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"N_VALUE_07",
+         "CPAD_CPA_NODEID":"17",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO07最新统计N值参考",
+                   "en_US":"Latest stat. SO07 N-value reference"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529006-3bC4QR",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"N_VALUE_08",
+         "CPAD_CPA_NODEID":"18",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO08最新统计N值参考",
+                   "en_US":"Latest stat. SO08 N-value reference"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529007-lRUfMG",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"N_VALUE_09",
+         "CPAD_CPA_NODEID":"19",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO09最新统计N值参考",
+                   "en_US":"Latest stat. SO09 N-value reference"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529008-hKkMtX",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"N_VALUE_10",
+         "CPAD_CPA_NODEID":"20",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO10最新统计N值参考",
+                   "en_US":"Latest stat. SO10 N-value reference"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529009-MMiVTy",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"PHOTOMODE",
+         "CPAD_CPA_NODEID":"1",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"拍照模式",
+                   "en_US":"Photo mode"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529010-RvbdhY",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"TIMEPARAMETER_T1",
+         "CPAD_CPA_NODEID":"1",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"时间参数T1",
+                   "en_US":"Time parameter T1"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529011-GW5ors",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MAXMIDPRESSURE_G2",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02压力上限预警值(N)",
+                   "en_US":"SO02 Mid Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529012-BB5Dzk",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MAXPRESSURE_G2",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02压力上限报警值(N)",
+                   "en_US":"SO02 Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529013-VSsIMo",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MINMIDPRESSURE_G2",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02压力下限预警值(N)",
+                   "en_US":"SO02 Mid Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529014-adfAuF",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MINPRESSURE_G2",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02压力下限报警值(N)",
+                   "en_US":"SO02 Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529015-eZQOz2",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"N_VALUE",
+         "CPAD_CPA_NODEID":"1",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"最新统计N值参考",
+                   "en_US":"Latest stat. N-value reference"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529016-bwKmVD",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S01_MAXCURRENT",
+         "CPAD_CPA_NODEID":"11",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO01电流上限报警值(A)",
+                   "en_US":"SO01 Max Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529017-ZthFXm",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S01_MAXMIDCURRENT",
+         "CPAD_CPA_NODEID":"11",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO01电流上限预警值(A)",
+                   "en_US":"SO01 Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529018-WY1cbB",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S01_MAXMIDPRESSURE",
+         "CPAD_CPA_NODEID":"11",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO01压力上限预警值(N)",
+                   "en_US":"SO01 Mid Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529019-IDEfU6",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S01_MAXMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"11",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO01温度上限预警值(℃)",
+                   "en_US":"SO01 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529020-66CiY3",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S01_MAXPRESSURE",
+         "CPAD_CPA_NODEID":"11",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO01压力上限报警值(N)",
+                   "en_US":"SO01 Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529021-RSQWqj",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S01_MAXTEMPERATURE",
+         "CPAD_CPA_NODEID":"11",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO01温度上限报警值(℃)",
+                   "en_US":"SO01 Max Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529022-qGquSB",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S01_MINCURRENT",
+         "CPAD_CPA_NODEID":"11",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO01电流下限报警值(A)",
+                   "en_US":"SO01 Min Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529023-3PVeZM",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S01_MINMIDCURRENT",
+         "CPAD_CPA_NODEID":"11",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO01电流下限预警值(A)",
+                   "en_US":"SO01 Min Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529024-Esm34F",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S01_MINMIDPRESSURE",
+         "CPAD_CPA_NODEID":"11",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO01压力下限预警值(N)",
+                   "en_US":"SO01 Mid Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529025-ljOLov",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S01_MINMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"11",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO01温度下限预警值(℃)",
+                   "en_US":"SO01 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529026-mVdtiF",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S01_MINPRESSURE",
+         "CPAD_CPA_NODEID":"11",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO01压力下限报警值(N)",
+                   "en_US":"SO01 Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529027-9uAjAY",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S01_MINTEMPERATURE",
+         "CPAD_CPA_NODEID":"11",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO01温度下限报警值(℃)",
+                   "en_US":"SO01 Min Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529028-QR5Nnn",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S01_MIDWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"11",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO01水流量Q1下限预警值(升/分钟)",
+                   "en_US":"SO01 Mid Value of  Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529029-pxUNji",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S01_MINWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"11",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO01水流量Q1下限报警值(升/分钟)",
+                   "en_US":"SO01 Min Value of Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529030-oBrxCB",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S01_MIDWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"11",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO01水流量Q2下限预警值(升/分钟)",
+                   "en_US":"SO01 Mid Value of  Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529031-VeyqwD",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S01_MINWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"11",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO01水流量Q2下限报警值(升/分钟)",
+                   "en_US":"SO01 Min Value of Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529032-xG60oU",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S01_MIDWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"11",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO01水流量Q3下限预警值(升/分钟)",
+                   "en_US":"SO01 Mid Value of  Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529033-BinzyN",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S01_MINWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"11",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO01水流量Q3下限报警值(升/分钟)",
+                   "en_US":"SO01 Min Value of Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529034-OCBQnO",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MAXCURRENT",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02电流上限报警值(A)",
+                   "en_US":"SO02 Max Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529035-LTVBiF",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MAXMIDCURRENT",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02电流上限预警值(A)",
+                   "en_US":"SO02 Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529036-YZfLoF",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MAXMIDPRESSURE",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02压力上限预警值(N)",
+                   "en_US":"SO02 Mid Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529037-MIKbU5",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MAXMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02温度上限预警值(℃)",
+                   "en_US":"SO02 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529038-WHMLZW",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MAXPRESSURE",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02压力上限报警值(N)",
+                   "en_US":"SO02 Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529039-y7vPh4",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MAXTEMPERATURE",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02温度上限报警值(℃)",
+                   "en_US":"SO02 Max Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529040-rd2Tge",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MINCURRENT",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02电流下限报警值(A)",
+                   "en_US":"SO02 Min Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529041-w9GoMy",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MINMIDCURRENT",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02电流下限预警值(A)",
+                   "en_US":"SO02 Min Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529042-Jjd1Nq",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MINMIDPRESSURE",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02压力下限预警值(N)",
+                   "en_US":"SO02 Mid Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529043-b5ZXJX",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MINMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02温度下限预警值(℃)",
+                   "en_US":"SO02 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529044-ZMunzd",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MINPRESSURE",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02压力下限报警值(N)",
+                   "en_US":"SO02 Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529045-DiKKvG",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MINTEMPERATURE",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02温度下限报警值(℃)",
+                   "en_US":"SO02 Min Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529046-eVDGP4",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MIDWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02水流量Q1下限预警值(升/分钟)",
+                   "en_US":"SO02 Mid Value of  Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529047-tobHE6",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MINWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02水流量Q1下限报警值(升/分钟)",
+                   "en_US":"SO02 Min Value of Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529048-5GJLsu",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MIDWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02水流量Q2下限预警值(升/分钟)",
+                   "en_US":"SO02 Mid Value of  Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529049-IFH3Bb",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MINWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02水流量Q2下限报警值(升/分钟)",
+                   "en_US":"SO02 Min Value of Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529050-vr3tmY",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MIDWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02水流量Q3下限预警值(升/分钟)",
+                   "en_US":"SO02 Mid Value of  Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529051-mKL72L",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S02_MINWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"12",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO02水流量Q3下限报警值(升/分钟)",
+                   "en_US":"SO02 Min Value of Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529052-aFVBLi",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S03_MAXCURRENT",
+         "CPAD_CPA_NODEID":"13",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO03电流上限报警值(A)",
+                   "en_US":"SO03 Max Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529053-l37Hos",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S03_MAXMIDCURRENT",
+         "CPAD_CPA_NODEID":"13",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO03电流上限预警值(A)",
+                   "en_US":"SO03 Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529054-oIqaNw",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S03_MAXMIDPRESSURE",
+         "CPAD_CPA_NODEID":"13",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO03压力上限预警值(N)",
+                   "en_US":"SO03 Mid Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529055-D4XSvw",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S03_MAXMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"13",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO03温度上限预警值(℃)",
+                   "en_US":"SO03 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529056-5FNKx7",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S03_MAXPRESSURE",
+         "CPAD_CPA_NODEID":"13",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO03压力上限报警值(N)",
+                   "en_US":"SO03 Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529057-vxu5e7",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S03_MAXTEMPERATURE",
+         "CPAD_CPA_NODEID":"13",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO03温度上限报警值(℃)",
+                   "en_US":"SO03 Max Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529058-DfDmYA",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S03_MINCURRENT",
+         "CPAD_CPA_NODEID":"13",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO03电流下限报警值(A)",
+                   "en_US":"SO03 Min Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529059-4B8TsO",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"CAMERASENSITIVITY",
+         "CPAD_CPA_NODEID":"1",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"相机灵敏度",
+                   "en_US":"Camera sensitivity"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529060-ku7QA6",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"TIMEPARAMETER_T3",
+         "CPAD_CPA_NODEID":"1",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"时间参数T3",
+                   "en_US":"Time parameter T3"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529061-OTi6JJ",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"TIMERANGE",
+         "CPAD_CPA_NODEID":"1",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"横坐标时间范围(秒)",
+                   "en_US":"Time range ( second)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529062-qH7boL",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"TIMEPARAMETER_T2",
+         "CPAD_CPA_NODEID":"1",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"时间参数T2",
+                   "en_US":"Time parameter T2"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529063-Ij5KMp",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"CURRENT_VOLTAGE_SOURCE",
+         "CPAD_CPA_NODEID":"1",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"电流电压来源:0来自采集器,1来自Xpegasus归档日志",
+                   "en_US":"Current and voltage source:0-collector,1-Xpegasus archivelog"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529064-DxoZui",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"N_VALUE_11",
+         "CPAD_CPA_NODEID":"21",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO11最新统计N值参考",
+                   "en_US":"Latest stat. SO11 N-value reference"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529065-uiUoIA",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S11_MAXCURRENT",
+         "CPAD_CPA_NODEID":"21",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO11电流上限报警值(A)",
+                   "en_US":"SO11 Max Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529066-c5Yyp8",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S11_MAXMIDCURRENT",
+         "CPAD_CPA_NODEID":"21",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO11电流上限预警值(A)",
+                   "en_US":"SO11 Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529067-Vux6jT",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S11_MAXMIDPRESSURE",
+         "CPAD_CPA_NODEID":"21",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO11压力上限预警值(N)",
+                   "en_US":"SO11 Mid Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529068-eFOFEn",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S11_MAXMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"21",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO11温度上限预警值(℃)",
+                   "en_US":"SO11 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529069-nP0RxJ",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S11_MAXPRESSURE",
+         "CPAD_CPA_NODEID":"21",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO11压力上限报警值(N)",
+                   "en_US":"SO11 Max Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529070-wq02rg",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S11_MAXTEMPERATURE",
+         "CPAD_CPA_NODEID":"21",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO11温度上限报警值(℃)",
+                   "en_US":"SO11 Max Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529071-c2lcoc",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S11_MINCURRENT",
+         "CPAD_CPA_NODEID":"21",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO11电流下限报警值(A)",
+                   "en_US":"SO11 Min Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529072-iC68MF",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S11_MINMIDCURRENT",
+         "CPAD_CPA_NODEID":"21",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO11电流下限预警值(A)",
+                   "en_US":"SO11 Min Mid Value of Current(A)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529073-4MRNuX",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S11_MINMIDPRESSURE",
+         "CPAD_CPA_NODEID":"21",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO11压力下限预警值(N)",
+                   "en_US":"SO11 Mid Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529074-mm8KVF",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S11_MINMIDTEMPERATURE",
+         "CPAD_CPA_NODEID":"21",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO11温度下限预警值(℃)",
+                   "en_US":"SO11 Mid Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529075-bw5AMt",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S11_MINPRESSURE",
+         "CPAD_CPA_NODEID":"21",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO11压力下限报警值(N)",
+                   "en_US":"SO11 Min Value of Pressure(N)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529076-zgbvVm",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S11_MINTEMPERATURE",
+         "CPAD_CPA_NODEID":"21",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO11温度下限报警值(℃)",
+                   "en_US":"SO11 Min Value of Temperature(℃)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529077-phDroA",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S11_MIDWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"21",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO11水流量Q1下限预警值(升/分钟)",
+                   "en_US":"SO11 Mid Value of  Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529078-2azdPL",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S11_MINWATERFLOW_Q1",
+         "CPAD_CPA_NODEID":"21",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO11水流量Q1下限报警值(升/分钟)",
+                   "en_US":"SO11 Min Value of Q1 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529079-mrYxxT",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S11_MIDWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"21",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO11水流量Q2下限预警值(升/分钟)",
+                   "en_US":"SO11 Mid Value of  Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529080-OsnKHH",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S11_MINWATERFLOW_Q2",
+         "CPAD_CPA_NODEID":"21",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO11水流量Q2下限报警值(升/分钟)",
+                   "en_US":"SO11 Min Value of Q2 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529081-AbNKBs",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S11_MIDWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"21",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO11水流量Q3下限预警值(升/分钟)",
+                   "en_US":"SO11 Mid Value of  Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529082-FMIbh5",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"S11_MINWATERFLOW_Q3",
+         "CPAD_CPA_NODEID":"21",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"SO11水流量Q3下限报警值(升/分钟)",
+                   "en_US":"SO11 Min Value of Q3 Water Flow(L/MIN)"
+                   }
+         }
+},
+{
+     "_id":"APPDB-DS-1653529083-UOHEEi",
+     "category":"DICTIONARY",
+     "nick-name":"CPAD_PARAM_DESC",
+     "properties":{
+         "CPAD_CPA_NAME":"COLLECTOR_RAW_DATA",
+         "CPAD_CPA_NODEID":"1",
+         "CPAD_CPA_SUBSYSTEM_NODEID":"1",
+         "CPAD_DESCR":{
+                   "zh_CN":"采集器原始数据",
+                   "en_US":"Collector raw data"
+                   }
+         }
+}
+]

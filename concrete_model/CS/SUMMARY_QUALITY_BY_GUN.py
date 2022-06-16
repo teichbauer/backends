@@ -1,0 +1,44 @@
+[
+{
+     "_id":"APPDB-CS-1653466869-B0D6CU",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_GUN",
+     "properties":{
+         "START_TIME":"1644463685.05",
+         "END_TIME":"1645172140.027",
+         "GUN_NAME":"S20R01GUN01 ",
+         "SPOT_TOTAL":"1628",
+         "OK_COUNT":"1436",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653466870-eqd1mi",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_GUN",
+     "properties":{
+         "START_TIME":"1648095505.659",
+         "END_TIME":"1653361196.168",
+         "GUN_NAME":"FD010R01G01 ",
+         "SPOT_TOTAL":"69421",
+         "OK_COUNT":"68501",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44705"
+         }
+},
+{
+     "_id":"APPDB-CS-1653466871-Wlq4wv",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_GUN",
+     "properties":{
+         "START_TIME":"1648095640.592",
+         "END_TIME":"1653360961.561",
+         "GUN_NAME":"FD010R02G01 ",
+         "SPOT_TOTAL":"18546",
+         "OK_COUNT":"18540",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44705"
+         }
+}
+]

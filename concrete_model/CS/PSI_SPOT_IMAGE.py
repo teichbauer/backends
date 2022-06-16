@@ -1,0 +1,104 @@
+[
+{
+     "_id":"APPDB-CS-1653464151-iHfehI",
+     "category":"DESIGN",
+     "nick-name":"PSI_SPOT_IMAGE",
+     "properties":{
+         "PSI_SPOT_NAME":"0-3000_S20R01_A_001__PS_0001",
+         "PSI_SPOT_IMAGE1":"VW316_6CN_K.png",
+         "PSI_SPOT_IMAGE2":"U2A1_2020_AUS.png",
+         "PSI_POS_L":"82.2",
+         "PSI_POS_T":"63.5",
+         "PSI_MODULE_ID":"",
+         "PSI_SPOT_ID":"",
+         "PSI_PROGRAM_ID":"",
+         "PSI_GROUP_ID":"",
+         "PSI_MODULE_NAME":""
+         }
+},
+{
+     "_id":"APPDB-CS-1653464152-73ooDl",
+     "category":"DESIGN",
+     "nick-name":"PSI_SPOT_IMAGE",
+     "properties":{
+         "PSI_SPOT_NAME":"0-3001_S20R01_A_001__PS_0002",
+         "PSI_SPOT_IMAGE1":"VW316_6CN_K.png",
+         "PSI_SPOT_IMAGE2":"U2A1_2020_AUS.png",
+         "PSI_POS_L":"82.2",
+         "PSI_POS_T":"56.5",
+         "PSI_MODULE_ID":"",
+         "PSI_SPOT_ID":"",
+         "PSI_PROGRAM_ID":"",
+         "PSI_GROUP_ID":"",
+         "PSI_MODULE_NAME":""
+         }
+},
+{
+     "_id":"APPDB-CS-1653464153-nmru2w",
+     "category":"DESIGN",
+     "nick-name":"PSI_SPOT_IMAGE",
+     "properties":{
+         "PSI_SPOT_NAME":"0-3002_S20R01_A_001__PS_0003",
+         "PSI_SPOT_IMAGE1":"VW316_6CN_K.png",
+         "PSI_SPOT_IMAGE2":"U2A1_2020_AUS.png",
+         "PSI_POS_L":"81.6",
+         "PSI_POS_T":"50",
+         "PSI_MODULE_ID":"",
+         "PSI_SPOT_ID":"",
+         "PSI_PROGRAM_ID":"",
+         "PSI_GROUP_ID":"",
+         "PSI_MODULE_NAME":""
+         }
+},
+{
+     "_id":"APPDB-CS-1653464154-HCBomr",
+     "category":"DESIGN",
+     "nick-name":"PSI_SPOT_IMAGE",
+     "properties":{
+         "PSI_SPOT_NAME":"0-3003_S20R01_A_002__PS_0001",
+         "PSI_SPOT_IMAGE1":"VW316_6CN_K.png",
+         "PSI_SPOT_IMAGE2":"U2A1_2020_AUS.png",
+         "PSI_POS_L":"90",
+         "PSI_POS_T":"75.5",
+         "PSI_MODULE_ID":"",
+         "PSI_SPOT_ID":"",
+         "PSI_PROGRAM_ID":"",
+         "PSI_GROUP_ID":"",
+         "PSI_MODULE_NAME":""
+         }
+},
+{
+     "_id":"APPDB-CS-1653464155-DM4WxZ",
+     "category":"DESIGN",
+     "nick-name":"PSI_SPOT_IMAGE",
+     "properties":{
+         "PSI_SPOT_NAME":"0-3004_S20R01_A_002__PS_0002",
+         "PSI_SPOT_IMAGE1":"VW316_6CN_K.png",
+         "PSI_SPOT_IMAGE2":"U2A1_2020_AUS.png",
+         "PSI_POS_L":"88.2",
+         "PSI_POS_T":"48",
+         "PSI_MODULE_ID":"",
+         "PSI_SPOT_ID":"",
+         "PSI_PROGRAM_ID":"",
+         "PSI_GROUP_ID":"",
+         "PSI_MODULE_NAME":""
+         }
+},
+{
+     "_id":"APPDB-CS-1653464156-SKQj8u",
+     "category":"DESIGN",
+     "nick-name":"PSI_SPOT_IMAGE",
+     "properties":{
+         "PSI_SPOT_NAME":"0-3005_S20R01_A_002__PS_0003",
+         "PSI_SPOT_IMAGE1":"VW316_6CN_K.png",
+         "PSI_SPOT_IMAGE2":"U2A1_2020_AUS.png",
+         "PSI_POS_L":"17.5",
+         "PSI_POS_T":"30",
+         "PSI_MODULE_ID":"",
+         "PSI_SPOT_ID":"",
+         "PSI_PROGRAM_ID":"",
+         "PSI_GROUP_ID":"",
+         "PSI_MODULE_NAME":""
+         }
+}
+]

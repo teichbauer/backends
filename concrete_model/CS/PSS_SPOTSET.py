@@ -1,0 +1,62 @@
+[
+{
+     "_id":"APPDB-CS-1653465145-68huFX",
+     "category":"PROCESS",
+     "nick-name":"PSS_SPOTSET",
+     "properties":{
+         "PSS_CREATETIME":"0",
+         "PSS_UPDATETIME":"0",
+         "PSS_ITEM":"JNQK_LS_182001801_202205240535_0000000000000000600",
+         "PSS_ID":"23",
+         "PSS_MAXFAULTCOUNT":"1",
+         "PSS_SPOTNUMBER":"0",
+         "PSS_SPOTSETID":"SPOTSET101",
+         "PSS_CONTROLCABINETID":"/FD010/010R02"
+         }
+},
+{
+     "_id":"APPDB-CS-1653465146-DFHhJO",
+     "category":"PROCESS",
+     "nick-name":"PSS_SPOTSET",
+     "properties":{
+         "PSS_CREATETIME":"0",
+         "PSS_UPDATETIME":"0",
+         "PSS_ITEM":"JNQK_RS_182001801_202205240501_0000000000000000700",
+         "PSS_ID":"24",
+         "PSS_MAXFAULTCOUNT":"50",
+         "PSS_SPOTNUMBER":"1",
+         "PSS_SPOTSETID":"SPOTSET102",
+         "PSS_CONTROLCABINETID":"/FD010/010R01"
+         }
+},
+{
+     "_id":"APPDB-CS-1653465147-8tgcu6",
+     "category":"PROCESS",
+     "nick-name":"PSS_SPOTSET",
+     "properties":{
+         "PSS_CREATETIME":"0",
+         "PSS_UPDATETIME":"0",
+         "PSS_ITEM":"JNQK_31_171001801_202205240383_0000000000000000820",
+         "PSS_ID":"25",
+         "PSS_MAXFAULTCOUNT":"29",
+         "PSS_SPOTNUMBER":"2",
+         "PSS_SPOTSETID":"SPOTSET103",
+         "PSS_CONTROLCABINETID":"/FD010/010R01"
+         }
+},
+{
+     "_id":"APPDB-CS-1653465148-4q8XP3",
+     "category":"PROCESS",
+     "nick-name":"PSS_SPOTSET",
+     "properties":{
+         "PSS_CREATETIME":"0",
+         "PSS_UPDATETIME":"0",
+         "PSS_ITEM":"JNQK_21_151001801_202205230322_0000000000000000810",
+         "PSS_ID":"26",
+         "PSS_MAXFAULTCOUNT":"0",
+         "PSS_SPOTNUMBER":"3",
+         "PSS_SPOTSETID":"SPOTSET104",
+         "PSS_CONTROLCABINETID":"/FD010/010R01"
+         }
+}
+]

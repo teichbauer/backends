@@ -1,0 +1,156 @@
+[
+    {
+        "_id": "APPDB-CS-1655269504-B8qELu",
+        "category": "PLANNING",
+        "nick-name": "PSG_GUN_IMAGE",
+        "properties": {
+            "PSG_GUNNAME": "S20R01GUN01",
+            "PSG_GUN_IMAGE1": "gunlayout.png",
+            "PSG_MODULE_ID": 0,
+            "PSG_MODULE_NAME": "S20R01T01",
+            "PSG_POS_L": 39.6,
+            "PSG_POS_T": 25.8,
+            "PSI_GROUP_ID": "SNG20"
+        }
+    },
+    {
+        "_id": "APPDB-DS-1655269505-vjZ9s0",
+        "category": "PLANNING",
+        "nick-name": "PSG_GUN_IMAGE",
+        "properties": {
+            "PSG_GUNNAME": "S20R01GUN02",
+            "PSG_GUN_IMAGE1": "gunlayout.png",
+            "PSG_MODULE_ID": null,
+            "PSG_MODULE_NAME": "None",
+            "PSG_POS_L": 38.4,
+            "PSG_POS_T": 52.9,
+            "PSI_GROUP_ID": "None"
+        }
+    },
+    {
+        "_id": "APPDB-DS-1655269506-k4zd6H",
+        "category": "PLANNING",
+        "nick-name": "PSG_GUN_IMAGE",
+        "properties": {
+            "PSG_GUNNAME": "S20R01GUN03",
+            "PSG_GUN_IMAGE1": "gunlayout.png",
+            "PSG_MODULE_ID": null,
+            "PSG_MODULE_NAME": "None",
+            "PSG_POS_L": 58.4,
+            "PSG_POS_T": 46.2,
+            "PSI_GROUP_ID": "None"
+        }
+    },
+    {
+        "_id": "APPDB-DS-1655269507-PDloC2",
+        "category": "PLANNING",
+        "nick-name": "PSG_GUN_IMAGE",
+        "properties": {
+            "PSG_GUNNAME": "S20R01GUN04",
+            "PSG_GUN_IMAGE1": "gunlayout.png",
+            "PSG_MODULE_ID": null,
+            "PSG_MODULE_NAME": "None",
+            "PSG_POS_L": 54.3,
+            "PSG_POS_T": 70.6,
+            "PSI_GROUP_ID": "None"
+        }
+    },
+    {
+        "_id": "APPDB-DS-1655269508-MLpEp8",
+        "category": "PLANNING",
+        "nick-name": "PSG_GUN_IMAGE",
+        "properties": {
+            "PSG_GUNNAME": "S20R01GUN03",
+            "PSG_GUN_IMAGE1": "gunlayout.png",
+            "PSG_MODULE_ID": null,
+            "PSG_MODULE_NAME": "None",
+            "PSG_POS_L": 47.6,
+            "PSG_POS_T": 45.4,
+            "PSI_GROUP_ID": "None"
+        }
+    },
+    {
+        "_id": "APPDB-DS-1655269509-KPP4aM",
+        "category": "PLANNING",
+        "nick-name": "PSG_GUN_IMAGE",
+        "properties": {
+            "PSG_GUNNAME": "S20R01GUN04",
+            "PSG_GUN_IMAGE1": "gunlayout.png",
+            "PSG_MODULE_ID": null,
+            "PSG_MODULE_NAME": "None",
+            "PSG_POS_L": 44,
+            "PSG_POS_T": 66.8,
+            "PSI_GROUP_ID": "None"
+        }
+    },
+    {
+        "_id": "APPDB-DS-1655269510-aHA77D",
+        "category": "PLANNING",
+        "nick-name": "PSG_GUN_IMAGE",
+        "properties": {
+            "PSG_GUNNAME": "Zange 1",
+            "PSG_GUN_IMAGE1": "gunlayout.png",
+            "PSG_MODULE_ID": null,
+            "PSG_MODULE_NAME": "1050R09",
+            "PSG_POS_L": 75.1,
+            "PSG_POS_T": 85,
+            "PSI_GROUP_ID": "W1UB11221050R09"
+        }
+    },
+    {
+        "_id": "APPDB-DS-1655269511-hk3iZl",
+        "category": "PLANNING",
+        "nick-name": "PSG_GUN_IMAGE",
+        "properties": {
+            "PSG_GUNNAME": "FD010R01G01",
+            "PSG_GUN_IMAGE1": "gunlayout_JNQK_01.png",
+            "PSG_MODULE_ID": null,
+            "PSG_MODULE_NAME": "None",
+            "PSG_POS_L": 50.9,
+            "PSG_POS_T": 36.6,
+            "PSI_GROUP_ID": "None"
+        }
+    },
+    {
+        "_id": "APPDB-DS-1655269512-wQqO86",
+        "category": "PLANNING",
+        "nick-name": "PSG_GUN_IMAGE",
+        "properties": {
+            "PSG_GUNNAME": "FD010R02G01",
+            "PSG_GUN_IMAGE1": "gunlayout_JNQK_02.png",
+            "PSG_MODULE_ID": null,
+            "PSG_MODULE_NAME": "None",
+            "PSG_POS_L": 42,
+            "PSG_POS_T": 61,
+            "PSI_GROUP_ID": "None"
+        }
+    },
+    {
+        "_id": "APPDB-DS-1655269513-gO3s04",
+        "category": "PLANNING",
+        "nick-name": "PSG_GUN_IMAGE",
+        "properties": {
+            "PSG_GUNNAME": "S20R01GUN01",
+            "PSG_GUN_IMAGE1": "gunlayout.png",
+            "PSG_MODULE_ID": 0,
+            "PSG_MODULE_NAME": "S20R01T01",
+            "PSG_POS_L": 31.4,
+            "PSG_POS_T": 27,
+            "PSI_GROUP_ID": "SNG20"
+        }
+    },
+    {
+        "_id": "APPDB-DS-1655269514-KHj9v9",
+        "category": "PLANNING",
+        "nick-name": "PSG_GUN_IMAGE",
+        "properties": {
+            "PSG_GUNNAME": "S20R01GUN02",
+            "PSG_GUN_IMAGE1": "gunlayout.png",
+            "PSG_MODULE_ID": null,
+            "PSG_MODULE_NAME": "None",
+            "PSG_POS_L": 30.1,
+            "PSG_POS_T": 51.4,
+            "PSI_GROUP_ID": "None"
+        }
+    }
+]

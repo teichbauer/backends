@@ -1,0 +1,4748 @@
+[
+    {
+        "_id": "APPDB-TS-1655275581-y5NDGJ",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1645172133.177,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.6354868115048,
+            "PSQ_SQUARE": 56.6860632225644,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275582-zR1e4p",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1645172088.384,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 97.9015048520866,
+            "PSQ_SQUARE": 21.4347588536442,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275583-8o7XR2",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1645172130.093,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 98.7940792967938,
+            "PSQ_SQUARE": 12.206406616568,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275584-yK2qEf",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1645172136.975,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.5399571489364,
+            "PSQ_SQUARE": 57.7538113589565,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275585-23SDQu",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1645172126.079,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 98.5910150877137,
+            "PSQ_SQUARE": 14.2912101171968,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275586-uyjEFI",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1645172122.05,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 98.4952043686976,
+            "PSQ_SQUARE": 15.277856835237,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275587-dJn9UK",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465541.257,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9250574803426,
+            "PSQ_SQUARE": 64.678613807916,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275588-BxsGpk",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465075.408,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7063404342868,
+            "PSQ_SQUARE": 67.1636469479534,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275589-L29Wrb",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465480.346,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7878648371372,
+            "PSQ_SQUARE": 66.2360228975271,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275590-E3mJzB",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467876.89,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7085958319977,
+            "PSQ_SQUARE": 67.1379622343463,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275591-WAnJZI",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467758.502,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7300267292762,
+            "PSQ_SQUARE": 66.8939665282881,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275592-CKGJEN",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468882.483,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8963170941817,
+            "PSQ_SQUARE": 65.0044974575093,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275593-7sZF23",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468619.125,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7020067539993,
+            "PSQ_SQUARE": 67.2130028392571,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275594-mS60tm",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465446.866,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6656662861198,
+            "PSQ_SQUARE": 67.6270608541951,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275595-tSf1QH",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468271.638,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.572360058007,
+            "PSQ_SQUARE": 68.6916514450241,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275596-7fY0MN",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468517.865,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8047331980486,
+            "PSQ_SQUARE": 66.0442878598821,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275597-xKxHhh",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465497.448,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.726929441544,
+            "PSQ_SQUARE": 66.9292229654061,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275598-wDaMmk",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468123.178,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.985166690102,
+            "PSQ_SQUARE": 63.997687313049,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275599-mSBU4C",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466459.312,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6360180291692,
+            "PSQ_SQUARE": 67.9651068550174,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275600-jyt05l",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644464974.109,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7673712482612,
+            "PSQ_SQUARE": 66.4690570799628,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275601-AflyRo",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465440.01,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9155330736008,
+            "PSQ_SQUARE": 64.7865877695741,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275602-R42Igj",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466351.216,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.949171222027,
+            "PSQ_SQUARE": 64.4053449250044,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275603-sBe0hJ",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466243.1,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1639929609101,
+            "PSQ_SQUARE": 61.9770557256694,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275604-AaOSDm",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465584.974,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1067622817812,
+            "PSQ_SQUARE": 62.6228931410134,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275605-BLVlwf",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466246.522,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5462812612396,
+            "PSQ_SQUARE": 68.9895808977974,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275606-YTGepX",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468585.587,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6700769061786,
+            "PSQ_SQUARE": 67.5767897592468,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275607-MRunRu",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466506.513,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5160201331795,
+            "PSQ_SQUARE": 69.3354984267545,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275608-A9G7NJ",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466745.913,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7158058318017,
+            "PSQ_SQUARE": 67.055862268067,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275609-TFKZ54",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466897.777,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7713990805702,
+            "PSQ_SQUARE": 66.423248245214,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275610-1KSt2s",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465851.843,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6416662383239,
+            "PSQ_SQUARE": 67.9006901211439,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275611-p90MCM",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465844.988,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.964637172888,
+            "PSQ_SQUARE": 64.2301509237709,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275612-g1xJdB",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466304.002,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5228280626667,
+            "PSQ_SQUARE": 69.2576568898566,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275613-LNY2xP",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465082.219,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6326153778824,
+            "PSQ_SQUARE": 68.003917186549,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275614-Rx776V",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468220.995,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.592463681279,
+            "PSQ_SQUARE": 68.462096911363,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275615-y5JOjG",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466398.415,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5175545824248,
+            "PSQ_SQUARE": 69.3179526188488,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275616-RjsG25",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468824.986,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1123749375855,
+            "PSQ_SQUARE": 62.5595206402889,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275617-Eq7nDu",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466658.398,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6173443507447,
+            "PSQ_SQUARE": 68.1781318784486,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275618-Az2If9",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465443.421,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5158803432615,
+            "PSQ_SQUARE": 69.3370968966732,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275619-J0FvQG",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465740.335,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5297019367962,
+            "PSQ_SQUARE": 69.1790728422946,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275620-botLHQ",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644464991.28,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6309056224567,
+            "PSQ_SQUARE": 68.0234195664521,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275621-6FtAmS",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466189.029,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7253926429732,
+            "PSQ_SQUARE": 66.946717213856,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275622-PtzZFX",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465595.277,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5436967743465,
+            "PSQ_SQUARE": 69.0191156463257,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275623-H2w61u",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466911.551,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5060840610956,
+            "PSQ_SQUARE": 69.4491273387233,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275624-btJtrc",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466098.09,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8733056639024,
+            "PSQ_SQUARE": 65.2655650375532,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275625-1tykHm",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465288.144,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.988219997437,
+            "PSQ_SQUARE": 63.9631222160276,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275626-gFDAMZ",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465331.865,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1557704502176,
+            "PSQ_SQUARE": 62.0697969103482,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275627-fpA6VX",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466962.139,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6030493598556,
+            "PSQ_SQUARE": 68.3412632803376,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275628-tTCrVA",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468329.053,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5432530552253,
+            "PSQ_SQUARE": 69.0241865007923,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275629-jp9vXS",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465176.614,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8163156504038,
+            "PSQ_SQUARE": 65.9126752817598,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275630-X1MzD3",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468676.571,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6202120305072,
+            "PSQ_SQUARE": 68.1454125249554,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275631-2ZWMzo",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465591.843,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9350325054652,
+            "PSQ_SQUARE": 64.5655548602897,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275632-zx92nQ",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467265.938,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5603598239789,
+            "PSQ_SQUARE": 68.8287239182961,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275633-F2ws4L",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467610.078,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0968702243194,
+            "PSQ_SQUARE": 62.7346027727385,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275634-bjsAZH",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465335.31,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6084598190406,
+            "PSQ_SQUARE": 68.2795144083688,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275635-fpGwIt",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467519.089,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5633940725503,
+            "PSQ_SQUARE": 68.7940619432702,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275636-dk5q2Y",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466496.193,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1001992317678,
+            "PSQ_SQUARE": 62.6970061317401,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275637-znm3Uv",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467320.031,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6893674933784,
+            "PSQ_SQUARE": 67.3569763086246,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275638-U6r10E",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468781.292,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8827375685963,
+            "PSQ_SQUARE": 65.1585434109651,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275639-Yfba2U",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644464930.376,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.565890992183,
+            "PSQ_SQUARE": 68.765539873441,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275640-cNrTYI",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467826.304,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7228258050229,
+            "PSQ_SQUARE": 66.9759382632769,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275641-qyjqWc",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468420.061,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0595709204107,
+            "PSQ_SQUARE": 63.1560299654761,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275642-XqlMuv",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466654.988,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8918484335945,
+            "PSQ_SQUARE": 65.0551849634258,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275643-ddRh3n",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466864.354,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6437790438786,
+            "PSQ_SQUARE": 67.876595979142,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275644-aM37yO",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466955.306,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5511184490103,
+            "PSQ_SQUARE": 68.9343073381275,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275645-qidRob",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468177.21,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5911890244664,
+            "PSQ_SQUARE": 68.4766487351518,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275646-Xr3V9K",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468264.781,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8064884296356,
+            "PSQ_SQUARE": 66.0243408963137,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275647-Ba6lf6",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466796.517,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7327529219141,
+            "PSQ_SQUARE": 66.8629361959202,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275648-WHsGHW",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468679.993,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9426725083542,
+            "PSQ_SQUARE": 64.4789777628171,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275649-YJFZEB",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468838.719,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6788170371748,
+            "PSQ_SQUARE": 67.4771860143866,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275650-EliAGc",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466344.347,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.057624630071,
+            "PSQ_SQUARE": 63.1780293548808,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275651-C0Dugp",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467458.18,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1409500672235,
+            "PSQ_SQUARE": 62.2369960000692,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275652-aM5Gpu",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467471.878,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6952101684911,
+            "PSQ_SQUARE": 67.2904177296899,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275653-uZHRfC",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467660.703,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0604546045253,
+            "PSQ_SQUARE": 63.1460417711921,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275654-dFrvX4",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465990.008,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0463245380876,
+            "PSQ_SQUARE": 63.3057750119856,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275655-V2ZSpM",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467262.504,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9239037548775,
+            "PSQ_SQUARE": 64.6916919145512,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275656-hedreS",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466050.955,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5567879103528,
+            "PSQ_SQUARE": 68.8695308331993,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275657-Jg8RwR",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466914.953,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6315984931211,
+            "PSQ_SQUARE": 68.0155162292433,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275658-HuBen1",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466756.2,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9085963734482,
+            "PSQ_SQUARE": 64.8652398373406,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275659-mTukLU",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468065.705,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0558929602788,
+            "PSQ_SQUARE": 63.1976036018442,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275660-Knyhf6",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467103.736,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0628095705599,
+            "PSQ_SQUARE": 63.1194247391301,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275661-WvUWmY",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468278.454,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6179308282472,
+            "PSQ_SQUARE": 68.1714401855494,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275662-lVik4e",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467059.981,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9191155870161,
+            "PSQ_SQUARE": 64.7459718394587,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275663-VjwnGY",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466958.736,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9414763892006,
+            "PSQ_SQUARE": 64.4925313468445,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275664-W4s3aw",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467363.79,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9621277108387,
+            "PSQ_SQUARE": 64.2585734940184,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275665-tDrGQs",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465385.882,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6209473809538,
+            "PSQ_SQUARE": 68.1370227230142,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275666-C2GfSK",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468575.32,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5744035320476,
+            "PSQ_SQUARE": 68.6683133999537,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275667-N3ARFG",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468578.725,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9063401210669,
+            "PSQ_SQUARE": 64.8908249547042,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275668-SabDJW",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465743.745,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9195998627216,
+            "PSQ_SQUARE": 64.7404817116532,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275669-Z4Ei4J",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468423.481,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6172529447249,
+            "PSQ_SQUARE": 68.179174826286,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275670-kkUWpf",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467316.559,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5477190394628,
+            "PSQ_SQUARE": 68.973151101795,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275671-6I4FX3",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466401.854,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9403309454134,
+            "PSQ_SQUARE": 64.5055110366573,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275672-GSzTfo",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465132.874,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6261030894319,
+            "PSQ_SQUARE": 68.0782036231893,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275673-JnwikK",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466445.617,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1173440402651,
+            "PSQ_SQUARE": 62.5034208064579,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275674-S9R82R",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467772.191,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5567489737868,
+            "PSQ_SQUARE": 68.8699756766719,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275675-oShsix",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465237.504,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8908999003703,
+            "PSQ_SQUARE": 65.0659446880603,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275676-wkmYGc",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465338.714,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8849509417143,
+            "PSQ_SQUARE": 65.1334318966833,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275677-Faac7v",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466358.078,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6753288699191,
+            "PSQ_SQUARE": 67.5169354234511,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275678-RS95ru",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466199.335,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8767735653631,
+            "PSQ_SQUARE": 65.2262130672128,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275679-yQzLdo",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466550.335,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5782251952291,
+            "PSQ_SQUARE": 68.6246698029733,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275680-qLECQb",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467765.336,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.603885848351,
+            "PSQ_SQUARE": 68.3317160786618,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275681-yHzJDT",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466698.782,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.100268475614,
+            "PSQ_SQUARE": 62.6962241443,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275682-scoGsP",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466752.797,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6272865484547,
+            "PSQ_SQUARE": 68.0647029992398,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275683-umOLEu",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467707.894,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7341053314077,
+            "PSQ_SQUARE": 66.8475433401579,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275684-CZd5Cs",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465193.751,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6589551011241,
+            "PSQ_SQUARE": 67.7035622704667,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275685-YYMYvQ",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467863.167,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0989695244559,
+            "PSQ_SQUARE": 62.7108937044247,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275686-H6xxGp",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468770.936,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7542490265506,
+            "PSQ_SQUARE": 66.6183243778165,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275687-O8BZID",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466145.285,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5771239568088,
+            "PSQ_SQUARE": 68.6372456387487,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275688-fOnXfm",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465588.415,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5440677569478,
+            "PSQ_SQUARE": 69.0148760670364,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275689-s6i7Tx",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465294.998,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6768488905216,
+            "PSQ_SQUARE": 67.4996136651453,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275690-JemY6U",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468484.402,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.629913391504,
+            "PSQ_SQUARE": 68.0347378071373,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275691-ScKALq",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466803.42,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5659808747339,
+            "PSQ_SQUARE": 68.7645131821995,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275692-DkMr3O",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466712.459,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.673041047845,
+            "PSQ_SQUARE": 67.5430079068677,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275693-QUM0Xu",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467009.321,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9644476029677,
+            "PSQ_SQUARE": 64.2322979701275,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275694-vXORZa",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467512.244,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5596170198301,
+            "PSQ_SQUARE": 68.8372097419426,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275695-Jy0vv8",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466810.361,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5536103982369,
+            "PSQ_SQUARE": 68.9058345725213,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275696-XdTn4l",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465548.104,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.695894813125,
+            "PSQ_SQUARE": 67.2826189391586,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275697-oYqanr",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465429.716,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7899887526539,
+            "PSQ_SQUARE": 66.211877514169,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275698-2T6Vq6",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467859.726,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7376891829035,
+            "PSQ_SQUARE": 66.8067548035808,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275699-yQ3xdZ",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468636.227,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7185353854834,
+            "PSQ_SQUARE": 67.0247842508376,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275700-aG86H1",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468119.784,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6189262972001,
+            "PSQ_SQUARE": 68.1600821028711,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275701-YAroSc",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467768.769,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8939594500394,
+            "PSQ_SQUARE": 65.0312393440978,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275702-l9nWlG",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465227.219,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8264677871899,
+            "PSQ_SQUARE": 65.7973422468847,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275703-xy8C6D",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466347.752,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5260946389607,
+            "PSQ_SQUARE": 69.2203110375821,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275704-l0VK9P",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465953.14,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6420141292095,
+            "PSQ_SQUARE": 67.8967227468805,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275705-rOlGYy",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467978.195,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7308816230561,
+            "PSQ_SQUARE": 66.884235679714,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275706-0WhiSt",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465024.751,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8028050697089,
+            "PSQ_SQUARE": 66.0662005329757,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275707-updcJb",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465240.974,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.53410068681,
+            "PSQ_SQUARE": 69.128791165057,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275708-5D4Wgi",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465639.025,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5082750674617,
+            "PSQ_SQUARE": 69.424068916412,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275709-DL9a3z",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467360.416,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5865957973477,
+            "PSQ_SQUARE": 68.529089534786,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275710-zrzSzq",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466138.472,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7541146131702,
+            "PSQ_SQUARE": 66.6198535669641,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275711-kyOhv8",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468683.41,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5879050120976,
+            "PSQ_SQUARE": 68.5141417266841,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275712-aiHZvN",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468629.37,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.905041126359,
+            "PSQ_SQUARE": 64.9055556606331,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275713-ueav9Y",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465733.423,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7430824911441,
+            "PSQ_SQUARE": 66.7453783530847,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275714-QL0pef",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468376.376,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9182135566984,
+            "PSQ_SQUARE": 64.7561981109235,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275715-zOqXkd",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465993.396,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6142171402265,
+            "PSQ_SQUARE": 68.2138146838112,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275716-elnG5k",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466901.206,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0617125456114,
+            "PSQ_SQUARE": 63.1318237110453,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275717-fxI3BI",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468571.897,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1358681416976,
+            "PSQ_SQUARE": 62.2943408720188,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275718-xPCG6L",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467306.369,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1336620502526,
+            "PSQ_SQUARE": 62.3192365194045,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275719-OhKMsd",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467201.565,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7184870329577,
+            "PSQ_SQUARE": 67.0253347648818,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275720-jVbIRE",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466000.327,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6015890985014,
+            "PSQ_SQUARE": 68.3579302779268,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275721-Q8SKS4",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468568.446,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7971781619102,
+            "PSQ_SQUARE": 66.1301540157491,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275722-F0zbAf",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468224.436,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9377078369518,
+            "PSQ_SQUARE": 64.5352361968477,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275723-6nV2wn",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466253.373,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5989533232265,
+            "PSQ_SQUARE": 68.3880155653949,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275724-3vX5Ec",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468737.485,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6255609435443,
+            "PSQ_SQUARE": 68.0843884107616,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275725-waGSjf",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468015.101,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1829710834374,
+            "PSQ_SQUARE": 61.7630644865641,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275726-5oLkfs",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468774.383,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1162893773599,
+            "PSQ_SQUARE": 62.515327171997,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275727-ZeyUmY",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466806.822,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9310396152953,
+            "PSQ_SQUARE": 64.6108082010032,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275728-ezmEHH",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467674.42,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6931976732266,
+            "PSQ_SQUARE": 67.3133427334778,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275729-Xu78RR",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468879.083,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5820116732006,
+            "PSQ_SQUARE": 68.5814315384848,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275730-TOSjb2",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465328.436,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.765418043816,
+            "PSQ_SQUARE": 66.4912724355425,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275731-xsLp1m",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468784.668,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.547985488807,
+            "PSQ_SQUARE": 68.9701063842251,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275732-g3MN2c",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466695.311,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7848839337386,
+            "PSQ_SQUARE": 66.269912650876,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275733-cX0OnJ",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466763.062,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7297458240176,
+            "PSQ_SQUARE": 66.8971639777525,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275734-E9eZwZ",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466553.726,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.889519184516,
+            "PSQ_SQUARE": 65.0816072822287,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275735-4ibktj",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466648.136,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0550335336466,
+            "PSQ_SQUARE": 63.2073185559664,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275736-iKsTYG",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467761.952,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.055290966764,
+            "PSQ_SQUARE": 63.2044085147386,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275737-SeKfX8",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466759.635,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5388924120456,
+            "PSQ_SQUARE": 69.0740228085311,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275738-9zd6O9",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465946.281,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9223859736058,
+            "PSQ_SQUARE": 64.708897281444,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275739-D8TxT0",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468076.006,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5338423849092,
+            "PSQ_SQUARE": 69.1317436578866,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275740-0E7Rwg",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467556.027,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7532305715986,
+            "PSQ_SQUARE": 66.6299112074936,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275741-PczdvX",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466148.717,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9083446202487,
+            "PSQ_SQUARE": 64.8680945701365,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275742-WyGXOm",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465848.405,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5593371252696,
+            "PSQ_SQUARE": 68.8404073033005,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275743-kSHkJT",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467461.611,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5708736688252,
+            "PSQ_SQUARE": 68.7086277929745,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275744-qRTkLp",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465392.794,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5866655371928,
+            "PSQ_SQUARE": 68.5282932776183,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275745-bGEGxA",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468379.69,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5473354425016,
+            "PSQ_SQUARE": 68.9775344960459,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275746-eTrjXY",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467410.987,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5356028918716,
+            "PSQ_SQUARE": 69.1116206905869,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275747-puh1rr",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465686.195,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0683528190264,
+            "PSQ_SQUARE": 63.0567773668275,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275748-QJzQQe",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644464940.696,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6410294021785,
+            "PSQ_SQUARE": 67.9079527256187,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275749-7a7fBW",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467367.192,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5323587603748,
+            "PSQ_SQUARE": 69.148702388602,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275750-CpfXiF",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467508.817,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1457172783474,
+            "PSQ_SQUARE": 62.1832080193729,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275751-5nI1zb",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468730.616,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9452762636035,
+            "PSQ_SQUARE": 64.4494750263684,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275752-LOBjqH",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468173.805,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9371809155603,
+            "PSQ_SQUARE": 64.5412074893907,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275753-ZbXda9",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466104.943,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.652702636867,
+            "PSQ_SQUARE": 67.7748445524763,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275754-qu94M0",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465183.432,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5887479148034,
+            "PSQ_SQUARE": 68.504518203758,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275755-wIVRP1",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466455.866,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6098939358354,
+            "PSQ_SQUARE": 68.2631482153443,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275756-tmhk5t",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467920.67,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9010071655962,
+            "PSQ_SQUARE": 64.9513037027187,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275757-3wW3wr",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465649.319,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6876473952472,
+            "PSQ_SQUARE": 67.3765729021074,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275758-PZaoKf",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468669.688,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7907207578492,
+            "PSQ_SQUARE": 66.2035560871952,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275759-QOidy3",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467573.187,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6997400803611,
+            "PSQ_SQUARE": 67.2388195979566,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275760-V8Cuwb",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466091.226,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1599839841823,
+            "PSQ_SQUARE": 62.0222707004572,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275761-AknmaB",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466594.05,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8008790694841,
+            "PSQ_SQUARE": 66.0880899199653,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275762-3E0QTG",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467063.452,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6018700240799,
+            "PSQ_SQUARE": 68.3547238348347,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275763-gLkkJ3",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465581.6,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7559495606452,
+            "PSQ_SQUARE": 66.5989781834146,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275764-JtEp9u",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468281.878,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7323632292758,
+            "PSQ_SQUARE": 66.8673716824256,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275765-HNTDYv",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465949.713,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.583360207729,
+            "PSQ_SQUARE": 68.5660332993793,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275766-rOkk18",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468632.781,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5306014772026,
+            "PSQ_SQUARE": 69.1687899000009,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275767-ahqiGN",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466492.765,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.803612255686,
+            "PSQ_SQUARE": 66.0570269663401,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275768-v0qoc0",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468318.811,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0446061339974,
+            "PSQ_SQUARE": 63.3252039730718,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275769-KCH3RI",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467873.477,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5575093081209,
+            "PSQ_SQUARE": 68.861289056568,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275770-L2f5wN",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465244.372,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6352674913594,
+            "PSQ_SQUARE": 67.9736671786396,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275771-MolLAm",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466087.797,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7422756411309,
+            "PSQ_SQUARE": 66.7545599471596,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275772-2EyCOo",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465345.616,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7476324469017,
+            "PSQ_SQUARE": 66.6936048399892,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275773-dzKJ9O",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465888.743,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1565194511091,
+            "PSQ_SQUARE": 62.061348305521,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275774-TAZTlU",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466546.861,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0973122447836,
+            "PSQ_SQUARE": 62.7296105956903,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275775-4cvXs4",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467049.698,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8200160515742,
+            "PSQ_SQUARE": 65.8706340982557,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275776-Edg4Oq",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465784.108,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7454821106389,
+            "PSQ_SQUARE": 66.7180726851392,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275777-V2R37F",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467164.681,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.4952464851763,
+            "PSQ_SQUARE": 69.5730933856085,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275778-DBqvtc",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467211.852,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9088809848829,
+            "PSQ_SQUARE": 64.8620125299707,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275779-iAJxFb",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644464926.912,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1169767420016,
+            "PSQ_SQUARE": 62.5075673023921,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275780-tUvZmS",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468214.144,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7707107829897,
+            "PSQ_SQUARE": 66.431076025717,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275781-MHx0qh",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467775.626,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6602208104938,
+            "PSQ_SQUARE": 67.6891334938624,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275782-a5B72g",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468069.118,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6465669385119,
+            "PSQ_SQUARE": 67.844804878536,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275783-4t1A2D",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465494.036,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5184538764191,
+            "PSQ_SQUARE": 69.3076698225356,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275784-u8Wmvs",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467671.021,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5170462992481,
+            "PSQ_SQUARE": 69.3237645680859,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275785-CtyYDw",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467218.752,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.651516578655,
+            "PSQ_SQUARE": 67.7883674848233,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275786-jobYsR",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466999.088,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8238459179101,
+            "PSQ_SQUARE": 65.8271255208791,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275787-vLkMcX",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465490.573,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.929067411277,
+            "PSQ_SQUARE": 64.6331615552061,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275788-9IgsPH",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465284.694,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5203698626856,
+            "PSQ_SQUARE": 69.2857625224134,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275789-HR1dEm",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468126.627,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5895366627182,
+            "PSQ_SQUARE": 68.4955131296784,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275790-ZiqS2l",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466908.079,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8837012578164,
+            "PSQ_SQUARE": 65.1476098645429,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275791-HfeVbf",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466003.728,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.703750486845,
+            "PSQ_SQUARE": 67.1931430753016,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275792-JitWWl",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467107.156,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5679728317553,
+            "PSQ_SQUARE": 68.7417603864311,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275793-sjHeNW",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467117.453,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7014692425756,
+            "PSQ_SQUARE": 67.2191248262998,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275794-m0uQYk",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467913.805,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0521085690424,
+            "PSQ_SQUARE": 63.2403836708382,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275795-DoQCua",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468028.79,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7077318920555,
+            "PSQ_SQUARE": 67.1478007299619,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275796-5QWBVj",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644464980.967,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5488231434637,
+            "PSQ_SQUARE": 68.9605346145613,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275797-QocSdw",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465699.978,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7360734408579,
+            "PSQ_SQUARE": 66.8251435035227,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275798-Kuo8TE",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467870.061,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9154550308313,
+            "PSQ_SQUARE": 64.7874725961891,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275799-NvX8cZ",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644464937.219,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5522415256741,
+            "PSQ_SQUARE": 68.9214749873879,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275800-tddPky",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465031.608,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5551337801476,
+            "PSQ_SQUARE": 68.8884293084077,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275801-ma7aK6",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465801.259,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6835632808357,
+            "PSQ_SQUARE": 67.4231049498987,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275802-AA6snZ",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465534.373,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1045693301789,
+            "PSQ_SQUARE": 62.6476558129293,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275803-EVCBgA",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465682.811,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8008440299369,
+            "PSQ_SQUARE": 66.0884881599205,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275804-DWUqay",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466965.61,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6515974618923,
+            "PSQ_SQUARE": 67.7874452775985,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275805-RTiJlc",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467711.31,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0861366998288,
+            "PSQ_SQUARE": 62.8558415469717,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275806-6QPP4I",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467012.763,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5335068977051,
+            "PSQ_SQUARE": 69.1355784335881,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275807-HsrEDk",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465041.888,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7571028291649,
+            "PSQ_SQUARE": 66.5858583771538,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275808-xexRO7",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466509.968,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6828910415756,
+            "PSQ_SQUARE": 67.4307644457819,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275809-IVw6O2",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466141.845,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0741072360929,
+            "PSQ_SQUARE": 62.9917512694024,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275810-NC0ygv",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466611.221,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7228071456207,
+            "PSQ_SQUARE": 66.9761506889796,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275811-65LZqN",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465129.408,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1191990132774,
+            "PSQ_SQUARE": 62.4824801780659,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275812-rGDksq",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465436.537,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5735845153278,
+            "PSQ_SQUARE": 68.6776670783573,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275813-3pbnWz",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467353.47,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7661845259775,
+            "PSQ_SQUARE": 66.4825545108477,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275814-lxmAJB",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466293.701,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1337920745722,
+            "PSQ_SQUARE": 62.3177691681709,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275815-3fhpWt",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466094.644,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6063623516731,
+            "PSQ_SQUARE": 68.3034516853289,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275816-oQsYR4",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468166.952,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0612886268078,
+            "PSQ_SQUARE": 63.1366150718419,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275817-RDeH9Q",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466607.792,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5665275598118,
+            "PSQ_SQUARE": 68.7582686669182,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275818-z8BVPi",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466405.266,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.586453895072,
+            "PSQ_SQUARE": 68.5307097127407,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275819-xVof8c",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466192.526,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0977102283745,
+            "PSQ_SQUARE": 62.7251158110077,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275820-hhaj2x",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467114.023,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5736824534095,
+            "PSQ_SQUARE": 68.6765485561621,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275821-bka3TT",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467562.875,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5913210160871,
+            "PSQ_SQUARE": 68.4751418650381,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275822-aK3dCf",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465986.587,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7298784065528,
+            "PSQ_SQUARE": 66.8956548332491,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275823-eTymxX",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467313.13,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8924319388918,
+            "PSQ_SQUARE": 65.0485660557084,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275824-SfQHii",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468727.191,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5672935843847,
+            "PSQ_SQUARE": 68.7495188670161,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275825-4Q0NwP",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468686.84,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6935951342835,
+            "PSQ_SQUARE": 67.3088150441662,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275826-ASNNHe",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468622.525,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1660505530805,
+            "PSQ_SQUARE": 61.9538508056146,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275827-TNZiZJ",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465190.386,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5412479945124,
+            "PSQ_SQUARE": 69.0471010806534,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275828-lSY2uk",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465899.065,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5368793559066,
+            "PSQ_SQUARE": 69.0970309101421,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275829-sr2h0f",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466442.158,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8493066441525,
+            "PSQ_SQUARE": 65.5379733296167,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275830-bA8RvC",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468369.397,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0633295393591,
+            "PSQ_SQUARE": 63.1135479651155,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275831-ebvbfD",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466195.948,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5329841847816,
+            "PSQ_SQUARE": 69.141553341677,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275832-eaEewa",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468723.753,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1447840451684,
+            "PSQ_SQUARE": 62.1937371699995,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275833-bjPj8y",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467866.628,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.641563402615,
+            "PSQ_SQUARE": 67.9018628730769,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275834-Z1UysH",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467356.891,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.038062963285,
+            "PSQ_SQUARE": 63.399190166674,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275835-b9Xyfp",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468531.597,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6011787127718,
+            "PSQ_SQUARE": 68.3626143946738,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275836-DHzRdb",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467505.365,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7762896957653,
+            "PSQ_SQUARE": 66.3676322066698,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275837-q9Hz0X",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467964.432,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.121210692519,
+            "PSQ_SQUARE": 62.4597714396826,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275838-I5RAsf",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644464933.794,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9410327164622,
+            "PSQ_SQUARE": 64.497558823153,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275839-Rb9Wd6",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467559.447,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.09373958073,
+            "PSQ_SQUARE": 62.7699615892355,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275840-2iRvJu",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468072.555,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9361648753957,
+            "PSQ_SQUARE": 64.5527218685985,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275841-lClqye",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465750.55,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6597017244673,
+            "PSQ_SQUARE": 67.695050900171,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275842-lfK93W",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467924.113,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5138973143392,
+            "PSQ_SQUARE": 69.3597729528721,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275843-WGSCIH",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465433.109,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1254521319897,
+            "PSQ_SQUARE": 62.4118953476311,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275844-gpmfsG",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468426.922,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9644893206882,
+            "PSQ_SQUARE": 64.2318254794467,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275845-C4USwM",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466904.651,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5931272980856,
+            "PSQ_SQUARE": 68.4545210409422,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275846-0VuKgb",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466702.193,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5875168311544,
+            "PSQ_SQUARE": 68.518573694124,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275847-A8Fl0h",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468231.288,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6092673511534,
+            "PSQ_SQUARE": 68.2702987608399,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275848-IqThTk",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467255.667,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0782520511456,
+            "PSQ_SQUARE": 62.9449189344527,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275849-9XpslF",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466600.92,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6120983349649,
+            "PSQ_SQUARE": 68.2379925100891,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275850-IkQoOb",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644464987.806,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5184040747459,
+            "PSQ_SQUARE": 69.3082392645788,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275851-L0QKfu",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465342.162,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5667162520512,
+            "PSQ_SQUARE": 68.7561133450349,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275852-PRHYG9",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466391.559,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7624583572779,
+            "PSQ_SQUARE": 66.5249370804059,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275853-HfOw3k",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467725.049,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.650111921837,
+            "PSQ_SQUARE": 67.8043832287439,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275854-pegVZ0",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465834.723,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7965043042968,
+            "PSQ_SQUARE": 66.1378133621866,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275855-vhkmdT",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465598.685,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6637625478528,
+            "PSQ_SQUARE": 67.648760628316,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275856-s0pgDR",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465230.66,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0861007964312,
+            "PSQ_SQUARE": 62.8562471343598,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275857-EIvzpN",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466155.553,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7109699017361,
+            "PSQ_SQUARE": 67.1109274064549,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275858-yxt7uF",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466857.462,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8919698920397,
+            "PSQ_SQUARE": 65.0538072103872,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275859-YxsMsI",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467454.761,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7872311664643,
+            "PSQ_SQUARE": 66.2432268899001,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275860-myzT1y",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466543.42,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7312658859956,
+            "PSQ_SQUARE": 66.8798618555836,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275861-WAF2oO",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466860.88,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5394948628517,
+            "PSQ_SQUARE": 69.0671373265453,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275862-jVmYIX",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468430.391,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.519224904448,
+            "PSQ_SQUARE": 69.2988538150698,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275863-htVhdS",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465143.152,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6838416902436,
+            "PSQ_SQUARE": 67.4199327845682,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275864-R2turn",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468477.501,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8800154492107,
+            "PSQ_SQUARE": 65.1894284582871,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275865-exXmp5",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465180.087,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.106072370609,
+            "PSQ_SQUARE": 62.6306834502614,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275866-5g3Ka7",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467005.925,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5496769476917,
+            "PSQ_SQUARE": 68.9507784822707,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275867-Mmi2d2",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468872.212,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7677744440195,
+            "PSQ_SQUARE": 66.4644713275258,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275868-dWHia0",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467917.248,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5590963232071,
+            "PSQ_SQUARE": 68.8431582808606,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275869-xZA45I",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467816.002,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5947388178554,
+            "PSQ_SQUARE": 68.436124327563,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275870-qqZCpF",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468831.838,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9755079377706,
+            "PSQ_SQUARE": 64.1070444250081,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275871-IvwxEt",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467613.512,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5488885986063,
+            "PSQ_SQUARE": 68.9597866744703,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275872-jtXxu9",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467515.682,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9815179896475,
+            "PSQ_SQUARE": 64.0389955290509,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275873-TkYDqY",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465902.486,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7011066438213,
+            "PSQ_SQUARE": 67.2232546849428,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275874-k0IYNe",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467168.128,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6812238176707,
+            "PSQ_SQUARE": 67.4497612736922,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275875-cMWzpS",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465186.909,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9276435587706,
+            "PSQ_SQUARE": 64.6493003673602,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275876-dQChhN",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465747.133,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6258421525668,
+            "PSQ_SQUARE": 68.0811803758857,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275877-LsQC2u",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468625.938,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6141420493474,
+            "PSQ_SQUARE": 68.2146715320676,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275878-DHeklB",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468521.288,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1094672276209,
+            "PSQ_SQUARE": 62.5923506519457,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275879-zGBpfq",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465089.089,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5853181582809,
+            "PSQ_SQUARE": 68.5436772343917,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275880-smkJRW",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467161.266,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9150529585705,
+            "PSQ_SQUARE": 64.7920311998728,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275881-Ni8YNc",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466300.569,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8661026250969,
+            "PSQ_SQUARE": 65.3473107262371,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275882-eaE9DL",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465291.554,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5595088882069,
+            "PSQ_SQUARE": 68.8384450530701,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275883-em9ifE",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467208.425,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5476816433708,
+            "PSQ_SQUARE": 68.973578428455,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275884-41neCu",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465790.917,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5565959085062,
+            "PSQ_SQUARE": 68.8717244243805,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275885-zcZmDe",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466047.455,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9038856753552,
+            "PSQ_SQUARE": 64.9186589117332,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275886-0Ht6KP",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468275.042,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9334760201004,
+            "PSQ_SQUARE": 64.5831947984272,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275887-33XApR",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467664.09,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6600388899864,
+            "PSQ_SQUARE": 67.691207319063,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275888-Sy3yRJ",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468875.624,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1359314271367,
+            "PSQ_SQUARE": 62.2936267157688,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275889-LyshfA",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465078.799,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0845136819571,
+            "PSQ_SQUARE": 62.8741764881679,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275890-N9GuU6",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468470.648,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1630141839461,
+            "PSQ_SQUARE": 61.9880944406834,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275891-tb7Q3T",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466040.649,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0775100631255,
+            "PSQ_SQUARE": 62.9533023663197,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275892-ufRftq",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465895.598,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9420868169811,
+            "PSQ_SQUARE": 64.4856143638891,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275893-7HB9Iq",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468416.613,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8130985407473,
+            "PSQ_SQUARE": 65.9492283645809,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275894-sveTmn",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465277.868,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7344158851279,
+            "PSQ_SQUARE": 66.8440087422163,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275895-YgMEtQ",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468170.413,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5593178376461,
+            "PSQ_SQUARE": 68.8406276489781,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275896-RAuHqV",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467407.568,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0747782428226,
+            "PSQ_SQUARE": 62.9841692731216,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275897-DH644a",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465487.155,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5774450387322,
+            "PSQ_SQUARE": 68.6335789421208,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275898-kay8uE",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466644.666,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.725125948327,
+            "PSQ_SQUARE": 66.9497532084667,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275899-SIbno9",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644464923.487,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8030281982194,
+            "PSQ_SQUARE": 66.0636646898585,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275900-tjUtOS",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466850.59,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.1442762425941,
+            "PSQ_SQUARE": 62.199466511555,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275901-ga5d9L",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467252.219,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7428115274264,
+            "PSQ_SQUARE": 66.7484617819773,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275902-BS3Lpw",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468116.416,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0583762993656,
+            "PSQ_SQUARE": 63.1695329475342,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275903-jkFo9B",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468673.129,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 94.0798031115643,
+            "PSQ_SQUARE": 62.9273945377546,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275904-GXqLy6",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466101.536,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5996272162453,
+            "PSQ_SQUARE": 68.3803234490211,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275905-gAvTYQ",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467215.302,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6100105299851,
+            "PSQ_SQUARE": 68.2618176607081,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275906-2rtBQX",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468828.421,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6394057890968,
+            "PSQ_SQUARE": 67.9264691750504,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275907-4k8Bm6",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467616.928,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.955973517499,
+            "PSQ_SQUARE": 64.3282833036181,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275908-8DZrkL",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468315.352,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7677972828109,
+            "PSQ_SQUARE": 66.464211571402,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275909-70mDhl",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465892.18,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5873094237947,
+            "PSQ_SQUARE": 68.5209417354486,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275910-E6ak4S",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467110.598,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.8981996363288,
+            "PSQ_SQUARE": 64.9831454415918,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275911-igu1Y6",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468734.086,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5388994362082,
+            "PSQ_SQUARE": 69.0739425280292,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275912-Fa8TvF",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468021.957,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.9374157362481,
+            "PSQ_SQUARE": 64.5385463953364,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275913-pCpG6s",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467309.723,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5435798682952,
+            "PSQ_SQUARE": 69.0204516525356,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275914-SagicU",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644468777.809,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5439186372668,
+            "PSQ_SQUARE": 69.0165801987385,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275915-W9ZlnH",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465038.476,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5448385402615,
+            "PSQ_SQUARE": 69.0060676833623,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275916-DFHKfB",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644466408.675,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.6424475510277,
+            "PSQ_SQUARE": 67.8917800125616,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275917-iRbDEY",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465389.368,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.87401177116,
+            "PSQ_SQUARE": 65.2575522581634,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275918-SrLKsQ",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644465632.222,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.7630410820516,
+            "PSQ_SQUARE": 66.5183087704081,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    },
+    {
+        "_id": "APPDB-TS-1655275919-wrWOOJ",
+        "category": "REPORT",
+        "nick-name": "PSQ_SCORE",
+        "properties": {
+            "PSQ_CREATED_TIME": 21.0625,
+            "PSQ_CREATETIME": 1644467157.821,
+            "PSQ_QUALITY": null,
+            "PSQ_SCORE": 93.5955666642657,
+            "PSQ_SQUARE": 68.4266740828384,
+            "PSQ_THRESHOLD": null,
+            "PSQ_UPDATED_TIME": null
+        }
+    }
+]

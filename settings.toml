@@ -1,0 +1,8 @@
+[fast-api]
+port = 5001
+
+[mongodb]
+db_name = "APPDB"
+port = 27017
+username = "user"
+user_pwd = "secret"

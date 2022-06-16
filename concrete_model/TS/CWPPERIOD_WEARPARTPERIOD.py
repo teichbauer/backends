@@ -1,0 +1,10350 @@
+[
+{
+     "_id":"APPDB-TS-1653452535-TCPTQT",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001161",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1652932161.219",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452536-x91obq",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001162",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1652932161.248",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452537-fZmVub",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001163",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1652932161.258",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452538-lJLbcQ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001164",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1652932161.267",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452539-75giOu",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000649",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"404",
+         "CWPPERIOD_START":"1618284907.471",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452540-7yAhnn",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000650",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"159465",
+         "CWPPERIOD_START":"1618284908.486",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452541-XKE80L",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000651",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"159463",
+         "CWPPERIOD_START":"1618284909.504",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452542-E5mY0P",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000652",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"159460",
+         "CWPPERIOD_START":"1618284910.519",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452543-RT9mQq",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000825",
+         "CWPPERIOD_GUNWPID":"200009",
+         "CWPPERIOD_WPCOUNT":"50",
+         "CWPPERIOD_START":"1645511367.721",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452544-Tk8IUr",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000826",
+         "CWPPERIOD_GUNWPID":"200010",
+         "CWPPERIOD_WPCOUNT":"50",
+         "CWPPERIOD_START":"1645511367.725",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452545-zPkByD",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000827",
+         "CWPPERIOD_GUNWPID":"200011",
+         "CWPPERIOD_WPCOUNT":"50",
+         "CWPPERIOD_START":"1645511367.731",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452546-KmToTK",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000828",
+         "CWPPERIOD_GUNWPID":"200012",
+         "CWPPERIOD_WPCOUNT":"50",
+         "CWPPERIOD_START":"1645511367.737",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452547-h4QHbk",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000641",
+         "CWPPERIOD_GUNWPID":"200013",
+         "CWPPERIOD_WPCOUNT":"582",
+         "CWPPERIOD_START":"1618284817.324",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452548-MLCDmS",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000642",
+         "CWPPERIOD_GUNWPID":"200014",
+         "CWPPERIOD_WPCOUNT":"582",
+         "CWPPERIOD_START":"1618284818.33",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452549-frLkNJ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000643",
+         "CWPPERIOD_GUNWPID":"200015",
+         "CWPPERIOD_WPCOUNT":"582",
+         "CWPPERIOD_START":"1618284821.414",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452550-djVMQi",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000644",
+         "CWPPERIOD_GUNWPID":"200016",
+         "CWPPERIOD_WPCOUNT":"582",
+         "CWPPERIOD_START":"1618284822.43",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452551-kFgMA6",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000637",
+         "CWPPERIOD_GUNWPID":"200017",
+         "CWPPERIOD_WPCOUNT":"743",
+         "CWPPERIOD_START":"1618284774.677",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452552-yurUQ7",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000638",
+         "CWPPERIOD_GUNWPID":"200018",
+         "CWPPERIOD_WPCOUNT":"743",
+         "CWPPERIOD_START":"1618284775.697",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452553-jOeSuI",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000639",
+         "CWPPERIOD_GUNWPID":"200019",
+         "CWPPERIOD_WPCOUNT":"743",
+         "CWPPERIOD_START":"1618284776.712",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452554-ET5Fgp",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000640",
+         "CWPPERIOD_GUNWPID":"200020",
+         "CWPPERIOD_WPCOUNT":"743",
+         "CWPPERIOD_START":"1618284777.725",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452555-cZb7sW",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000633",
+         "CWPPERIOD_GUNWPID":"200021",
+         "CWPPERIOD_WPCOUNT":"733",
+         "CWPPERIOD_START":"1618284727.9",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452556-6WD8KJ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000634",
+         "CWPPERIOD_GUNWPID":"200022",
+         "CWPPERIOD_WPCOUNT":"733",
+         "CWPPERIOD_START":"1618284730.361",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452557-m2ErT6",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000635",
+         "CWPPERIOD_GUNWPID":"200023",
+         "CWPPERIOD_WPCOUNT":"733",
+         "CWPPERIOD_START":"1618284731.371",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452558-UqFfiQ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000636",
+         "CWPPERIOD_GUNWPID":"200024",
+         "CWPPERIOD_WPCOUNT":"733",
+         "CWPPERIOD_START":"1618284732.384",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452559-8Qm347",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000629",
+         "CWPPERIOD_GUNWPID":"200025",
+         "CWPPERIOD_WPCOUNT":"590",
+         "CWPPERIOD_START":"1618284681.155",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452560-wcfeNR",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000669",
+         "CWPPERIOD_GUNWPID":"200026",
+         "CWPPERIOD_WPCOUNT":"590",
+         "CWPPERIOD_START":"1622775596.819",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452561-mFGpZH",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000631",
+         "CWPPERIOD_GUNWPID":"200027",
+         "CWPPERIOD_WPCOUNT":"590",
+         "CWPPERIOD_START":"1618284683.175",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452562-FmDZRO",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000632",
+         "CWPPERIOD_GUNWPID":"200028",
+         "CWPPERIOD_WPCOUNT":"590",
+         "CWPPERIOD_START":"1618284684.187",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452563-xtOQs2",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000625",
+         "CWPPERIOD_GUNWPID":"200029",
+         "CWPPERIOD_WPCOUNT":"700",
+         "CWPPERIOD_START":"1618284631.416",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452564-MBPOfL",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000626",
+         "CWPPERIOD_GUNWPID":"200030",
+         "CWPPERIOD_WPCOUNT":"700",
+         "CWPPERIOD_START":"1618284632.427",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452565-bcbC9v",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000627",
+         "CWPPERIOD_GUNWPID":"200031",
+         "CWPPERIOD_WPCOUNT":"700",
+         "CWPPERIOD_START":"1618284633.438",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452566-em4ToW",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000628",
+         "CWPPERIOD_GUNWPID":"200032",
+         "CWPPERIOD_WPCOUNT":"700",
+         "CWPPERIOD_START":"1618284634.447",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452567-BFLPtH",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000621",
+         "CWPPERIOD_GUNWPID":"200033",
+         "CWPPERIOD_WPCOUNT":"375",
+         "CWPPERIOD_START":"1618284586.897",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452568-ppMdM0",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000622",
+         "CWPPERIOD_GUNWPID":"200034",
+         "CWPPERIOD_WPCOUNT":"599",
+         "CWPPERIOD_START":"1618284587.906",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452569-WdtHvG",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000623",
+         "CWPPERIOD_GUNWPID":"200035",
+         "CWPPERIOD_WPCOUNT":"599",
+         "CWPPERIOD_START":"1618284588.915",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452570-i3XVL5",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000624",
+         "CWPPERIOD_GUNWPID":"200036",
+         "CWPPERIOD_WPCOUNT":"599",
+         "CWPPERIOD_START":"1618284589.928",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452571-VjAuHo",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000617",
+         "CWPPERIOD_GUNWPID":"200037",
+         "CWPPERIOD_WPCOUNT":"594",
+         "CWPPERIOD_START":"1618284545.475",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452572-NGoKLr",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000618",
+         "CWPPERIOD_GUNWPID":"200038",
+         "CWPPERIOD_WPCOUNT":"594",
+         "CWPPERIOD_START":"1618284546.485",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452573-iJX2tZ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000619",
+         "CWPPERIOD_GUNWPID":"200039",
+         "CWPPERIOD_WPCOUNT":"594",
+         "CWPPERIOD_START":"1618284547.492",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452574-fpc2uJ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000620",
+         "CWPPERIOD_GUNWPID":"200040",
+         "CWPPERIOD_WPCOUNT":"594",
+         "CWPPERIOD_START":"1618284548.502",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452575-M0jZtP",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000833",
+         "CWPPERIOD_GUNWPID":"200041",
+         "CWPPERIOD_WPCOUNT":"50",
+         "CWPPERIOD_START":"1645511368.05",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452576-caz56I",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000834",
+         "CWPPERIOD_GUNWPID":"200042",
+         "CWPPERIOD_WPCOUNT":"50",
+         "CWPPERIOD_START":"1645511368.056",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452577-y9vb3b",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000835",
+         "CWPPERIOD_GUNWPID":"200043",
+         "CWPPERIOD_WPCOUNT":"50",
+         "CWPPERIOD_START":"1645511368.061",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452578-lSjsbA",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000836",
+         "CWPPERIOD_GUNWPID":"200044",
+         "CWPPERIOD_WPCOUNT":"50",
+         "CWPPERIOD_START":"1645511368.069",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452579-QiNuQ2",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000609",
+         "CWPPERIOD_GUNWPID":"200045",
+         "CWPPERIOD_WPCOUNT":"8492",
+         "CWPPERIOD_START":"1618284475.846",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452580-tqztmv",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000610",
+         "CWPPERIOD_GUNWPID":"200046",
+         "CWPPERIOD_WPCOUNT":"517",
+         "CWPPERIOD_START":"1618284476.86",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452581-Ea4sFp",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000611",
+         "CWPPERIOD_GUNWPID":"200047",
+         "CWPPERIOD_WPCOUNT":"517",
+         "CWPPERIOD_START":"1618284477.872",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452582-MAYiQz",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000612",
+         "CWPPERIOD_GUNWPID":"200048",
+         "CWPPERIOD_WPCOUNT":"517",
+         "CWPPERIOD_START":"1618284478.882",
+         "CWPPERIOD_END":"0",
+         "CWPPERIOD_STATUS":"RUNNING"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452583-ZdEP74",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000681",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1628907262.45",
+         "CWPPERIOD_END":"1629265576.717",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452584-ZZrvSI",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000701",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629265576.747",
+         "CWPPERIOD_END":"1629266388.938",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452585-nwoJ01",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000717",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629385712.172",
+         "CWPPERIOD_END":"1629424036.127",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452586-CUBDkg",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000721",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629424036.136",
+         "CWPPERIOD_END":"1630973934.415",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452587-o9skRU",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000741",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1630973934.459",
+         "CWPPERIOD_END":"1645088815.231",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452588-3runWW",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000765",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645163692.115",
+         "CWPPERIOD_END":"1645163900.221",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452589-E865pO",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000769",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645163900.223",
+         "CWPPERIOD_END":"1645418009.304",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452590-AT8tcM",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000781",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645418009.334",
+         "CWPPERIOD_END":"1645418354.221",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452591-v1Tcnc",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000785",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645418354.224",
+         "CWPPERIOD_END":"1645484727.15",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452592-usJ0ot",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000789",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645484727.152",
+         "CWPPERIOD_END":"1645510220.075",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452593-ukeBFA",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000081",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"7",
+         "CWPPERIOD_START":"1616311565.933",
+         "CWPPERIOD_END":"1616311903.875",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452594-hesOi9",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000085",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"12",
+         "CWPPERIOD_START":"1616311903.876",
+         "CWPPERIOD_END":"1616312243.185",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452595-4hFFmK",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000089",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"22",
+         "CWPPERIOD_START":"1616312243.188",
+         "CWPPERIOD_END":"1616312579.266",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452596-G3iIqO",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000093",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"9",
+         "CWPPERIOD_START":"1616312579.267",
+         "CWPPERIOD_END":"1616312864.233",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452597-OvGvIA",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000097",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"5",
+         "CWPPERIOD_START":"1616312864.234",
+         "CWPPERIOD_END":"1616312995.888",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452598-RUhUUc",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000101",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"14",
+         "CWPPERIOD_START":"1616312995.89",
+         "CWPPERIOD_END":"1616313842.72",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452599-69lLGC",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000105",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"14",
+         "CWPPERIOD_START":"1616313842.722",
+         "CWPPERIOD_END":"1616314238.272",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452600-zTYyHa",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000109",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"15",
+         "CWPPERIOD_START":"1616314238.273",
+         "CWPPERIOD_END":"1616314635.121",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452601-3uFj8E",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000113",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"15",
+         "CWPPERIOD_START":"1616314635.124",
+         "CWPPERIOD_END":"1616376802.214",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452602-Cc01pn",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000121",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"20",
+         "CWPPERIOD_START":"1616376802.218",
+         "CWPPERIOD_END":"1616380174.462",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452603-zYgVuy",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000125",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"39",
+         "CWPPERIOD_START":"1616380174.464",
+         "CWPPERIOD_END":"1616395261.072",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452604-N3Ofxi",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000402",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616807295.369",
+         "CWPPERIOD_END":"1616831104.484",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452605-Y7aOAl",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000481",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616831543.176",
+         "CWPPERIOD_END":"1616911111.17",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452606-bypGlU",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000502",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616911111.172",
+         "CWPPERIOD_END":"1617002337.997",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452607-RnTYPS",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000006",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"226",
+         "CWPPERIOD_START":"1609570836.533",
+         "CWPPERIOD_END":"1612840130.367",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452608-veHc4I",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000041",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"18",
+         "CWPPERIOD_START":"1612840130.371",
+         "CWPPERIOD_END":"1615356430.981",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452609-qFY08p",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000081",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"4",
+         "CWPPERIOD_START":"1615356430.993",
+         "CWPPERIOD_END":"1615357044.097",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452610-xMNXAV",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000085",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"8",
+         "CWPPERIOD_START":"1615357044.104",
+         "CWPPERIOD_END":"1615361391.159",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452611-NKX2CY",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000089",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"170",
+         "CWPPERIOD_START":"1615361391.162",
+         "CWPPERIOD_END":"1616311565.931",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452612-iz1gDD",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000129",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"233",
+         "CWPPERIOD_START":"1616395261.076",
+         "CWPPERIOD_END":"1616400696.739",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452613-vnhb4W",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000133",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616400696.74",
+         "CWPPERIOD_END":"1616468251.762",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452614-0bily5",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000141",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"5",
+         "CWPPERIOD_START":"1616576407.327",
+         "CWPPERIOD_END":"1616634764.147",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452615-5M8qcY",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000149",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"28",
+         "CWPPERIOD_START":"1616634764.149",
+         "CWPPERIOD_END":"1616661598.021",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452616-htiRpX",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000157",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616661598.034",
+         "CWPPERIOD_END":"1616720788.346",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452617-UhlB9u",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000169",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616720788.348",
+         "CWPPERIOD_END":"1616721653.948",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452618-8N6FnI",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000173",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616721653.951",
+         "CWPPERIOD_END":"1616724507.19",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452619-UozsTa",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001061",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1649374965.988",
+         "CWPPERIOD_END":"1649385386.798",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452620-lQw856",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001065",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1649385386.802",
+         "CWPPERIOD_END":"1650500805.041",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452621-1dLAaV",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001081",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1650500805.065",
+         "CWPPERIOD_END":"1650504855.671",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452622-zdQcob",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001086",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1650504855.674",
+         "CWPPERIOD_END":"1651198611.172",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452623-gR9YEd",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001101",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1651198611.201",
+         "CWPPERIOD_END":"1651740937.415",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452624-soKR3R",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001121",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1651740937.422",
+         "CWPPERIOD_END":"1651820292.142",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452625-dnBZXn",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001125",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1651820292.145",
+         "CWPPERIOD_END":"1652149770.924",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452626-W5BoM8",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001141",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1652149770.965",
+         "CWPPERIOD_END":"1652149891.155",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452627-89i8UZ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001145",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1652149891.157",
+         "CWPPERIOD_END":"1652932161.199",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452628-pvdxWe",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000137",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"9",
+         "CWPPERIOD_START":"1616468251.766",
+         "CWPPERIOD_END":"1616576407.321",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452629-lqr8dV",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000177",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616724507.193",
+         "CWPPERIOD_END":"1616807295.368",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452630-flEJ4L",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000001",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"15",
+         "CWPPERIOD_START":"1609570783.748",
+         "CWPPERIOD_END":"1609570836.53",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452631-y6p8WH",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000841",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645583433.424",
+         "CWPPERIOD_END":"1646096559.516",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452632-KGeUwg",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000861",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646096559.628",
+         "CWPPERIOD_END":"1646373716.032",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452633-dEfyj9",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000961",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647843542.028",
+         "CWPPERIOD_END":"1647844071.635",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452634-XnsROI",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000965",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647844071.638",
+         "CWPPERIOD_END":"1647849684.724",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452635-D0odu5",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000969",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647849684.727",
+         "CWPPERIOD_END":"1647850324.474",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452636-DTJ6l1",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000973",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647850324.478",
+         "CWPPERIOD_END":"1647920034.388",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452637-3S04cX",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000977",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647920034.393",
+         "CWPPERIOD_END":"1648091807.381",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452638-VrhnBM",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000981",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648091807.393",
+         "CWPPERIOD_END":"1648175205.914",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452639-NPftto",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001001",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648175205.928",
+         "CWPPERIOD_END":"1648175774.656",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452640-zoZ5XH",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001005",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648175774.658",
+         "CWPPERIOD_END":"1648182781.488",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452641-N1LCdn",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001009",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648182781.49",
+         "CWPPERIOD_END":"1648184071.788",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452642-jAWPxn",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001013",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648184071.793",
+         "CWPPERIOD_END":"1648187148.632",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452643-VD4OF5",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001017",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648187148.635",
+         "CWPPERIOD_END":"1648187215.36",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452644-9RwHR1",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001021",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648187215.362",
+         "CWPPERIOD_END":"1648281650.674",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452645-OZ7x5B",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001041",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648281650.693",
+         "CWPPERIOD_END":"1648285244.937",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452646-UY6plU",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001045",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648285244.94",
+         "CWPPERIOD_END":"1649374965.776",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452647-UM2W1M",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000805",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510220.077",
+         "CWPPERIOD_END":"1645510650.986",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452648-YG8CuR",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000817",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510650.997",
+         "CWPPERIOD_END":"1645511367.989",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452649-nOj9nQ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000829",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645511367.991",
+         "CWPPERIOD_END":"1645580298",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452650-qu1Iqo",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000837",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645580298.008",
+         "CWPPERIOD_END":"1645583433.42",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452651-WpnmSY",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000881",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646373716.092",
+         "CWPPERIOD_END":"1646707687.974",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452652-VXF6ba",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000901",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646707688.063",
+         "CWPPERIOD_END":"1646714545.929",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452653-1y1L1w",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000905",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646714545.931",
+         "CWPPERIOD_END":"1646725380.165",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452654-HKBMWr",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000909",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646725380.168",
+         "CWPPERIOD_END":"1646791093.33",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452655-HZjAii",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000921",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646791093.35",
+         "CWPPERIOD_END":"1646799790.753",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452656-Bwxzx2",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000925",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646799790.755",
+         "CWPPERIOD_END":"1646806135.351",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452657-xNB1yX",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000929",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646806135.353",
+         "CWPPERIOD_END":"1647431430.084",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452658-j4jFKE",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000941",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647431430.122",
+         "CWPPERIOD_END":"1647843541.988",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452659-3NNuyr",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000705",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629266388.939",
+         "CWPPERIOD_END":"1629295764.697",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452660-EYTiH8",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000709",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629295764.7",
+         "CWPPERIOD_END":"1629384794.379",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452661-eskAEv",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000713",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629384794.381",
+         "CWPPERIOD_END":"1629385712.169",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452662-W2n3xq",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000761",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645088815.248",
+         "CWPPERIOD_END":"1645163692.112",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452663-Gqc1kc",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000476",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616831104.485",
+         "CWPPERIOD_END":"1616831543.175",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452664-rlamko",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000583",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1617002338",
+         "CWPPERIOD_END":"1618232703.974",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452665-P4UvK5",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000601",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1618232703.994",
+         "CWPPERIOD_END":"1618280502.157",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452666-YMVefI",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000605",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1618280502.16",
+         "CWPPERIOD_END":"1622696320.311",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452667-IfmBJV",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000661",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1622696320.345",
+         "CWPPERIOD_END":"1622710577.734",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452668-lPmOVs",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000665",
+         "CWPPERIOD_GUNWPID":"200001",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1622710577.737",
+         "CWPPERIOD_END":"1628907262.431",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452669-zqWojV",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000682",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1628907262.48",
+         "CWPPERIOD_END":"1629265576.76",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452670-3psSIg",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000702",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629265576.765",
+         "CWPPERIOD_END":"1629266388.943",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452671-Lwm9n4",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000718",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629385712.177",
+         "CWPPERIOD_END":"1629424036.142",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452672-3nii7H",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000722",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629424036.146",
+         "CWPPERIOD_END":"1630973934.469",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452673-LL3onT",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000742",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1630973934.475",
+         "CWPPERIOD_END":"1645088815.265",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452674-51KSIx",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000766",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645163692.125",
+         "CWPPERIOD_END":"1645163900.226",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452675-3JO4cB",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000770",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645163900.228",
+         "CWPPERIOD_END":"1645418009.34",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452676-YP8VCR",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000782",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645418009.343",
+         "CWPPERIOD_END":"1645418354.226",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452677-aaJhr1",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000786",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645418354.228",
+         "CWPPERIOD_END":"1645484727.155",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452678-jHRDRf",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000790",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645484727.159",
+         "CWPPERIOD_END":"1645510220.083",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452679-rqlDPp",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000082",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"7",
+         "CWPPERIOD_START":"1616311567.091",
+         "CWPPERIOD_END":"1616311904.878",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452680-UKcIjg",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000086",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"12",
+         "CWPPERIOD_START":"1616311904.879",
+         "CWPPERIOD_END":"1616312244.188",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452681-lBDWBt",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000090",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"22",
+         "CWPPERIOD_START":"1616312244.19",
+         "CWPPERIOD_END":"1616312580.27",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452682-3yp9Ml",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000094",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"9",
+         "CWPPERIOD_START":"1616312580.272",
+         "CWPPERIOD_END":"1616312865.235",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452683-74PsLv",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000098",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"5",
+         "CWPPERIOD_START":"1616312865.237",
+         "CWPPERIOD_END":"1616312996.921",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452684-pIbLeN",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000102",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"14",
+         "CWPPERIOD_START":"1616312996.922",
+         "CWPPERIOD_END":"1616313843.723",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452685-sAM87P",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000106",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"14",
+         "CWPPERIOD_START":"1616313843.727",
+         "CWPPERIOD_END":"1616314239.274",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452686-6lcXid",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000110",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"15",
+         "CWPPERIOD_START":"1616314239.276",
+         "CWPPERIOD_END":"1616314636.125",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452687-Z3N16P",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000114",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"15",
+         "CWPPERIOD_START":"1616314636.126",
+         "CWPPERIOD_END":"1616376803.451",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452688-njKNwY",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000122",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"20",
+         "CWPPERIOD_START":"1616376803.453",
+         "CWPPERIOD_END":"1616380175.466",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452689-Ok3wkg",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000126",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"39",
+         "CWPPERIOD_START":"1616380175.467",
+         "CWPPERIOD_END":"1616395262.074",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452690-3RN9Bx",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000403",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616807295.372",
+         "CWPPERIOD_END":"1616831104.487",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452691-IkH3t7",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000482",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616831543.178",
+         "CWPPERIOD_END":"1616911111.173",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452692-1zgHxG",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000503",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616911111.175",
+         "CWPPERIOD_END":"1617002338.004",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452693-SYl6KV",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000008",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"226",
+         "CWPPERIOD_START":"1609570838.539",
+         "CWPPERIOD_END":"1612840132.376",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452694-tQd7fP",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000043",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"18",
+         "CWPPERIOD_START":"1612840132.377",
+         "CWPPERIOD_END":"1615357007.99",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452695-uJuU7Y",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000082",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"4",
+         "CWPPERIOD_START":"1615357007.998",
+         "CWPPERIOD_END":"1615357046.894",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452696-M4DrvT",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000086",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"8",
+         "CWPPERIOD_START":"1615357046.902",
+         "CWPPERIOD_END":"1615361392.31",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452697-KvwzoM",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000090",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"170",
+         "CWPPERIOD_START":"1615361392.314",
+         "CWPPERIOD_END":"1616311567.089",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452698-8Yjqom",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000130",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"233",
+         "CWPPERIOD_START":"1616395262.075",
+         "CWPPERIOD_END":"1616400698.243",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452699-DFmXUo",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000134",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616400698.244",
+         "CWPPERIOD_END":"1616468251.768",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452700-ZFWicS",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000142",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"5",
+         "CWPPERIOD_START":"1616576408.326",
+         "CWPPERIOD_END":"1616634765.154",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452701-ML2Ocs",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000150",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"28",
+         "CWPPERIOD_START":"1616634765.156",
+         "CWPPERIOD_END":"1616661599.111",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452702-XE1X8i",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000158",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616661599.113",
+         "CWPPERIOD_END":"1616720788.35",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452703-uf81Mr",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000170",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616720788.351",
+         "CWPPERIOD_END":"1616721653.953",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452704-qWN4fH",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000174",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616721653.954",
+         "CWPPERIOD_END":"1616724507.201",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452705-eNmRn1",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001062",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1649374966.044",
+         "CWPPERIOD_END":"1649385386.805",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452706-tqzBdo",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001066",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1649385386.807",
+         "CWPPERIOD_END":"1650500805.11",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452707-QSy6dE",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001082",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1650500805.113",
+         "CWPPERIOD_END":"1650504855.663",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452708-2qbQNh",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001085",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1650504855.667",
+         "CWPPERIOD_END":"1651198611.216",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452709-yqYL3N",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001102",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1651198611.219",
+         "CWPPERIOD_END":"1651740937.437",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452710-ubMrUa",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001122",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1651740937.441",
+         "CWPPERIOD_END":"1651820292.148",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452711-mkdSnp",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001126",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1651820292.151",
+         "CWPPERIOD_END":"1652149770.987",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452712-sO3pIv",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001142",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1652149770.991",
+         "CWPPERIOD_END":"1652149891.159",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452713-cAyGro",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001146",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1652149891.161",
+         "CWPPERIOD_END":"1652932161.243",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452714-qSc5Qz",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000138",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"9",
+         "CWPPERIOD_START":"1616468251.769",
+         "CWPPERIOD_END":"1616576408.324",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452715-6vy4I0",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000178",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616724507.203",
+         "CWPPERIOD_END":"1616807295.371",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452716-EQu1fc",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000003",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"15",
+         "CWPPERIOD_START":"1609570786.588",
+         "CWPPERIOD_END":"1609570838.537",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452717-lfOyiH",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000842",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645583433.431",
+         "CWPPERIOD_END":"1646096559.657",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452718-p3IPtY",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000862",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646096559.671",
+         "CWPPERIOD_END":"1646373716.117",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452719-hIxvJk",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000962",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647843542.051",
+         "CWPPERIOD_END":"1647844071.643",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452720-Vtf61d",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000966",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647844071.646",
+         "CWPPERIOD_END":"1647849684.731",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452721-jeYhnv",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000970",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647849684.734",
+         "CWPPERIOD_END":"1647850324.482",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452722-wSr6AU",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000974",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647850324.485",
+         "CWPPERIOD_END":"1647920034.396",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452723-AHME2u",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000978",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647920034.4",
+         "CWPPERIOD_END":"1648091807.418",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452724-HSyqbn",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000982",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648091807.423",
+         "CWPPERIOD_END":"1648175205.945",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452725-5rsOe0",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001002",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648175205.949",
+         "CWPPERIOD_END":"1648175774.661",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452726-3Tzlh1",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001006",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648175774.664",
+         "CWPPERIOD_END":"1648182781.493",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452727-OrAINO",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001010",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648182781.497",
+         "CWPPERIOD_END":"1648184071.797",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452728-6nT1Bs",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001014",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648184071.8",
+         "CWPPERIOD_END":"1648187148.639",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452729-NIoVeL",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001018",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648187148.641",
+         "CWPPERIOD_END":"1648187215.367",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452730-89PwjH",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001022",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648187215.37",
+         "CWPPERIOD_END":"1648281650.7",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452731-36wFd9",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001042",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648281650.703",
+         "CWPPERIOD_END":"1648285244.944",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452732-gqFFAX",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001046",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648285244.947",
+         "CWPPERIOD_END":"1649374966.029",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452733-3nwCUg",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000806",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510220.085",
+         "CWPPERIOD_END":"1645510651.001",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452734-QuBvvw",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000818",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510651.004",
+         "CWPPERIOD_END":"1645511367.994",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452735-GjqY7W",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000830",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645511367.996",
+         "CWPPERIOD_END":"1645580298.014",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452736-kkgbdM",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000838",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645580298.018",
+         "CWPPERIOD_END":"1645583433.429",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452737-XhrSno",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000882",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646373716.119",
+         "CWPPERIOD_END":"1646707688.101",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452738-g2HggI",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000902",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646707688.104",
+         "CWPPERIOD_END":"1646714545.934",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452739-jjXPkV",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000906",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646714545.936",
+         "CWPPERIOD_END":"1646725380.172",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452740-i2Hn3b",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000910",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646725380.175",
+         "CWPPERIOD_END":"1646791093.383",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452741-RTHnpl",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000922",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646791093.386",
+         "CWPPERIOD_END":"1646799790.758",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452742-ok1zQY",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000926",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646799790.76",
+         "CWPPERIOD_END":"1646806135.356",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452743-XVtdYn",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000930",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646806135.359",
+         "CWPPERIOD_END":"1647431430.169",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452744-69CfOe",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000942",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647431430.172",
+         "CWPPERIOD_END":"1647843542.049",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452745-hf4d44",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000706",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629266388.945",
+         "CWPPERIOD_END":"1629295764.703",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452746-VJiNRp",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000710",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629295764.705",
+         "CWPPERIOD_END":"1629384794.384",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452747-JHQfz8",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000714",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629384794.387",
+         "CWPPERIOD_END":"1629385712.174",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452748-q0lRto",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000762",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645088815.268",
+         "CWPPERIOD_END":"1645163692.12",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452749-37W72M",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000477",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616831104.488",
+         "CWPPERIOD_END":"1616831543.177",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452750-SsOzX1",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000584",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1617002338.008",
+         "CWPPERIOD_END":"1618232704.027",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452751-PXR25L",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000602",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1618232704.031",
+         "CWPPERIOD_END":"1618280502.164",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452752-NUztLc",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000606",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1618280502.167",
+         "CWPPERIOD_END":"1622696320.369",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452753-rlJB7A",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000662",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1622696320.372",
+         "CWPPERIOD_END":"1622710577.742",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452754-nEckbR",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000666",
+         "CWPPERIOD_GUNWPID":"200002",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1622710577.745",
+         "CWPPERIOD_END":"1628907262.476",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452755-BZCpTd",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000483",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616831543.181",
+         "CWPPERIOD_END":"1616911111.176",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452756-pLhY65",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000504",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616911111.177",
+         "CWPPERIOD_END":"1617002338.011",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452757-V1q7hm",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000009",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"226",
+         "CWPPERIOD_START":"1609570839.544",
+         "CWPPERIOD_END":"1612840133.378",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452758-VKQyr5",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000044",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"18",
+         "CWPPERIOD_START":"1612840133.38",
+         "CWPPERIOD_END":"1615357008.996",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452759-8LpUfb",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000083",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"4",
+         "CWPPERIOD_START":"1615357009",
+         "CWPPERIOD_END":"1615357047.952",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452760-644b7N",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000087",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"8",
+         "CWPPERIOD_START":"1615357047.956",
+         "CWPPERIOD_END":"1615361393.315",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452761-lSrwM9",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000091",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"170",
+         "CWPPERIOD_START":"1615361393.318",
+         "CWPPERIOD_END":"1616311568.339",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452762-7R3TVa",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000131",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"233",
+         "CWPPERIOD_START":"1616395263.078",
+         "CWPPERIOD_END":"1616400699.246",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452763-yrXq8w",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000135",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616400699.248",
+         "CWPPERIOD_END":"1616468251.771",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452764-8ifkmv",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000143",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"5",
+         "CWPPERIOD_START":"1616576409.327",
+         "CWPPERIOD_END":"1616634766.158",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452765-1qegAe",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000151",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"28",
+         "CWPPERIOD_START":"1616634766.161",
+         "CWPPERIOD_END":"1616661600.12",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452766-mza1YV",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000159",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616661600.123",
+         "CWPPERIOD_END":"1616720788.353",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452767-qS6l0m",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000171",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616720788.355",
+         "CWPPERIOD_END":"1616721653.956",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452768-KLhfYv",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000175",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616721653.957",
+         "CWPPERIOD_END":"1616724507.205",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452769-CT6aMH",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001047",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648285244.952",
+         "CWPPERIOD_END":"1649374966.047",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452770-fSjjHI",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001063",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1649374966.056",
+         "CWPPERIOD_END":"1649385386.81",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452771-gDvue3",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001067",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1649385386.812",
+         "CWPPERIOD_END":"1650500805.116",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452772-Qcoamx",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001083",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1650500805.118",
+         "CWPPERIOD_END":"1650504855.678",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452773-WpVbUw",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001087",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1650504855.682",
+         "CWPPERIOD_END":"1651198611.222",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452774-RoenT4",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001103",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1651198611.224",
+         "CWPPERIOD_END":"1651740937.446",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452775-wbioMp",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001123",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1651740937.45",
+         "CWPPERIOD_END":"1651820292.153",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452776-me766y",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001127",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1651820292.156",
+         "CWPPERIOD_END":"1652149770.996",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452777-U2PmkU",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001143",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1652149771",
+         "CWPPERIOD_END":"1652149891.164",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452778-YVwnjd",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001147",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1652149891.166",
+         "CWPPERIOD_END":"1652932161.253",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452779-bP9KUO",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000139",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"9",
+         "CWPPERIOD_START":"1616468251.772",
+         "CWPPERIOD_END":"1616576409.325",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452780-eq9yZk",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000179",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616724507.207",
+         "CWPPERIOD_END":"1616807295.373",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452781-qnIWOb",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000004",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"15",
+         "CWPPERIOD_START":"1609570787.591",
+         "CWPPERIOD_END":"1609570839.541",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452782-r8Apl8",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000763",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645088815.276",
+         "CWPPERIOD_END":"1645163692.127",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452783-NHOODl",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000843",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645583433.437",
+         "CWPPERIOD_END":"1646096559.674",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452784-dPu2UN",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000863",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646096559.683",
+         "CWPPERIOD_END":"1646373716.122",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452785-ZRR9Kk",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000963",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647843542.056",
+         "CWPPERIOD_END":"1647844071.648",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452786-gSaR2g",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000967",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647844071.651",
+         "CWPPERIOD_END":"1647849684.736",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452787-v7ZYPF",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000971",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647849684.74",
+         "CWPPERIOD_END":"1647850324.489",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452788-Cxd8tD",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000975",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647850324.492",
+         "CWPPERIOD_END":"1647920034.403",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452789-mKP90n",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000979",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647920034.405",
+         "CWPPERIOD_END":"1648091807.427",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452790-WsNNve",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000983",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648091807.43",
+         "CWPPERIOD_END":"1648175205.952",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452791-xtGaPS",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001003",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648175205.954",
+         "CWPPERIOD_END":"1648175774.668",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452792-HYYNBx",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001007",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648175774.67",
+         "CWPPERIOD_END":"1648182781.5",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452793-5T06bJ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001011",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648182781.503",
+         "CWPPERIOD_END":"1648184071.804",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452794-v3Sj19",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001015",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648184071.807",
+         "CWPPERIOD_END":"1648187148.644",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452795-imis9X",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001019",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648187148.646",
+         "CWPPERIOD_END":"1648187215.373",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452796-KG6tHr",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001023",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648187215.376",
+         "CWPPERIOD_END":"1648281650.708",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452797-JirhCg",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001043",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648281650.711",
+         "CWPPERIOD_END":"1648285244.949",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452798-nLdTNw",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000791",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645484727.164",
+         "CWPPERIOD_END":"1645510220.088",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452799-Zg5pns",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000807",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510220.094",
+         "CWPPERIOD_END":"1645510651.006",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452800-YyKhMg",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000819",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510651.01",
+         "CWPPERIOD_END":"1645511368",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452801-qbAAlw",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000831",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645511368.003",
+         "CWPPERIOD_END":"1645580298.023",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452802-UIV1JQ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000839",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645580298.026",
+         "CWPPERIOD_END":"1645583433.434",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452803-tHIZGD",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000883",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646373716.125",
+         "CWPPERIOD_END":"1646707688.107",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452804-ellmqR",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000903",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646707688.111",
+         "CWPPERIOD_END":"1646714545.939",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452805-ZcFI2f",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000907",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646714545.941",
+         "CWPPERIOD_END":"1646725380.178",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452806-beVdfe",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000911",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646725380.181",
+         "CWPPERIOD_END":"1646791093.39",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452807-fida3S",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000923",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646791093.394",
+         "CWPPERIOD_END":"1646799790.763",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452808-9YcY7k",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000927",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646799790.765",
+         "CWPPERIOD_END":"1646806135.361",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452809-7ki92c",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000931",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646806135.363",
+         "CWPPERIOD_END":"1647431430.175",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452810-9oQqK8",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000943",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647431430.179",
+         "CWPPERIOD_END":"1647843542.054",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452811-SoIFjO",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000707",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629266388.949",
+         "CWPPERIOD_END":"1629295764.715",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452812-ZQLWx5",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000711",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629295764.718",
+         "CWPPERIOD_END":"1629384794.39",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452813-aldlTw",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000715",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629384794.393",
+         "CWPPERIOD_END":"1629385712.18",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452814-ITND1C",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000478",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616831104.49",
+         "CWPPERIOD_END":"1616831543.18",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452815-RfWVnf",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000585",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1617002338.014",
+         "CWPPERIOD_END":"1618232704.035",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452816-HrspHZ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000603",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1618232704.039",
+         "CWPPERIOD_END":"1618280502.17",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452817-aERDp9",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000607",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1618280502.173",
+         "CWPPERIOD_END":"1622696320.376",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452818-LL1qUD",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000663",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1622696320.378",
+         "CWPPERIOD_END":"1622710577.749",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452819-DoAQc7",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000667",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1622710577.753",
+         "CWPPERIOD_END":"1628907262.482",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452820-ZKbVbE",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000683",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1628907262.484",
+         "CWPPERIOD_END":"1629265576.768",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452821-SpTLtv",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000703",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629265576.772",
+         "CWPPERIOD_END":"1629266388.946",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452822-ZfTTD5",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000719",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629385712.183",
+         "CWPPERIOD_END":"1629424036.15",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452823-ke1d91",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000723",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629424036.153",
+         "CWPPERIOD_END":"1630973934.481",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452824-Ywl6Jw",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000743",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1630973934.486",
+         "CWPPERIOD_END":"1645088815.272",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452825-riMD8Q",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000767",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645163692.13",
+         "CWPPERIOD_END":"1645163900.232",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452826-VAcRkz",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000771",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645163900.234",
+         "CWPPERIOD_END":"1645418009.346",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452827-7pkPT2",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000783",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645418009.348",
+         "CWPPERIOD_END":"1645418354.231",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452828-bNbXoS",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000787",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645418354.233",
+         "CWPPERIOD_END":"1645484727.162",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452829-ukYpd8",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000083",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"7",
+         "CWPPERIOD_START":"1616311568.341",
+         "CWPPERIOD_END":"1616311905.88",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452830-lgt6Tz",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000087",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"12",
+         "CWPPERIOD_START":"1616311905.882",
+         "CWPPERIOD_END":"1616312245.191",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452831-1DlJs4",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000091",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"22",
+         "CWPPERIOD_START":"1616312245.193",
+         "CWPPERIOD_END":"1616312581.272",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452832-hqYNn7",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000095",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"9",
+         "CWPPERIOD_START":"1616312581.274",
+         "CWPPERIOD_END":"1616312866.238",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452833-tHetVj",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000099",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"5",
+         "CWPPERIOD_START":"1616312866.239",
+         "CWPPERIOD_END":"1616312998.096",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452834-WwyP3f",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000103",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"14",
+         "CWPPERIOD_START":"1616312998.098",
+         "CWPPERIOD_END":"1616313844.817",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452835-Esy2YP",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000107",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"14",
+         "CWPPERIOD_START":"1616313844.818",
+         "CWPPERIOD_END":"1616314240.276",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452836-UWaPx7",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000111",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"15",
+         "CWPPERIOD_START":"1616314240.278",
+         "CWPPERIOD_END":"1616314637.127",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452837-srmu01",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000115",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"15",
+         "CWPPERIOD_START":"1616314637.129",
+         "CWPPERIOD_END":"1616376804.454",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452838-1jwAMc",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000123",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"20",
+         "CWPPERIOD_START":"1616376804.456",
+         "CWPPERIOD_END":"1616380176.469",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452839-qeXGjx",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000127",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"39",
+         "CWPPERIOD_START":"1616380176.472",
+         "CWPPERIOD_END":"1616395263.077",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452840-aAiDRT",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000404",
+         "CWPPERIOD_GUNWPID":"200003",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616807295.375",
+         "CWPPERIOD_END":"1616831104.489",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452841-Jlf0cF",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000668",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1622710577.76",
+         "CWPPERIOD_END":"1628907262.487",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452842-gnqTwA",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000684",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1628907262.49",
+         "CWPPERIOD_END":"1629265576.775",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452843-fCpjIe",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000704",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629265576.778",
+         "CWPPERIOD_END":"1629266388.953",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452844-snvUfW",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000720",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629385712.189",
+         "CWPPERIOD_END":"1629424036.158",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452845-JdkAfS",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000724",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629424036.161",
+         "CWPPERIOD_END":"1630973934.492",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452846-ysCpk8",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000744",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1630973934.497",
+         "CWPPERIOD_END":"1645088815.279",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452847-vDwmy6",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000768",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645163692.136",
+         "CWPPERIOD_END":"1645163900.236",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452848-ZiGMh5",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000772",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645163900.238",
+         "CWPPERIOD_END":"1645418009.353",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452849-IetMLw",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000784",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645418009.355",
+         "CWPPERIOD_END":"1645418354.235",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452850-c5vmWv",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000788",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645418354.238",
+         "CWPPERIOD_END":"1645484727.167",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452851-HQgTXx",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000084",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"7",
+         "CWPPERIOD_START":"1616311569.342",
+         "CWPPERIOD_END":"1616311906.884",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452852-vcrywj",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000088",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"12",
+         "CWPPERIOD_START":"1616311906.887",
+         "CWPPERIOD_END":"1616312246.194",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452853-r0ZonL",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000092",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"22",
+         "CWPPERIOD_START":"1616312246.197",
+         "CWPPERIOD_END":"1616312582.275",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452854-T3ofMQ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000096",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"9",
+         "CWPPERIOD_START":"1616312582.277",
+         "CWPPERIOD_END":"1616312867.24",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452855-BSH7Cr",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000100",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"5",
+         "CWPPERIOD_START":"1616312867.241",
+         "CWPPERIOD_END":"1616312999.098",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452856-G1wfwE",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000104",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"14",
+         "CWPPERIOD_START":"1616312999.101",
+         "CWPPERIOD_END":"1616313845.82",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452857-p3oet5",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000108",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"14",
+         "CWPPERIOD_START":"1616313845.822",
+         "CWPPERIOD_END":"1616314241.279",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452858-miHYQ0",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000112",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"15",
+         "CWPPERIOD_START":"1616314241.28",
+         "CWPPERIOD_END":"1616314638.13",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452859-DTmNgl",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000116",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"15",
+         "CWPPERIOD_START":"1616314638.132",
+         "CWPPERIOD_END":"1616376805.459",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452860-7fKEmg",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000124",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"20",
+         "CWPPERIOD_START":"1616376805.46",
+         "CWPPERIOD_END":"1616380177.473",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452861-sZroeB",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000128",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"39",
+         "CWPPERIOD_START":"1616380177.475",
+         "CWPPERIOD_END":"1616395264.078",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452862-v8QyBQ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000405",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616807295.377",
+         "CWPPERIOD_END":"1616831104.491",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452863-rbVfgY",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000484",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616831543.183",
+         "CWPPERIOD_END":"1616911111.179",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452864-UFBVK7",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000505",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616911111.18",
+         "CWPPERIOD_END":"1617002338.018",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452865-P29gYx",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000005",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"15",
+         "CWPPERIOD_START":"1609570788.597",
+         "CWPPERIOD_END":"1609570840.571",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452866-v5Z3LZ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000010",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"226",
+         "CWPPERIOD_START":"1609570840.602",
+         "CWPPERIOD_END":"1612840135.068",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452867-DqzMsX",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000045",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"18",
+         "CWPPERIOD_START":"1612840135.07",
+         "CWPPERIOD_END":"1615357010",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452868-FSYPHT",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000084",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"4",
+         "CWPPERIOD_START":"1615357010.003",
+         "CWPPERIOD_END":"1615357048.957",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452869-bDDhv3",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000088",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"8",
+         "CWPPERIOD_START":"1615357048.96",
+         "CWPPERIOD_END":"1615361394.32",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452870-PJscQh",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000092",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"170",
+         "CWPPERIOD_START":"1615361394.328",
+         "CWPPERIOD_END":"1616311569.341",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452871-OmpbVf",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000132",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"233",
+         "CWPPERIOD_START":"1616395264.081",
+         "CWPPERIOD_END":"1616400700.249",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452872-uXXY0t",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000136",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616400700.251",
+         "CWPPERIOD_END":"1616468251.773",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452873-kutCXa",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000144",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"5",
+         "CWPPERIOD_START":"1616576410.333",
+         "CWPPERIOD_END":"1616634767.162",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452874-QvRMah",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000152",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"28",
+         "CWPPERIOD_START":"1616634767.163",
+         "CWPPERIOD_END":"1616661601.124",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452875-Sx1GSQ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000160",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616661601.126",
+         "CWPPERIOD_END":"1616720788.356",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452876-WoNZkR",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000172",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616720788.357",
+         "CWPPERIOD_END":"1616721653.958",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452877-0MOSju",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000176",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616721653.958",
+         "CWPPERIOD_END":"1616724507.209",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452878-Vz07sb",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001048",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648285244.959",
+         "CWPPERIOD_END":"1649374966.06",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452879-tFNsvr",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001064",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1649374966.068",
+         "CWPPERIOD_END":"1649385386.814",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452880-lsVGxf",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001068",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1649385386.817",
+         "CWPPERIOD_END":"1650500805.121",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452881-Omx2Y4",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001084",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1650500805.136",
+         "CWPPERIOD_END":"1650504855.686",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452882-XwyT3k",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001088",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1650504855.689",
+         "CWPPERIOD_END":"1651198611.226",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452883-OuZ0Yc",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001104",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1651198611.228",
+         "CWPPERIOD_END":"1651740937.454",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452884-vyQkNT",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001124",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1651740937.457",
+         "CWPPERIOD_END":"1651820292.159",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452885-dFbYm5",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001128",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1651820292.162",
+         "CWPPERIOD_END":"1652149771.005",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452886-wAvlqd",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001144",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1652149771.009",
+         "CWPPERIOD_END":"1652149891.169",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452887-59qTj6",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001148",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1652149891.171",
+         "CWPPERIOD_END":"1652932161.262",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452888-5Qvjbh",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000140",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"9",
+         "CWPPERIOD_START":"1616468251.774",
+         "CWPPERIOD_END":"1616576410.33",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452889-eCLEvN",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000180",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616724507.211",
+         "CWPPERIOD_END":"1616807295.376",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452890-PFMISF",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000764",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645088815.282",
+         "CWPPERIOD_END":"1645163692.133",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452891-ZHTxCh",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000844",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645583433.444",
+         "CWPPERIOD_END":"1646096559.687",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452892-UXplX4",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000864",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646096559.69",
+         "CWPPERIOD_END":"1646373716.128",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452893-GzBQPP",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000964",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647843542.062",
+         "CWPPERIOD_END":"1647844071.654",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452894-XsWBJ7",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000968",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647844071.656",
+         "CWPPERIOD_END":"1647849684.742",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452895-IQJ1iH",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000972",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647849684.745",
+         "CWPPERIOD_END":"1647850324.495",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452896-t4hhHL",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000976",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647850324.498",
+         "CWPPERIOD_END":"1647920034.408",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452897-ks4uu2",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000980",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647920034.41",
+         "CWPPERIOD_END":"1648091807.433",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452898-PnoYiN",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000984",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648091807.435",
+         "CWPPERIOD_END":"1648175205.957",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452899-lLqHSt",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001004",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648175205.96",
+         "CWPPERIOD_END":"1648175774.674",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452900-hGNfXN",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001008",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648175774.678",
+         "CWPPERIOD_END":"1648182781.506",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452901-fgdMF5",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001012",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648182781.508",
+         "CWPPERIOD_END":"1648184071.811",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452902-8Qc6YH",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001016",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648184071.814",
+         "CWPPERIOD_END":"1648187148.649",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452903-tX8AWX",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001020",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648187148.651",
+         "CWPPERIOD_END":"1648187215.38",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452904-yVmI14",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001024",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648187215.382",
+         "CWPPERIOD_END":"1648281650.715",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452905-w0Q3hv",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1001044",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1648281650.719",
+         "CWPPERIOD_END":"1648285244.956",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452906-s2zXnV",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000792",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645484727.17",
+         "CWPPERIOD_END":"1645510220.097",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452907-IEC9QO",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000808",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510220.1",
+         "CWPPERIOD_END":"1645510651.014",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452908-68h4XR",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000820",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510651.017",
+         "CWPPERIOD_END":"1645511368.006",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452909-RQEL3z",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000832",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645511368.008",
+         "CWPPERIOD_END":"1645580298.032",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452910-lfYjC2",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000840",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645580298.035",
+         "CWPPERIOD_END":"1645583433.44",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452911-4GpvDM",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000884",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646373716.13",
+         "CWPPERIOD_END":"1646707688.116",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452912-3FtS9v",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000904",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646707688.119",
+         "CWPPERIOD_END":"1646714545.944",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452913-aq8a6U",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000908",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646714545.957",
+         "CWPPERIOD_END":"1646725380.184",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452914-nM65iO",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000912",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646725380.187",
+         "CWPPERIOD_END":"1646791093.397",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452915-Oz0UPS",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000924",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646791093.401",
+         "CWPPERIOD_END":"1646799790.769",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452916-LAgWfD",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000928",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646799790.771",
+         "CWPPERIOD_END":"1646806135.366",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452917-gbFpRt",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000932",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1646806135.368",
+         "CWPPERIOD_END":"1647431430.183",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452918-WJ7ibn",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000944",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1647431430.187",
+         "CWPPERIOD_END":"1647843542.06",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452919-rcNxKp",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000708",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629266388.954",
+         "CWPPERIOD_END":"1629295764.721",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452920-hgAu70",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000712",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629295764.724",
+         "CWPPERIOD_END":"1629384794.396",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452921-XzXNJs",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000716",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1629384794.399",
+         "CWPPERIOD_END":"1629385712.186",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452922-epKt42",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000479",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616831104.492",
+         "CWPPERIOD_END":"1616831543.182",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452923-D5E92u",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000586",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1617002338.02",
+         "CWPPERIOD_END":"1618232704.043",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452924-dcLZmo",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000604",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1618232704.047",
+         "CWPPERIOD_END":"1618280502.176",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452925-ZnXCrD",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000608",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1618280502.179",
+         "CWPPERIOD_END":"1622696320.382",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452926-LzDRPV",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000664",
+         "CWPPERIOD_GUNWPID":"200004",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1622696320.385",
+         "CWPPERIOD_END":"1622710577.757",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452927-5a3o7U",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000544",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"8",
+         "CWPPERIOD_START":"1616997903.92",
+         "CWPPERIOD_END":"1616999347.848",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452928-Ei9KaI",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000021",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"2723",
+         "CWPPERIOD_START":"1611632701.372",
+         "CWPPERIOD_END":"1612840143.525",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452929-MghJSo",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000046",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"165",
+         "CWPPERIOD_START":"1612840143.527",
+         "CWPPERIOD_END":"1616634621.701",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452930-prCbYP",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000145",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"5256",
+         "CWPPERIOD_START":"1616634621.703",
+         "CWPPERIOD_END":"1616661238.289",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452931-ftYUIH",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000153",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"3",
+         "CWPPERIOD_START":"1616661238.293",
+         "CWPPERIOD_END":"1616663275.774",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452932-Ux11NZ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000161",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"1",
+         "CWPPERIOD_START":"1616663275.777",
+         "CWPPERIOD_END":"1616719443.704",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452933-YKstde",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000165",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616719443.706",
+         "CWPPERIOD_END":"1616725141.209",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452934-T8h2Pl",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000347",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616737215.04",
+         "CWPPERIOD_END":"1616737554.213",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452935-902s6y",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000389",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"193",
+         "CWPPERIOD_START":"1616737554.215",
+         "CWPPERIOD_END":"1616809141.463",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452936-DxB8Xz",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000193",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"18",
+         "CWPPERIOD_START":"1616725141.211",
+         "CWPPERIOD_END":"1616728121.518",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452937-X0QdLb",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000225",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"1",
+         "CWPPERIOD_START":"1616728121.52",
+         "CWPPERIOD_END":"1616728125.909",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452938-ZTAY9X",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000229",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"4",
+         "CWPPERIOD_START":"1616728125.911",
+         "CWPPERIOD_END":"1616728147.006",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452939-CVBcBX",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000230",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"196",
+         "CWPPERIOD_START":"1616728147.008",
+         "CWPPERIOD_END":"1616732686.426",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452940-Iol6lN",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000231",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"1500",
+         "CWPPERIOD_START":"1616732686.439",
+         "CWPPERIOD_END":"1616733560.224",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452941-HuAnfO",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000241",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"1502",
+         "CWPPERIOD_START":"1616733560.226",
+         "CWPPERIOD_END":"1616734589.912",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452942-GUCo1P",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000251",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"2200",
+         "CWPPERIOD_START":"1616734589.914",
+         "CWPPERIOD_END":"1616734616.295",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452943-QkZ26o",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000255",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"12",
+         "CWPPERIOD_START":"1616734616.297",
+         "CWPPERIOD_END":"1616737215.038",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452944-cVdCIy",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000579",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"22",
+         "CWPPERIOD_START":"1616999347.85",
+         "CWPPERIOD_END":"1618284907.467",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452945-gDNSnq",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000407",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"15",
+         "CWPPERIOD_START":"1616809141.465",
+         "CWPPERIOD_END":"1616809833.752",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452946-BwzcsG",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000411",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"22",
+         "CWPPERIOD_START":"1616809833.754",
+         "CWPPERIOD_END":"1616810153.486",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452947-beuevX",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000415",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"18",
+         "CWPPERIOD_START":"1616810153.488",
+         "CWPPERIOD_END":"1616810462.271",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452948-KLPXVt",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000419",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"6",
+         "CWPPERIOD_START":"1616810462.273",
+         "CWPPERIOD_END":"1616811119.549",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452949-FWO98O",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000423",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"315",
+         "CWPPERIOD_START":"1616811119.551",
+         "CWPPERIOD_END":"1616818407.791",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452950-jmcjXn",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000427",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"71",
+         "CWPPERIOD_START":"1616818407.793",
+         "CWPPERIOD_END":"1616819481.234",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452951-LI91N9",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000431",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"3",
+         "CWPPERIOD_START":"1616819481.238",
+         "CWPPERIOD_END":"1616819503.846",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452952-BhJYkS",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000435",
+         "CWPPERIOD_GUNWPID":"200005",
+         "CWPPERIOD_WPCOUNT":"108",
+         "CWPPERIOD_START":"1616819503.847",
+         "CWPPERIOD_END":"1616997903.919",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452953-XLG62o",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000390",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"193",
+         "CWPPERIOD_START":"1616737555.218",
+         "CWPPERIOD_END":"1616809142.465",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452954-cWmJJd",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000545",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"1",
+         "CWPPERIOD_START":"1616997904.927",
+         "CWPPERIOD_END":"1616999348.85",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452955-gmZGDq",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000023",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"2723",
+         "CWPPERIOD_START":"1611632703.421",
+         "CWPPERIOD_END":"1612840145.535",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452956-paTQbW",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000048",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"165",
+         "CWPPERIOD_START":"1612840145.536",
+         "CWPPERIOD_END":"1616634622.708",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452957-ljJ5T5",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000146",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"5256",
+         "CWPPERIOD_START":"1616634622.711",
+         "CWPPERIOD_END":"1616661239.456",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452958-uFVex7",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000154",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"3",
+         "CWPPERIOD_START":"1616661239.458",
+         "CWPPERIOD_END":"1616663276.776",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452959-brqH1U",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000162",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"1",
+         "CWPPERIOD_START":"1616663276.778",
+         "CWPPERIOD_END":"1616719444.823",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452960-DQEVkD",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000166",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616719444.825",
+         "CWPPERIOD_END":"1616725142.212",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452961-l89ujw",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000348",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616737216.092",
+         "CWPPERIOD_END":"1616737555.216",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452962-ByZLfG",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000194",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"19",
+         "CWPPERIOD_START":"1616725142.213",
+         "CWPPERIOD_END":"1616728122.52",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452963-918E2Z",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000226",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"200",
+         "CWPPERIOD_START":"1616728122.522",
+         "CWPPERIOD_END":"1616732690.681",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452964-ABnPrr",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000232",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"1950",
+         "CWPPERIOD_START":"1616732690.684",
+         "CWPPERIOD_END":"1616733563.208",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452965-0Uqgpc",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000242",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"1990",
+         "CWPPERIOD_START":"1616733563.211",
+         "CWPPERIOD_END":"1616733634.864",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452966-kfF0LD",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000249",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616733634.866",
+         "CWPPERIOD_END":"1616734591.823",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452967-Qo5wmT",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000252",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"2200",
+         "CWPPERIOD_START":"1616734591.827",
+         "CWPPERIOD_END":"1616734634.895",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452968-VDCwzv",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000256",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"12",
+         "CWPPERIOD_START":"1616734634.897",
+         "CWPPERIOD_END":"1616737216.09",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452969-JMwiAo",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000580",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"22",
+         "CWPPERIOD_START":"1616999348.852",
+         "CWPPERIOD_END":"1618284908.482",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452970-aONaM2",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000408",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"15",
+         "CWPPERIOD_START":"1616809142.478",
+         "CWPPERIOD_END":"1616809834.847",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452971-xX05ho",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000412",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"22",
+         "CWPPERIOD_START":"1616809834.849",
+         "CWPPERIOD_END":"1616810154.488",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452972-BlsoXJ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000416",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"18",
+         "CWPPERIOD_START":"1616810154.49",
+         "CWPPERIOD_END":"1616810463.359",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452973-cB2bDm",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000420",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"6",
+         "CWPPERIOD_START":"1616810463.361",
+         "CWPPERIOD_END":"1616811120.551",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452974-jWL9WW",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000424",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"315",
+         "CWPPERIOD_START":"1616811120.553",
+         "CWPPERIOD_END":"1616818408.796",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452975-nhIE9o",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000428",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"71",
+         "CWPPERIOD_START":"1616818408.798",
+         "CWPPERIOD_END":"1616819482.24",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452976-Da6liv",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000432",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"3",
+         "CWPPERIOD_START":"1616819482.243",
+         "CWPPERIOD_END":"1616819504.85",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452977-cTHqkO",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000436",
+         "CWPPERIOD_GUNWPID":"200006",
+         "CWPPERIOD_WPCOUNT":"108",
+         "CWPPERIOD_START":"1616819504.854",
+         "CWPPERIOD_END":"1616997904.923",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452978-gSKKno",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000409",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"15",
+         "CWPPERIOD_START":"1616809143.47",
+         "CWPPERIOD_END":"1616809835.959",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452979-dYW7py",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000413",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"22",
+         "CWPPERIOD_START":"1616809835.961",
+         "CWPPERIOD_END":"1616810155.49",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452980-DvKa2r",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000417",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"18",
+         "CWPPERIOD_START":"1616810155.492",
+         "CWPPERIOD_END":"1616810464.363",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452981-DjZoLz",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000421",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"6",
+         "CWPPERIOD_START":"1616810464.365",
+         "CWPPERIOD_END":"1616811121.555",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452982-HGdQ2j",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000425",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"315",
+         "CWPPERIOD_START":"1616811121.557",
+         "CWPPERIOD_END":"1616818409.799",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452983-F9Bljc",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000429",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"71",
+         "CWPPERIOD_START":"1616818409.801",
+         "CWPPERIOD_END":"1616819483.243",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452984-La7ogN",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000433",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"3",
+         "CWPPERIOD_START":"1616819483.246",
+         "CWPPERIOD_END":"1616819505.861",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452985-R2bEmB",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000437",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"108",
+         "CWPPERIOD_START":"1616819505.865",
+         "CWPPERIOD_END":"1616997905.926",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452986-NQLFKl",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000581",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"22",
+         "CWPPERIOD_START":"1616999349.855",
+         "CWPPERIOD_END":"1618284909.498",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452987-vmN2fV",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000195",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"19",
+         "CWPPERIOD_START":"1616725143.219",
+         "CWPPERIOD_END":"1616728123.522",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452988-BjkSsz",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000227",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"200",
+         "CWPPERIOD_START":"1616728123.524",
+         "CWPPERIOD_END":"1616732692.042",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452989-tGplaq",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000233",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"1950",
+         "CWPPERIOD_START":"1616732692.044",
+         "CWPPERIOD_END":"1616733568.858",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452990-QfvbDm",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000243",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"1951",
+         "CWPPERIOD_START":"1616733568.86",
+         "CWPPERIOD_END":"1616733610.48",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452991-ksIv7X",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000245",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"1991",
+         "CWPPERIOD_START":"1616733610.482",
+         "CWPPERIOD_END":"1616733631.111",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452992-MucNVy",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000248",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"1990",
+         "CWPPERIOD_START":"1616733631.114",
+         "CWPPERIOD_END":"1616733642.728",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452993-fjPblF",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000250",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616733642.73",
+         "CWPPERIOD_END":"1616734593.289",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452994-Wuddj8",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000253",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"12",
+         "CWPPERIOD_START":"1616734593.291",
+         "CWPPERIOD_END":"1616737217.102",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452995-8hGhZb",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000024",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"2723",
+         "CWPPERIOD_START":"1611632704.422",
+         "CWPPERIOD_END":"1612840146.537",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452996-bHQxIx",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000049",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"165",
+         "CWPPERIOD_START":"1612840146.539",
+         "CWPPERIOD_END":"1616634623.711",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452997-ua5pqA",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000147",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"5256",
+         "CWPPERIOD_START":"1616634623.712",
+         "CWPPERIOD_END":"1616661240.458",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452998-cXYLXe",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000155",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"3",
+         "CWPPERIOD_START":"1616661240.461",
+         "CWPPERIOD_END":"1616663277.95",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653452999-18qV7C",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000163",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"1",
+         "CWPPERIOD_START":"1616663277.952",
+         "CWPPERIOD_END":"1616719445.903",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453000-SezOX9",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000167",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616719445.905",
+         "CWPPERIOD_END":"1616725143.217",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453001-Osu2Ga",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000349",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616737217.104",
+         "CWPPERIOD_END":"1616737556.22",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453002-Ld1GbJ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000391",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"193",
+         "CWPPERIOD_START":"1616737556.222",
+         "CWPPERIOD_END":"1616809143.468",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453003-f0DzlW",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000546",
+         "CWPPERIOD_GUNWPID":"200007",
+         "CWPPERIOD_WPCOUNT":"1",
+         "CWPPERIOD_START":"1616997905.928",
+         "CWPPERIOD_END":"1616999349.854",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453004-z0bimt",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000410",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"15",
+         "CWPPERIOD_START":"1616809144.472",
+         "CWPPERIOD_END":"1616809837.174",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453005-q9XlxV",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000414",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"22",
+         "CWPPERIOD_START":"1616809837.176",
+         "CWPPERIOD_END":"1616810156.494",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453006-YaEO6r",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000418",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"18",
+         "CWPPERIOD_START":"1616810156.497",
+         "CWPPERIOD_END":"1616810465.367",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453007-ADO7iT",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000422",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"6",
+         "CWPPERIOD_START":"1616810465.369",
+         "CWPPERIOD_END":"1616811122.726",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453008-ZzAaJC",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000426",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"315",
+         "CWPPERIOD_START":"1616811122.728",
+         "CWPPERIOD_END":"1616818410.949",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453009-wQqwqq",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000430",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"71",
+         "CWPPERIOD_START":"1616818410.954",
+         "CWPPERIOD_END":"1616819484.247",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453010-cKDZuh",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000434",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"3",
+         "CWPPERIOD_START":"1616819484.251",
+         "CWPPERIOD_END":"1616819506.868",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453011-IAMrht",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000438",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"108",
+         "CWPPERIOD_START":"1616819506.87",
+         "CWPPERIOD_END":"1616997907.053",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453012-Ba9iOz",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000582",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"22",
+         "CWPPERIOD_START":"1616999350.858",
+         "CWPPERIOD_END":"1618284910.513",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453013-h7deOa",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000196",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"19",
+         "CWPPERIOD_START":"1616725144.226",
+         "CWPPERIOD_END":"1616728124.524",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453014-PTcbUY",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000228",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"200",
+         "CWPPERIOD_START":"1616728124.526",
+         "CWPPERIOD_END":"1616732693.258",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453015-PWhRR6",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000234",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"1950",
+         "CWPPERIOD_START":"1616732693.26",
+         "CWPPERIOD_END":"1616733570.569",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453016-aqakut",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000244",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"1950",
+         "CWPPERIOD_START":"1616733570.57",
+         "CWPPERIOD_END":"1616733612.296",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453017-HIf3cU",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000246",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"1990",
+         "CWPPERIOD_START":"1616733612.298",
+         "CWPPERIOD_END":"1616733624.304",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453018-o6OYor",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000247",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616733624.306",
+         "CWPPERIOD_END":"1616734594.345",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453019-1FUHlB",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000254",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"12",
+         "CWPPERIOD_START":"1616734594.347",
+         "CWPPERIOD_END":"1616737218.104",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453020-VxwFza",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000025",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"2723",
+         "CWPPERIOD_START":"1611632705.425",
+         "CWPPERIOD_END":"1612840147.541",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453021-VMksNq",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000050",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"165",
+         "CWPPERIOD_START":"1612840147.542",
+         "CWPPERIOD_END":"1616634624.715",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453022-BDtmQH",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000148",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"5256",
+         "CWPPERIOD_START":"1616634624.718",
+         "CWPPERIOD_END":"1616661241.462",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453023-fwNmVU",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000156",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"3",
+         "CWPPERIOD_START":"1616661241.463",
+         "CWPPERIOD_END":"1616663278.953",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453024-4Zp7G0",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000164",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"1",
+         "CWPPERIOD_START":"1616663278.955",
+         "CWPPERIOD_END":"1616719446.906",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453025-GGR3XH",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000168",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616719446.908",
+         "CWPPERIOD_END":"1616725144.224",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453026-A8NIYc",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000350",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616737218.107",
+         "CWPPERIOD_END":"1616737557.223",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453027-HonBAl",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000392",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"193",
+         "CWPPERIOD_START":"1616737557.225",
+         "CWPPERIOD_END":"1616809144.47",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453028-Tr5rfk",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000547",
+         "CWPPERIOD_GUNWPID":"200008",
+         "CWPPERIOD_WPCOUNT":"1",
+         "CWPPERIOD_START":"1616997907.055",
+         "CWPPERIOD_END":"1616999350.857",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453029-PJFBhJ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000439",
+         "CWPPERIOD_GUNWPID":"200009",
+         "CWPPERIOD_WPCOUNT":"1014",
+         "CWPPERIOD_START":"1616821870.201",
+         "CWPPERIOD_END":"1616822213.133",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453030-6iyCCV",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000443",
+         "CWPPERIOD_GUNWPID":"200009",
+         "CWPPERIOD_WPCOUNT":"2015",
+         "CWPPERIOD_START":"1616822213.135",
+         "CWPPERIOD_END":"1616822438.508",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453031-19NTCh",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000447",
+         "CWPPERIOD_GUNWPID":"200009",
+         "CWPPERIOD_WPCOUNT":"1500",
+         "CWPPERIOD_START":"1616822438.511",
+         "CWPPERIOD_END":"1616999270.605",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453032-R1fJS9",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000570",
+         "CWPPERIOD_GUNWPID":"200009",
+         "CWPPERIOD_WPCOUNT":"218",
+         "CWPPERIOD_START":"1616999270.607",
+         "CWPPERIOD_END":"1618284861.344",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453033-T2T0H9",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000645",
+         "CWPPERIOD_GUNWPID":"200009",
+         "CWPPERIOD_WPCOUNT":"496",
+         "CWPPERIOD_START":"1618284861.349",
+         "CWPPERIOD_END":"1645503286.051",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453034-NTaJ5E",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000797",
+         "CWPPERIOD_GUNWPID":"200009",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645503286.057",
+         "CWPPERIOD_END":"1645510219.693",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453035-p6e1dT",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000801",
+         "CWPPERIOD_GUNWPID":"200009",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510219.696",
+         "CWPPERIOD_END":"1645510650.613",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453036-UDhqEF",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000813",
+         "CWPPERIOD_GUNWPID":"200009",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510650.616",
+         "CWPPERIOD_END":"1645511367.718",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453037-Pv6Nve",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000185",
+         "CWPPERIOD_GUNWPID":"200009",
+         "CWPPERIOD_WPCOUNT":"1",
+         "CWPPERIOD_START":"1616724896.778",
+         "CWPPERIOD_END":"1616733082.265",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453038-7bgBlF",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000235",
+         "CWPPERIOD_GUNWPID":"200009",
+         "CWPPERIOD_WPCOUNT":"2020",
+         "CWPPERIOD_START":"1616733082.267",
+         "CWPPERIOD_END":"1616733109.064",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453039-0A6qLx",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000236",
+         "CWPPERIOD_GUNWPID":"200009",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616733109.065",
+         "CWPPERIOD_END":"1616734649.315",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453040-74HDaZ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000257",
+         "CWPPERIOD_GUNWPID":"200009",
+         "CWPPERIOD_WPCOUNT":"2200",
+         "CWPPERIOD_START":"1616734649.317",
+         "CWPPERIOD_END":"1616734955.262",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453041-rxOtqr",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000261",
+         "CWPPERIOD_GUNWPID":"200009",
+         "CWPPERIOD_WPCOUNT":"12",
+         "CWPPERIOD_START":"1616734955.264",
+         "CWPPERIOD_END":"1616737304.87",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453042-6DoHZU",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000351",
+         "CWPPERIOD_GUNWPID":"200009",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616737304.872",
+         "CWPPERIOD_END":"1616821870.198",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453043-VzpAfQ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000440",
+         "CWPPERIOD_GUNWPID":"200010",
+         "CWPPERIOD_WPCOUNT":"1014",
+         "CWPPERIOD_START":"1616821871.364",
+         "CWPPERIOD_END":"1616822214.299",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453044-eoeGrr",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000444",
+         "CWPPERIOD_GUNWPID":"200010",
+         "CWPPERIOD_WPCOUNT":"2015",
+         "CWPPERIOD_START":"1616822214.301",
+         "CWPPERIOD_END":"1616822439.513",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453045-1SKaXm",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000448",
+         "CWPPERIOD_GUNWPID":"200010",
+         "CWPPERIOD_WPCOUNT":"119",
+         "CWPPERIOD_START":"1616822439.516",
+         "CWPPERIOD_END":"1616999271.608",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453046-BWzW3l",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000571",
+         "CWPPERIOD_GUNWPID":"200010",
+         "CWPPERIOD_WPCOUNT":"218",
+         "CWPPERIOD_START":"1616999271.61",
+         "CWPPERIOD_END":"1618284862.364",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453047-jWV4gj",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000646",
+         "CWPPERIOD_GUNWPID":"200010",
+         "CWPPERIOD_WPCOUNT":"1129",
+         "CWPPERIOD_START":"1618284862.37",
+         "CWPPERIOD_END":"1645503287.056",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453048-vdLxaL",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000798",
+         "CWPPERIOD_GUNWPID":"200010",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645503287.069",
+         "CWPPERIOD_END":"1645510219.701",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453049-A75JiV",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000802",
+         "CWPPERIOD_GUNWPID":"200010",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510219.705",
+         "CWPPERIOD_END":"1645510650.62",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453050-NxLJIJ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000814",
+         "CWPPERIOD_GUNWPID":"200010",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510650.622",
+         "CWPPERIOD_END":"1645511367.723",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453051-jvNPx0",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000186",
+         "CWPPERIOD_GUNWPID":"200010",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616724898.235",
+         "CWPPERIOD_END":"1616733110.068",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453052-2NTTa0",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000237",
+         "CWPPERIOD_GUNWPID":"200010",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616733110.069",
+         "CWPPERIOD_END":"1616734650.584",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453053-P3dLou",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000258",
+         "CWPPERIOD_GUNWPID":"200010",
+         "CWPPERIOD_WPCOUNT":"2200",
+         "CWPPERIOD_START":"1616734650.586",
+         "CWPPERIOD_END":"1616734956.647",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453054-tTX2fv",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000262",
+         "CWPPERIOD_GUNWPID":"200010",
+         "CWPPERIOD_WPCOUNT":"12",
+         "CWPPERIOD_START":"1616734956.648",
+         "CWPPERIOD_END":"1616737305.99",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453055-0AWSzq",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000352",
+         "CWPPERIOD_GUNWPID":"200010",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616737305.991",
+         "CWPPERIOD_END":"1616821871.362",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453056-G5aOL8",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000441",
+         "CWPPERIOD_GUNWPID":"200011",
+         "CWPPERIOD_WPCOUNT":"1014",
+         "CWPPERIOD_START":"1616821872.839",
+         "CWPPERIOD_END":"1616822215.35",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453057-c21tyJ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000445",
+         "CWPPERIOD_GUNWPID":"200011",
+         "CWPPERIOD_WPCOUNT":"2015",
+         "CWPPERIOD_START":"1616822215.353",
+         "CWPPERIOD_END":"1616822440.519",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453058-yRdin6",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000449",
+         "CWPPERIOD_GUNWPID":"200011",
+         "CWPPERIOD_WPCOUNT":"119",
+         "CWPPERIOD_START":"1616822440.521",
+         "CWPPERIOD_END":"1616999272.612",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453059-xiN1tx",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000572",
+         "CWPPERIOD_GUNWPID":"200011",
+         "CWPPERIOD_WPCOUNT":"218",
+         "CWPPERIOD_START":"1616999272.615",
+         "CWPPERIOD_END":"1618284863.371",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453060-o39a0P",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000647",
+         "CWPPERIOD_GUNWPID":"200011",
+         "CWPPERIOD_WPCOUNT":"1129",
+         "CWPPERIOD_START":"1618284863.376",
+         "CWPPERIOD_END":"1645503288.073",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453061-xSQnl0",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000799",
+         "CWPPERIOD_GUNWPID":"200011",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645503288.078",
+         "CWPPERIOD_END":"1645510219.712",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453062-VgGQ5u",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000803",
+         "CWPPERIOD_GUNWPID":"200011",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510219.716",
+         "CWPPERIOD_END":"1645510650.625",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453063-tkpmsR",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000815",
+         "CWPPERIOD_GUNWPID":"200011",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510650.632",
+         "CWPPERIOD_END":"1645511367.729",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453064-OjRplL",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000187",
+         "CWPPERIOD_GUNWPID":"200011",
+         "CWPPERIOD_WPCOUNT":"3",
+         "CWPPERIOD_START":"1616724899.427",
+         "CWPPERIOD_END":"1616733111.249",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453065-KTzwrY",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000238",
+         "CWPPERIOD_GUNWPID":"200011",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616733111.251",
+         "CWPPERIOD_END":"1616734651.593",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453066-747ln1",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000259",
+         "CWPPERIOD_GUNWPID":"200011",
+         "CWPPERIOD_WPCOUNT":"2200",
+         "CWPPERIOD_START":"1616734651.595",
+         "CWPPERIOD_END":"1616734957.655",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453067-6qP3Ra",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000263",
+         "CWPPERIOD_GUNWPID":"200011",
+         "CWPPERIOD_WPCOUNT":"12",
+         "CWPPERIOD_START":"1616734957.656",
+         "CWPPERIOD_END":"1616737307.037",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453068-TLf558",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000353",
+         "CWPPERIOD_GUNWPID":"200011",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616737307.039",
+         "CWPPERIOD_END":"1616821872.838",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453069-9HJyfX",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000442",
+         "CWPPERIOD_GUNWPID":"200012",
+         "CWPPERIOD_WPCOUNT":"1014",
+         "CWPPERIOD_START":"1616821873.92",
+         "CWPPERIOD_END":"1616822216.356",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453070-9RDP9V",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000446",
+         "CWPPERIOD_GUNWPID":"200012",
+         "CWPPERIOD_WPCOUNT":"2015",
+         "CWPPERIOD_START":"1616822216.358",
+         "CWPPERIOD_END":"1616822441.524",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453071-qszBRz",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000450",
+         "CWPPERIOD_GUNWPID":"200012",
+         "CWPPERIOD_WPCOUNT":"119",
+         "CWPPERIOD_START":"1616822441.526",
+         "CWPPERIOD_END":"1616999273.614",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453072-JfLtBW",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000573",
+         "CWPPERIOD_GUNWPID":"200012",
+         "CWPPERIOD_WPCOUNT":"218",
+         "CWPPERIOD_START":"1616999273.616",
+         "CWPPERIOD_END":"1618284864.381",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453073-dTIKY8",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000648",
+         "CWPPERIOD_GUNWPID":"200012",
+         "CWPPERIOD_WPCOUNT":"1129",
+         "CWPPERIOD_START":"1618284864.385",
+         "CWPPERIOD_END":"1645503289.08",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453074-zj5S8U",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000800",
+         "CWPPERIOD_GUNWPID":"200012",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645503289.084",
+         "CWPPERIOD_END":"1645510219.722",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453075-SCPNuL",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000804",
+         "CWPPERIOD_GUNWPID":"200012",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510219.725",
+         "CWPPERIOD_END":"1645510650.636",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453076-in2Fus",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000816",
+         "CWPPERIOD_GUNWPID":"200012",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510650.644",
+         "CWPPERIOD_END":"1645511367.734",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453077-4p60md",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000188",
+         "CWPPERIOD_GUNWPID":"200012",
+         "CWPPERIOD_WPCOUNT":"4",
+         "CWPPERIOD_START":"1616724900.731",
+         "CWPPERIOD_END":"1616733112.258",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453078-AEdOpn",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000239",
+         "CWPPERIOD_GUNWPID":"200012",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616733112.259",
+         "CWPPERIOD_END":"1616734652.597",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453079-AhXl3C",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000260",
+         "CWPPERIOD_GUNWPID":"200012",
+         "CWPPERIOD_WPCOUNT":"2200",
+         "CWPPERIOD_START":"1616734652.599",
+         "CWPPERIOD_END":"1616734958.815",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453080-piIfIf",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000264",
+         "CWPPERIOD_GUNWPID":"200012",
+         "CWPPERIOD_WPCOUNT":"12",
+         "CWPPERIOD_START":"1616734958.816",
+         "CWPPERIOD_END":"1616737308.04",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453081-Gt4ZTu",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000354",
+         "CWPPERIOD_GUNWPID":"200012",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616737308.042",
+         "CWPPERIOD_END":"1616821873.916",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453082-wMXR3M",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000451",
+         "CWPPERIOD_GUNWPID":"200013",
+         "CWPPERIOD_WPCOUNT":"128",
+         "CWPPERIOD_START":"1616823090.14",
+         "CWPPERIOD_END":"1616999286.972",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453083-KTHHRz",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000574",
+         "CWPPERIOD_GUNWPID":"200013",
+         "CWPPERIOD_WPCOUNT":"1500",
+         "CWPPERIOD_START":"1616999286.974",
+         "CWPPERIOD_END":"1616999313.413",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453084-AJUfP0",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000578",
+         "CWPPERIOD_GUNWPID":"200013",
+         "CWPPERIOD_WPCOUNT":"141",
+         "CWPPERIOD_START":"1616999313.415",
+         "CWPPERIOD_END":"1618284817.318",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453085-pb9GGm",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000189",
+         "CWPPERIOD_GUNWPID":"200013",
+         "CWPPERIOD_WPCOUNT":"2010",
+         "CWPPERIOD_START":"1616724982.396",
+         "CWPPERIOD_END":"1616733146.042",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453086-jnWAEz",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000240",
+         "CWPPERIOD_GUNWPID":"200013",
+         "CWPPERIOD_WPCOUNT":"2001",
+         "CWPPERIOD_START":"1616733146.043",
+         "CWPPERIOD_END":"1616734973.32",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453087-kbqZJi",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000265",
+         "CWPPERIOD_GUNWPID":"200013",
+         "CWPPERIOD_WPCOUNT":"1950",
+         "CWPPERIOD_START":"1616734973.321",
+         "CWPPERIOD_END":"1616734995.887",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453088-4H8jb7",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000269",
+         "CWPPERIOD_GUNWPID":"200013",
+         "CWPPERIOD_WPCOUNT":"12",
+         "CWPPERIOD_START":"1616734995.889",
+         "CWPPERIOD_END":"1616737334.949",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453089-4Poyf3",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000355",
+         "CWPPERIOD_GUNWPID":"200013",
+         "CWPPERIOD_WPCOUNT":"27",
+         "CWPPERIOD_START":"1616737334.95",
+         "CWPPERIOD_END":"1616823090.138",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453090-MgOWFf",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000452",
+         "CWPPERIOD_GUNWPID":"200014",
+         "CWPPERIOD_WPCOUNT":"128",
+         "CWPPERIOD_START":"1616823091.147",
+         "CWPPERIOD_END":"1616999287.978",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453091-RiODob",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000575",
+         "CWPPERIOD_GUNWPID":"200014",
+         "CWPPERIOD_WPCOUNT":"141",
+         "CWPPERIOD_START":"1616999287.982",
+         "CWPPERIOD_END":"1618284818.327",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453092-zPFfFW",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000190",
+         "CWPPERIOD_GUNWPID":"200014",
+         "CWPPERIOD_WPCOUNT":"2001",
+         "CWPPERIOD_START":"1616724983.691",
+         "CWPPERIOD_END":"1616734974.703",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453093-zcgPlK",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000266",
+         "CWPPERIOD_GUNWPID":"200014",
+         "CWPPERIOD_WPCOUNT":"1950",
+         "CWPPERIOD_START":"1616734974.715",
+         "CWPPERIOD_END":"1616734997.159",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453094-jtzeMS",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000270",
+         "CWPPERIOD_GUNWPID":"200014",
+         "CWPPERIOD_WPCOUNT":"12",
+         "CWPPERIOD_START":"1616734997.161",
+         "CWPPERIOD_END":"1616737335.957",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453095-OvoePN",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000356",
+         "CWPPERIOD_GUNWPID":"200014",
+         "CWPPERIOD_WPCOUNT":"27",
+         "CWPPERIOD_START":"1616737335.958",
+         "CWPPERIOD_END":"1616823091.145",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453096-J8eWGY",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000453",
+         "CWPPERIOD_GUNWPID":"200015",
+         "CWPPERIOD_WPCOUNT":"128",
+         "CWPPERIOD_START":"1616823092.152",
+         "CWPPERIOD_END":"1616999288.981",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453097-oY6LqP",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000576",
+         "CWPPERIOD_GUNWPID":"200015",
+         "CWPPERIOD_WPCOUNT":"141",
+         "CWPPERIOD_START":"1616999288.983",
+         "CWPPERIOD_END":"1618284821.408",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453098-rh3v0g",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000191",
+         "CWPPERIOD_GUNWPID":"200015",
+         "CWPPERIOD_WPCOUNT":"2001",
+         "CWPPERIOD_START":"1616724984.702",
+         "CWPPERIOD_END":"1616734975.831",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453099-eUqxO5",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000267",
+         "CWPPERIOD_GUNWPID":"200015",
+         "CWPPERIOD_WPCOUNT":"1950",
+         "CWPPERIOD_START":"1616734975.833",
+         "CWPPERIOD_END":"1616734998.472",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453100-zWbL01",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000271",
+         "CWPPERIOD_GUNWPID":"200015",
+         "CWPPERIOD_WPCOUNT":"12",
+         "CWPPERIOD_START":"1616734998.474",
+         "CWPPERIOD_END":"1616737336.96",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453101-SAUp0Z",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000357",
+         "CWPPERIOD_GUNWPID":"200015",
+         "CWPPERIOD_WPCOUNT":"27",
+         "CWPPERIOD_START":"1616737336.962",
+         "CWPPERIOD_END":"1616823092.15",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453102-xGpBPi",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000454",
+         "CWPPERIOD_GUNWPID":"200016",
+         "CWPPERIOD_WPCOUNT":"128",
+         "CWPPERIOD_START":"1616823093.156",
+         "CWPPERIOD_END":"1616999289.986",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453103-9TdflZ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000577",
+         "CWPPERIOD_GUNWPID":"200016",
+         "CWPPERIOD_WPCOUNT":"141",
+         "CWPPERIOD_START":"1616999289.988",
+         "CWPPERIOD_END":"1618284822.425",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453104-JPhHwg",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000192",
+         "CWPPERIOD_GUNWPID":"200016",
+         "CWPPERIOD_WPCOUNT":"2001",
+         "CWPPERIOD_START":"1616724985.706",
+         "CWPPERIOD_END":"1616734976.998",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453105-kwp4bK",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000268",
+         "CWPPERIOD_GUNWPID":"200016",
+         "CWPPERIOD_WPCOUNT":"1950",
+         "CWPPERIOD_START":"1616734977",
+         "CWPPERIOD_END":"1616734999.663",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453106-zTpzuD",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000272",
+         "CWPPERIOD_GUNWPID":"200016",
+         "CWPPERIOD_WPCOUNT":"12",
+         "CWPPERIOD_START":"1616734999.665",
+         "CWPPERIOD_END":"1616737337.963",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453107-1Q2hVh",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000358",
+         "CWPPERIOD_GUNWPID":"200016",
+         "CWPPERIOD_WPCOUNT":"27",
+         "CWPPERIOD_START":"1616737337.964",
+         "CWPPERIOD_END":"1616823093.154",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453108-shrhZI",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000181",
+         "CWPPERIOD_GUNWPID":"200017",
+         "CWPPERIOD_WPCOUNT":"2200",
+         "CWPPERIOD_START":"1616724831.299",
+         "CWPPERIOD_END":"1616735234.247",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453109-vIQ8aD",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000273",
+         "CWPPERIOD_GUNWPID":"200017",
+         "CWPPERIOD_WPCOUNT":"1",
+         "CWPPERIOD_START":"1616735234.249",
+         "CWPPERIOD_END":"1616735476.432",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453110-QpJgpR",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000281",
+         "CWPPERIOD_GUNWPID":"200017",
+         "CWPPERIOD_WPCOUNT":"11",
+         "CWPPERIOD_START":"1616735476.434",
+         "CWPPERIOD_END":"1616737346.5",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453111-9lu6KQ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000359",
+         "CWPPERIOD_GUNWPID":"200017",
+         "CWPPERIOD_WPCOUNT":"294",
+         "CWPPERIOD_START":"1616737346.502",
+         "CWPPERIOD_END":"1618284774.672",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453112-bevRdE",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000182",
+         "CWPPERIOD_GUNWPID":"200018",
+         "CWPPERIOD_WPCOUNT":"2200",
+         "CWPPERIOD_START":"1616724832.955",
+         "CWPPERIOD_END":"1616735235.623",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453113-CZ33Ga",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000274",
+         "CWPPERIOD_GUNWPID":"200018",
+         "CWPPERIOD_WPCOUNT":"1",
+         "CWPPERIOD_START":"1616735235.625",
+         "CWPPERIOD_END":"1616735477.686",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453114-T2U431",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000282",
+         "CWPPERIOD_GUNWPID":"200018",
+         "CWPPERIOD_WPCOUNT":"11",
+         "CWPPERIOD_START":"1616735477.688",
+         "CWPPERIOD_END":"1616737347.503",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453115-QMtLvO",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000360",
+         "CWPPERIOD_GUNWPID":"200018",
+         "CWPPERIOD_WPCOUNT":"294",
+         "CWPPERIOD_START":"1616737347.505",
+         "CWPPERIOD_END":"1618284775.692",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453116-b2k15P",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000183",
+         "CWPPERIOD_GUNWPID":"200019",
+         "CWPPERIOD_WPCOUNT":"2200",
+         "CWPPERIOD_START":"1616724834.107",
+         "CWPPERIOD_END":"1616735236.911",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453117-TaIiNi",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000275",
+         "CWPPERIOD_GUNWPID":"200019",
+         "CWPPERIOD_WPCOUNT":"1",
+         "CWPPERIOD_START":"1616735236.913",
+         "CWPPERIOD_END":"1616735478.702",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453118-P53idF",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000283",
+         "CWPPERIOD_GUNWPID":"200019",
+         "CWPPERIOD_WPCOUNT":"11",
+         "CWPPERIOD_START":"1616735478.704",
+         "CWPPERIOD_END":"1616737348.506",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453119-t8CFLa",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000361",
+         "CWPPERIOD_GUNWPID":"200019",
+         "CWPPERIOD_WPCOUNT":"294",
+         "CWPPERIOD_START":"1616737348.507",
+         "CWPPERIOD_END":"1618284776.706",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453120-lZOcQ7",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000184",
+         "CWPPERIOD_GUNWPID":"200020",
+         "CWPPERIOD_WPCOUNT":"2200",
+         "CWPPERIOD_START":"1616724835.395",
+         "CWPPERIOD_END":"1616735238.095",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453121-ixhn3T",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000276",
+         "CWPPERIOD_GUNWPID":"200020",
+         "CWPPERIOD_WPCOUNT":"2200",
+         "CWPPERIOD_START":"1616735238.097",
+         "CWPPERIOD_END":"1616735247.127",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453122-nNJ4S9",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000277",
+         "CWPPERIOD_GUNWPID":"200020",
+         "CWPPERIOD_WPCOUNT":"3000",
+         "CWPPERIOD_START":"1616735247.128",
+         "CWPPERIOD_END":"1616735277.647",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453123-rknUE5",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000278",
+         "CWPPERIOD_GUNWPID":"200020",
+         "CWPPERIOD_WPCOUNT":"3000",
+         "CWPPERIOD_START":"1616735277.649",
+         "CWPPERIOD_END":"1616735305.294",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453124-5WoQge",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000279",
+         "CWPPERIOD_GUNWPID":"200020",
+         "CWPPERIOD_WPCOUNT":"3000",
+         "CWPPERIOD_START":"1616735305.296",
+         "CWPPERIOD_END":"1616735330.01",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453125-1OesMg",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000280",
+         "CWPPERIOD_GUNWPID":"200020",
+         "CWPPERIOD_WPCOUNT":"1",
+         "CWPPERIOD_START":"1616735330.013",
+         "CWPPERIOD_END":"1616735479.824",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453126-lmY721",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000284",
+         "CWPPERIOD_GUNWPID":"200020",
+         "CWPPERIOD_WPCOUNT":"3001",
+         "CWPPERIOD_START":"1616735479.826",
+         "CWPPERIOD_END":"1616735500.542",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453127-NDDzVW",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000285",
+         "CWPPERIOD_GUNWPID":"200020",
+         "CWPPERIOD_WPCOUNT":"3001",
+         "CWPPERIOD_START":"1616735500.543",
+         "CWPPERIOD_END":"1616735510.83",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453128-760KWQ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000286",
+         "CWPPERIOD_GUNWPID":"200020",
+         "CWPPERIOD_WPCOUNT":"1950",
+         "CWPPERIOD_START":"1616735510.831",
+         "CWPPERIOD_END":"1616735523.335",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453129-R5Rqa3",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000287",
+         "CWPPERIOD_GUNWPID":"200020",
+         "CWPPERIOD_WPCOUNT":"3200",
+         "CWPPERIOD_START":"1616735523.337",
+         "CWPPERIOD_END":"1616735573.383",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453130-cx8wdn",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000288",
+         "CWPPERIOD_GUNWPID":"200020",
+         "CWPPERIOD_WPCOUNT":"11",
+         "CWPPERIOD_START":"1616735573.385",
+         "CWPPERIOD_END":"1616737349.509",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453131-jEEDGI",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000362",
+         "CWPPERIOD_GUNWPID":"200020",
+         "CWPPERIOD_WPCOUNT":"294",
+         "CWPPERIOD_START":"1616737349.511",
+         "CWPPERIOD_END":"1618284777.719",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453132-PMuRMe",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000197",
+         "CWPPERIOD_GUNWPID":"200021",
+         "CWPPERIOD_WPCOUNT":"3",
+         "CWPPERIOD_START":"1616725348.729",
+         "CWPPERIOD_END":"1616735594.023",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453133-Dgqs2y",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000289",
+         "CWPPERIOD_GUNWPID":"200021",
+         "CWPPERIOD_WPCOUNT":"2200",
+         "CWPPERIOD_START":"1616735594.025",
+         "CWPPERIOD_END":"1616735718.19",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453134-H6Q2Da",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000293",
+         "CWPPERIOD_GUNWPID":"200021",
+         "CWPPERIOD_WPCOUNT":"11",
+         "CWPPERIOD_START":"1616735718.193",
+         "CWPPERIOD_END":"1616737358.405",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453135-zLKaIA",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000363",
+         "CWPPERIOD_GUNWPID":"200021",
+         "CWPPERIOD_WPCOUNT":"147",
+         "CWPPERIOD_START":"1616737358.407",
+         "CWPPERIOD_END":"1618284727.895",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453136-0RS1wt",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000198",
+         "CWPPERIOD_GUNWPID":"200022",
+         "CWPPERIOD_WPCOUNT":"3",
+         "CWPPERIOD_START":"1616725349.732",
+         "CWPPERIOD_END":"1616735595.026",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453137-N5tbot",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000290",
+         "CWPPERIOD_GUNWPID":"200022",
+         "CWPPERIOD_WPCOUNT":"2200",
+         "CWPPERIOD_START":"1616735595.028",
+         "CWPPERIOD_END":"1616735719.193",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453138-zL4HWT",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000294",
+         "CWPPERIOD_GUNWPID":"200022",
+         "CWPPERIOD_WPCOUNT":"11",
+         "CWPPERIOD_START":"1616735719.196",
+         "CWPPERIOD_END":"1616737359.407",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453139-WP2K1i",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000364",
+         "CWPPERIOD_GUNWPID":"200022",
+         "CWPPERIOD_WPCOUNT":"147",
+         "CWPPERIOD_START":"1616737359.42",
+         "CWPPERIOD_END":"1618284730.358",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453140-CEyBP7",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000199",
+         "CWPPERIOD_GUNWPID":"200023",
+         "CWPPERIOD_WPCOUNT":"3",
+         "CWPPERIOD_START":"1616725350.738",
+         "CWPPERIOD_END":"1616735596.062",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453141-Kpn0ij",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000291",
+         "CWPPERIOD_GUNWPID":"200023",
+         "CWPPERIOD_WPCOUNT":"2200",
+         "CWPPERIOD_START":"1616735596.065",
+         "CWPPERIOD_END":"1616735720.196",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453142-nclrrR",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000295",
+         "CWPPERIOD_GUNWPID":"200023",
+         "CWPPERIOD_WPCOUNT":"11",
+         "CWPPERIOD_START":"1616735720.198",
+         "CWPPERIOD_END":"1616737360.413",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453143-z70NOt",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000365",
+         "CWPPERIOD_GUNWPID":"200023",
+         "CWPPERIOD_WPCOUNT":"147",
+         "CWPPERIOD_START":"1616737360.415",
+         "CWPPERIOD_END":"1618284731.365",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453144-RHwDzw",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000200",
+         "CWPPERIOD_GUNWPID":"200024",
+         "CWPPERIOD_WPCOUNT":"3",
+         "CWPPERIOD_START":"1616725351.74",
+         "CWPPERIOD_END":"1616735597.135",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453145-YqM7YI",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000292",
+         "CWPPERIOD_GUNWPID":"200024",
+         "CWPPERIOD_WPCOUNT":"2200",
+         "CWPPERIOD_START":"1616735597.137",
+         "CWPPERIOD_END":"1616735721.198",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453146-GR7EIf",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000296",
+         "CWPPERIOD_GUNWPID":"200024",
+         "CWPPERIOD_WPCOUNT":"11",
+         "CWPPERIOD_START":"1616735721.2",
+         "CWPPERIOD_END":"1616737361.415",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453147-tJvgEV",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000366",
+         "CWPPERIOD_GUNWPID":"200024",
+         "CWPPERIOD_WPCOUNT":"147",
+         "CWPPERIOD_START":"1616737361.417",
+         "CWPPERIOD_END":"1618284732.38",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453148-0UrR2V",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000455",
+         "CWPPERIOD_GUNWPID":"200025",
+         "CWPPERIOD_WPCOUNT":"55",
+         "CWPPERIOD_START":"1616825229.133",
+         "CWPPERIOD_END":"1616826132.975",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453149-Ant1O7",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000459",
+         "CWPPERIOD_GUNWPID":"200025",
+         "CWPPERIOD_WPCOUNT":"106",
+         "CWPPERIOD_START":"1616826132.979",
+         "CWPPERIOD_END":"1616999206.454",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453150-K5jaJC",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000565",
+         "CWPPERIOD_GUNWPID":"200025",
+         "CWPPERIOD_WPCOUNT":"1950",
+         "CWPPERIOD_START":"1616999206.455",
+         "CWPPERIOD_END":"1616999236.981",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453151-JrLNA8",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000569",
+         "CWPPERIOD_GUNWPID":"200025",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616999236.983",
+         "CWPPERIOD_END":"1618284681.152",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453152-IEH9kJ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000201",
+         "CWPPERIOD_GUNWPID":"200025",
+         "CWPPERIOD_WPCOUNT":"3",
+         "CWPPERIOD_START":"1616725388.648",
+         "CWPPERIOD_END":"1616735746.991",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453153-qa4YRJ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000297",
+         "CWPPERIOD_GUNWPID":"200025",
+         "CWPPERIOD_WPCOUNT":"1900",
+         "CWPPERIOD_START":"1616735746.993",
+         "CWPPERIOD_END":"1616735823.238",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453154-T6dabx",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000301",
+         "CWPPERIOD_GUNWPID":"200025",
+         "CWPPERIOD_WPCOUNT":"11",
+         "CWPPERIOD_START":"1616735823.24",
+         "CWPPERIOD_END":"1616737378.149",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453155-6WqRmx",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000367",
+         "CWPPERIOD_GUNWPID":"200025",
+         "CWPPERIOD_WPCOUNT":"19",
+         "CWPPERIOD_START":"1616737378.15",
+         "CWPPERIOD_END":"1616825229.131",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453156-yWZ1uM",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000456",
+         "CWPPERIOD_GUNWPID":"200026",
+         "CWPPERIOD_WPCOUNT":"55",
+         "CWPPERIOD_START":"1616825230.134",
+         "CWPPERIOD_END":"1616826133.98",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453157-fG3Ku9",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000460",
+         "CWPPERIOD_GUNWPID":"200026",
+         "CWPPERIOD_WPCOUNT":"106",
+         "CWPPERIOD_START":"1616826133.985",
+         "CWPPERIOD_END":"1616999207.457",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453158-nbYULw",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000566",
+         "CWPPERIOD_GUNWPID":"200026",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616999207.459",
+         "CWPPERIOD_END":"1618284682.162",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453159-E8fT9e",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000630",
+         "CWPPERIOD_GUNWPID":"200026",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1618284682.167",
+         "CWPPERIOD_END":"1622775596.812",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453160-BQCeos",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000202",
+         "CWPPERIOD_GUNWPID":"200026",
+         "CWPPERIOD_WPCOUNT":"3",
+         "CWPPERIOD_START":"1616725389.654",
+         "CWPPERIOD_END":"1616735748.128",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453161-xaehCm",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000298",
+         "CWPPERIOD_GUNWPID":"200026",
+         "CWPPERIOD_WPCOUNT":"1900",
+         "CWPPERIOD_START":"1616735748.13",
+         "CWPPERIOD_END":"1616735824.241",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453162-Pz1Aqb",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000302",
+         "CWPPERIOD_GUNWPID":"200026",
+         "CWPPERIOD_WPCOUNT":"11",
+         "CWPPERIOD_START":"1616735824.243",
+         "CWPPERIOD_END":"1616737379.188",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453163-EnZzN4",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000368",
+         "CWPPERIOD_GUNWPID":"200026",
+         "CWPPERIOD_WPCOUNT":"19",
+         "CWPPERIOD_START":"1616737379.191",
+         "CWPPERIOD_END":"1616825230.132",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453164-6AzE7A",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000457",
+         "CWPPERIOD_GUNWPID":"200027",
+         "CWPPERIOD_WPCOUNT":"55",
+         "CWPPERIOD_START":"1616825231.386",
+         "CWPPERIOD_END":"1616826134.991",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453165-9oDdM3",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000461",
+         "CWPPERIOD_GUNWPID":"200027",
+         "CWPPERIOD_WPCOUNT":"106",
+         "CWPPERIOD_START":"1616826134.996",
+         "CWPPERIOD_END":"1616999208.461",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453166-iVfhXW",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000567",
+         "CWPPERIOD_GUNWPID":"200027",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616999208.463",
+         "CWPPERIOD_END":"1618284683.171",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453167-cmPGQv",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000204",
+         "CWPPERIOD_GUNWPID":"200027",
+         "CWPPERIOD_WPCOUNT":"3",
+         "CWPPERIOD_START":"1616725392.835",
+         "CWPPERIOD_END":"1616735749.131",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453168-F6Wes9",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000299",
+         "CWPPERIOD_GUNWPID":"200027",
+         "CWPPERIOD_WPCOUNT":"1900",
+         "CWPPERIOD_START":"1616735749.133",
+         "CWPPERIOD_END":"1616735825.244",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453169-Ec6Kdu",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000303",
+         "CWPPERIOD_GUNWPID":"200027",
+         "CWPPERIOD_WPCOUNT":"11",
+         "CWPPERIOD_START":"1616735825.247",
+         "CWPPERIOD_END":"1616737380.191",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453170-W3ZD1U",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000369",
+         "CWPPERIOD_GUNWPID":"200027",
+         "CWPPERIOD_WPCOUNT":"19",
+         "CWPPERIOD_START":"1616737380.193",
+         "CWPPERIOD_END":"1616825231.384",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453171-fZ7n49",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000458",
+         "CWPPERIOD_GUNWPID":"200028",
+         "CWPPERIOD_WPCOUNT":"55",
+         "CWPPERIOD_START":"1616825232.754",
+         "CWPPERIOD_END":"1616826135.996",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453172-MI6hiT",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000462",
+         "CWPPERIOD_GUNWPID":"200028",
+         "CWPPERIOD_WPCOUNT":"106",
+         "CWPPERIOD_START":"1616826135.998",
+         "CWPPERIOD_END":"1616999209.464",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453173-xosXIM",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000568",
+         "CWPPERIOD_GUNWPID":"200028",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616999209.466",
+         "CWPPERIOD_END":"1618284684.183",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453174-xg6aLN",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000203",
+         "CWPPERIOD_GUNWPID":"200028",
+         "CWPPERIOD_WPCOUNT":"3",
+         "CWPPERIOD_START":"1616725390.658",
+         "CWPPERIOD_END":"1616735750.133",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453175-5DbEbN",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000300",
+         "CWPPERIOD_GUNWPID":"200028",
+         "CWPPERIOD_WPCOUNT":"1900",
+         "CWPPERIOD_START":"1616735750.135",
+         "CWPPERIOD_END":"1616735826.247",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453176-kDR3c9",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000304",
+         "CWPPERIOD_GUNWPID":"200028",
+         "CWPPERIOD_WPCOUNT":"11",
+         "CWPPERIOD_START":"1616735826.249",
+         "CWPPERIOD_END":"1616737381.193",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453177-HXR10W",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000370",
+         "CWPPERIOD_GUNWPID":"200028",
+         "CWPPERIOD_WPCOUNT":"19",
+         "CWPPERIOD_START":"1616737381.195",
+         "CWPPERIOD_END":"1616825232.752",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453178-NzFIc2",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000463",
+         "CWPPERIOD_GUNWPID":"200029",
+         "CWPPERIOD_WPCOUNT":"2100",
+         "CWPPERIOD_START":"1616827029.616",
+         "CWPPERIOD_END":"1616827073.503",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453179-YizFly",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000467",
+         "CWPPERIOD_GUNWPID":"200029",
+         "CWPPERIOD_WPCOUNT":"118",
+         "CWPPERIOD_START":"1616827073.506",
+         "CWPPERIOD_END":"1618284631.409",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453180-Uj95Ln",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000208",
+         "CWPPERIOD_GUNWPID":"200029",
+         "CWPPERIOD_WPCOUNT":"3",
+         "CWPPERIOD_START":"1616725436.797",
+         "CWPPERIOD_END":"1616735846.886",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453181-2fvASZ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000305",
+         "CWPPERIOD_GUNWPID":"200029",
+         "CWPPERIOD_WPCOUNT":"2200",
+         "CWPPERIOD_START":"1616735846.899",
+         "CWPPERIOD_END":"1616735939.214",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453182-AbRpaL",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000310",
+         "CWPPERIOD_GUNWPID":"200029",
+         "CWPPERIOD_WPCOUNT":"11",
+         "CWPPERIOD_START":"1616735939.216",
+         "CWPPERIOD_END":"1616737390.845",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453183-ZItZGv",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000371",
+         "CWPPERIOD_GUNWPID":"200029",
+         "CWPPERIOD_WPCOUNT":"41",
+         "CWPPERIOD_START":"1616737390.847",
+         "CWPPERIOD_END":"1616827029.615",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453184-JcaXKZ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000464",
+         "CWPPERIOD_GUNWPID":"200030",
+         "CWPPERIOD_WPCOUNT":"2100",
+         "CWPPERIOD_START":"1616827030.622",
+         "CWPPERIOD_END":"1616827074.55",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453185-ZQXIcA",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000468",
+         "CWPPERIOD_GUNWPID":"200030",
+         "CWPPERIOD_WPCOUNT":"118",
+         "CWPPERIOD_START":"1616827074.551",
+         "CWPPERIOD_END":"1618284632.423",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453186-qPFKWP",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000205",
+         "CWPPERIOD_GUNWPID":"200030",
+         "CWPPERIOD_WPCOUNT":"3",
+         "CWPPERIOD_START":"1616725433.782",
+         "CWPPERIOD_END":"1616735847.889",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453187-DlqbGu",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000306",
+         "CWPPERIOD_GUNWPID":"200030",
+         "CWPPERIOD_WPCOUNT":"2200",
+         "CWPPERIOD_START":"1616735847.89",
+         "CWPPERIOD_END":"1616735940.218",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453188-l6UPWb",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000311",
+         "CWPPERIOD_GUNWPID":"200030",
+         "CWPPERIOD_WPCOUNT":"11",
+         "CWPPERIOD_START":"1616735940.22",
+         "CWPPERIOD_END":"1616737391.849",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453189-Lkr0nj",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000372",
+         "CWPPERIOD_GUNWPID":"200030",
+         "CWPPERIOD_WPCOUNT":"41",
+         "CWPPERIOD_START":"1616737391.851",
+         "CWPPERIOD_END":"1616827030.62",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453190-5XFpnz",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000465",
+         "CWPPERIOD_GUNWPID":"200031",
+         "CWPPERIOD_WPCOUNT":"2100",
+         "CWPPERIOD_START":"1616827031.666",
+         "CWPPERIOD_END":"1616827075.555",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453191-votkYZ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000469",
+         "CWPPERIOD_GUNWPID":"200031",
+         "CWPPERIOD_WPCOUNT":"118",
+         "CWPPERIOD_START":"1616827075.561",
+         "CWPPERIOD_END":"1618284633.433",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453192-5m8UMw",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000206",
+         "CWPPERIOD_GUNWPID":"200031",
+         "CWPPERIOD_WPCOUNT":"3",
+         "CWPPERIOD_START":"1616725434.788",
+         "CWPPERIOD_END":"1616735848.892",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453193-id0rYm",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000307",
+         "CWPPERIOD_GUNWPID":"200031",
+         "CWPPERIOD_WPCOUNT":"2200",
+         "CWPPERIOD_START":"1616735848.894",
+         "CWPPERIOD_END":"1616735941.221",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453194-Wo3M3Z",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000312",
+         "CWPPERIOD_GUNWPID":"200031",
+         "CWPPERIOD_WPCOUNT":"11",
+         "CWPPERIOD_START":"1616735941.222",
+         "CWPPERIOD_END":"1616737392.851",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453195-44fYId",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000373",
+         "CWPPERIOD_GUNWPID":"200031",
+         "CWPPERIOD_WPCOUNT":"41",
+         "CWPPERIOD_START":"1616737392.853",
+         "CWPPERIOD_END":"1616827031.664",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453196-Y5YnTO",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000466",
+         "CWPPERIOD_GUNWPID":"200032",
+         "CWPPERIOD_WPCOUNT":"2100",
+         "CWPPERIOD_START":"1616827032.673",
+         "CWPPERIOD_END":"1616827076.557",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453197-SoSp5M",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000470",
+         "CWPPERIOD_GUNWPID":"200032",
+         "CWPPERIOD_WPCOUNT":"118",
+         "CWPPERIOD_START":"1616827076.56",
+         "CWPPERIOD_END":"1618284634.442",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453198-HxoUZa",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000207",
+         "CWPPERIOD_GUNWPID":"200032",
+         "CWPPERIOD_WPCOUNT":"3",
+         "CWPPERIOD_START":"1616725435.795",
+         "CWPPERIOD_END":"1616735849.896",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453199-sWRq1t",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000308",
+         "CWPPERIOD_GUNWPID":"200032",
+         "CWPPERIOD_WPCOUNT":"2200",
+         "CWPPERIOD_START":"1616735849.899",
+         "CWPPERIOD_END":"1616735914.566",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453200-iSkEbs",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000309",
+         "CWPPERIOD_GUNWPID":"200032",
+         "CWPPERIOD_WPCOUNT":"11",
+         "CWPPERIOD_START":"1616735914.568",
+         "CWPPERIOD_END":"1616737393.854",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453201-IE6KHC",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000374",
+         "CWPPERIOD_GUNWPID":"200032",
+         "CWPPERIOD_WPCOUNT":"41",
+         "CWPPERIOD_START":"1616737393.856",
+         "CWPPERIOD_END":"1616827032.671",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453202-JVUCWr",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000561",
+         "CWPPERIOD_GUNWPID":"200033",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616999186.101",
+         "CWPPERIOD_END":"1618284586.891",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453203-6PnS95",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000209",
+         "CWPPERIOD_GUNWPID":"200033",
+         "CWPPERIOD_WPCOUNT":"4",
+         "CWPPERIOD_START":"1616725475.482",
+         "CWPPERIOD_END":"1616736132.678",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453204-Hq5eWc",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000314",
+         "CWPPERIOD_GUNWPID":"200033",
+         "CWPPERIOD_WPCOUNT":"2001",
+         "CWPPERIOD_START":"1616736132.68",
+         "CWPPERIOD_END":"1616736184.573",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453205-GKccY0",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000318",
+         "CWPPERIOD_GUNWPID":"200033",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616736184.575",
+         "CWPPERIOD_END":"1616737414.989",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453206-bulPuT",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000378",
+         "CWPPERIOD_GUNWPID":"200033",
+         "CWPPERIOD_WPCOUNT":"1950",
+         "CWPPERIOD_START":"1616737414.99",
+         "CWPPERIOD_END":"1616999186.099",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453207-K86GfG",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000562",
+         "CWPPERIOD_GUNWPID":"200034",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616999187.107",
+         "CWPPERIOD_END":"1618284587.9",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453208-LVa05C",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000210",
+         "CWPPERIOD_GUNWPID":"200034",
+         "CWPPERIOD_WPCOUNT":"4",
+         "CWPPERIOD_START":"1616725476.484",
+         "CWPPERIOD_END":"1616736133.68",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453209-qUl5a7",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000315",
+         "CWPPERIOD_GUNWPID":"200034",
+         "CWPPERIOD_WPCOUNT":"2001",
+         "CWPPERIOD_START":"1616736133.682",
+         "CWPPERIOD_END":"1616736185.576",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453210-qfPKYk",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000319",
+         "CWPPERIOD_GUNWPID":"200034",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616736185.579",
+         "CWPPERIOD_END":"1616737415.991",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453211-7Dm5gX",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000379",
+         "CWPPERIOD_GUNWPID":"200034",
+         "CWPPERIOD_WPCOUNT":"149",
+         "CWPPERIOD_START":"1616737415.993",
+         "CWPPERIOD_END":"1616999187.104",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453212-3KKCTK",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000563",
+         "CWPPERIOD_GUNWPID":"200035",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616999188.111",
+         "CWPPERIOD_END":"1618284588.909",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453213-zfDnYN",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000211",
+         "CWPPERIOD_GUNWPID":"200035",
+         "CWPPERIOD_WPCOUNT":"4",
+         "CWPPERIOD_START":"1616725477.489",
+         "CWPPERIOD_END":"1616736134.682",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453214-YQNFeM",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000316",
+         "CWPPERIOD_GUNWPID":"200035",
+         "CWPPERIOD_WPCOUNT":"2001",
+         "CWPPERIOD_START":"1616736134.684",
+         "CWPPERIOD_END":"1616736186.579",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453215-Q6KseY",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000320",
+         "CWPPERIOD_GUNWPID":"200035",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616736186.581",
+         "CWPPERIOD_END":"1616737416.993",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453216-1ke5xU",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000380",
+         "CWPPERIOD_GUNWPID":"200035",
+         "CWPPERIOD_WPCOUNT":"149",
+         "CWPPERIOD_START":"1616737416.995",
+         "CWPPERIOD_END":"1616999188.107",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453217-FFfZtp",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000564",
+         "CWPPERIOD_GUNWPID":"200036",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616999189.114",
+         "CWPPERIOD_END":"1618284589.924",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453218-lXrbNF",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000212",
+         "CWPPERIOD_GUNWPID":"200036",
+         "CWPPERIOD_WPCOUNT":"2000",
+         "CWPPERIOD_START":"1616725478.492",
+         "CWPPERIOD_END":"1616736050.951",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453219-iJFk0Q",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000313",
+         "CWPPERIOD_GUNWPID":"200036",
+         "CWPPERIOD_WPCOUNT":"1",
+         "CWPPERIOD_START":"1616736050.953",
+         "CWPPERIOD_END":"1616736135.686",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453220-ia0H9K",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000317",
+         "CWPPERIOD_GUNWPID":"200036",
+         "CWPPERIOD_WPCOUNT":"2001",
+         "CWPPERIOD_START":"1616736135.688",
+         "CWPPERIOD_END":"1616736187.583",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453221-vPLn0J",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000321",
+         "CWPPERIOD_GUNWPID":"200036",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616736187.585",
+         "CWPPERIOD_END":"1616737417.996",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453222-5TeUME",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000381",
+         "CWPPERIOD_GUNWPID":"200036",
+         "CWPPERIOD_WPCOUNT":"149",
+         "CWPPERIOD_START":"1616737417.997",
+         "CWPPERIOD_END":"1616999189.111",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453223-KwP030",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000471",
+         "CWPPERIOD_GUNWPID":"200037",
+         "CWPPERIOD_WPCOUNT":"1950",
+         "CWPPERIOD_START":"1616828184.656",
+         "CWPPERIOD_END":"1616999142.477",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453224-xUxMyB",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000557",
+         "CWPPERIOD_GUNWPID":"200037",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616999142.479",
+         "CWPPERIOD_END":"1618284545.471",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453225-uiFi9y",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000213",
+         "CWPPERIOD_GUNWPID":"200037",
+         "CWPPERIOD_WPCOUNT":"4",
+         "CWPPERIOD_START":"1616725515.721",
+         "CWPPERIOD_END":"1616736228.029",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453226-0xtv1f",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000322",
+         "CWPPERIOD_GUNWPID":"200037",
+         "CWPPERIOD_WPCOUNT":"2001",
+         "CWPPERIOD_START":"1616736228.032",
+         "CWPPERIOD_END":"1616736262.319",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453227-8CA6Wq",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000325",
+         "CWPPERIOD_GUNWPID":"200037",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616736262.322",
+         "CWPPERIOD_END":"1616737403.174",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453228-G1rvWI",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000375",
+         "CWPPERIOD_GUNWPID":"200037",
+         "CWPPERIOD_WPCOUNT":"27",
+         "CWPPERIOD_START":"1616737403.176",
+         "CWPPERIOD_END":"1616828184.654",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453229-Hlxdtw",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000472",
+         "CWPPERIOD_GUNWPID":"200038",
+         "CWPPERIOD_WPCOUNT":"222",
+         "CWPPERIOD_START":"1616828185.658",
+         "CWPPERIOD_END":"1616999143.481",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453230-XUOtzt",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000558",
+         "CWPPERIOD_GUNWPID":"200038",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616999143.483",
+         "CWPPERIOD_END":"1618284546.48",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453231-sBOwVl",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000214",
+         "CWPPERIOD_GUNWPID":"200038",
+         "CWPPERIOD_WPCOUNT":"4",
+         "CWPPERIOD_START":"1616725516.728",
+         "CWPPERIOD_END":"1616736229.194",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453232-pHutsV",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000323",
+         "CWPPERIOD_GUNWPID":"200038",
+         "CWPPERIOD_WPCOUNT":"2001",
+         "CWPPERIOD_START":"1616736229.196",
+         "CWPPERIOD_END":"1616736263.321",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453233-FSGjZb",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000326",
+         "CWPPERIOD_GUNWPID":"200038",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616736263.322",
+         "CWPPERIOD_END":"1616737404.178",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453234-h61xId",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000376",
+         "CWPPERIOD_GUNWPID":"200038",
+         "CWPPERIOD_WPCOUNT":"27",
+         "CWPPERIOD_START":"1616737404.18",
+         "CWPPERIOD_END":"1616828185.657",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453235-BWTQZv",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000406",
+         "CWPPERIOD_GUNWPID":"200039",
+         "CWPPERIOD_WPCOUNT":"5",
+         "CWPPERIOD_START":"1616807295.433",
+         "CWPPERIOD_END":"1616828186.66",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453236-mPcVr8",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000473",
+         "CWPPERIOD_GUNWPID":"200039",
+         "CWPPERIOD_WPCOUNT":"222",
+         "CWPPERIOD_START":"1616828186.662",
+         "CWPPERIOD_END":"1616999144.485",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453237-Y3JScM",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000559",
+         "CWPPERIOD_GUNWPID":"200039",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616999144.487",
+         "CWPPERIOD_END":"1618284547.487",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453238-yTEZm8",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000215",
+         "CWPPERIOD_GUNWPID":"200039",
+         "CWPPERIOD_WPCOUNT":"2001",
+         "CWPPERIOD_START":"1616725517.729",
+         "CWPPERIOD_END":"1616736264.323",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453239-rsSN9a",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000327",
+         "CWPPERIOD_GUNWPID":"200039",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616736264.325",
+         "CWPPERIOD_END":"1616807295.432",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453240-tDOFXX",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000474",
+         "CWPPERIOD_GUNWPID":"200040",
+         "CWPPERIOD_WPCOUNT":"222",
+         "CWPPERIOD_START":"1616828187.664",
+         "CWPPERIOD_END":"1616999145.489",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453241-Ieon5y",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000560",
+         "CWPPERIOD_GUNWPID":"200040",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616999145.491",
+         "CWPPERIOD_END":"1618284548.497",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453242-TbOtyN",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000216",
+         "CWPPERIOD_GUNWPID":"200040",
+         "CWPPERIOD_WPCOUNT":"4",
+         "CWPPERIOD_START":"1616725518.731",
+         "CWPPERIOD_END":"1616736232.055",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453243-yLB9EI",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000324",
+         "CWPPERIOD_GUNWPID":"200040",
+         "CWPPERIOD_WPCOUNT":"2001",
+         "CWPPERIOD_START":"1616736232.057",
+         "CWPPERIOD_END":"1616736265.326",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453244-Azq8Qx",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000328",
+         "CWPPERIOD_GUNWPID":"200040",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616736265.328",
+         "CWPPERIOD_END":"1616737406.183",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453245-7KeqAH",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000377",
+         "CWPPERIOD_GUNWPID":"200040",
+         "CWPPERIOD_WPCOUNT":"27",
+         "CWPPERIOD_START":"1616737406.186",
+         "CWPPERIOD_END":"1616828187.663",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453246-YaTBJ2",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000553",
+         "CWPPERIOD_GUNWPID":"200041",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616999094.982",
+         "CWPPERIOD_END":"1618284496.986",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453247-TRw5P2",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000613",
+         "CWPPERIOD_GUNWPID":"200041",
+         "CWPPERIOD_WPCOUNT":"478",
+         "CWPPERIOD_START":"1618284496.99",
+         "CWPPERIOD_END":"1645502699.858",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453248-Aup3za",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000793",
+         "CWPPERIOD_GUNWPID":"200041",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645502699.865",
+         "CWPPERIOD_END":"1645510220.148",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453249-NVK1rl",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000809",
+         "CWPPERIOD_GUNWPID":"200041",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510220.152",
+         "CWPPERIOD_END":"1645510651.07",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453250-bFlUW9",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000821",
+         "CWPPERIOD_GUNWPID":"200041",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510651.078",
+         "CWPPERIOD_END":"1645511368.048",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453251-q0be35",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000217",
+         "CWPPERIOD_GUNWPID":"200041",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616725570.541",
+         "CWPPERIOD_END":"1616726064.443",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453252-Xby9x1",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000221",
+         "CWPPERIOD_GUNWPID":"200041",
+         "CWPPERIOD_WPCOUNT":"4",
+         "CWPPERIOD_START":"1616726064.446",
+         "CWPPERIOD_END":"1616736277.191",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453253-c9EglJ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000329",
+         "CWPPERIOD_GUNWPID":"200041",
+         "CWPPERIOD_WPCOUNT":"2001",
+         "CWPPERIOD_START":"1616736277.194",
+         "CWPPERIOD_END":"1616736308.478",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453254-AyWtwO",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000333",
+         "CWPPERIOD_GUNWPID":"200041",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616736308.48",
+         "CWPPERIOD_END":"1616737426.445",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453255-2a1E8x",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000382",
+         "CWPPERIOD_GUNWPID":"200041",
+         "CWPPERIOD_WPCOUNT":"22",
+         "CWPPERIOD_START":"1616737426.447",
+         "CWPPERIOD_END":"1616978465.763",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453256-F4tRkZ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000521",
+         "CWPPERIOD_GUNWPID":"200041",
+         "CWPPERIOD_WPCOUNT":"2001",
+         "CWPPERIOD_START":"1616978465.767",
+         "CWPPERIOD_END":"1616979011.696",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453257-MUdeKf",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000525",
+         "CWPPERIOD_GUNWPID":"200041",
+         "CWPPERIOD_WPCOUNT":"1950",
+         "CWPPERIOD_START":"1616979011.698",
+         "CWPPERIOD_END":"1616999094.98",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453258-8F1chT",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000554",
+         "CWPPERIOD_GUNWPID":"200042",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616999095.989",
+         "CWPPERIOD_END":"1618284497.994",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453259-wHOpZT",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000614",
+         "CWPPERIOD_GUNWPID":"200042",
+         "CWPPERIOD_WPCOUNT":"478",
+         "CWPPERIOD_START":"1618284498",
+         "CWPPERIOD_END":"1645502702.621",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453260-Qhxmso",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000794",
+         "CWPPERIOD_GUNWPID":"200042",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645502702.631",
+         "CWPPERIOD_END":"1645510220.155",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453261-da8chN",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000810",
+         "CWPPERIOD_GUNWPID":"200042",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510220.158",
+         "CWPPERIOD_END":"1645510651.081",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453262-vEowzC",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000822",
+         "CWPPERIOD_GUNWPID":"200042",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510651.086",
+         "CWPPERIOD_END":"1645511368.053",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453263-iE5row",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000218",
+         "CWPPERIOD_GUNWPID":"200042",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616725571.55",
+         "CWPPERIOD_END":"1616726065.889",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453264-5Mm4KQ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000222",
+         "CWPPERIOD_GUNWPID":"200042",
+         "CWPPERIOD_WPCOUNT":"4",
+         "CWPPERIOD_START":"1616726065.891",
+         "CWPPERIOD_END":"1616736278.195",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453265-Vj71YX",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000330",
+         "CWPPERIOD_GUNWPID":"200042",
+         "CWPPERIOD_WPCOUNT":"2011",
+         "CWPPERIOD_START":"1616736278.197",
+         "CWPPERIOD_END":"1616736309.48",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453266-bCK9dw",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000334",
+         "CWPPERIOD_GUNWPID":"200042",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616736309.482",
+         "CWPPERIOD_END":"1616737427.448",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453267-HzVLeY",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000383",
+         "CWPPERIOD_GUNWPID":"200042",
+         "CWPPERIOD_WPCOUNT":"22",
+         "CWPPERIOD_START":"1616737427.45",
+         "CWPPERIOD_END":"1616978466.768",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453268-4CD1bV",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000522",
+         "CWPPERIOD_GUNWPID":"200042",
+         "CWPPERIOD_WPCOUNT":"2001",
+         "CWPPERIOD_START":"1616978466.769",
+         "CWPPERIOD_END":"1616979020.078",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453269-D4FUNp",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000528",
+         "CWPPERIOD_GUNWPID":"200042",
+         "CWPPERIOD_WPCOUNT":"101",
+         "CWPPERIOD_START":"1616979020.08",
+         "CWPPERIOD_END":"1616999095.985",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453270-v8R5FN",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000555",
+         "CWPPERIOD_GUNWPID":"200043",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616999096.99",
+         "CWPPERIOD_END":"1618284499.004",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453271-juzNcb",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000615",
+         "CWPPERIOD_GUNWPID":"200043",
+         "CWPPERIOD_WPCOUNT":"478",
+         "CWPPERIOD_START":"1618284499.008",
+         "CWPPERIOD_END":"1645502704.082",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453272-Ty2UJQ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000795",
+         "CWPPERIOD_GUNWPID":"200043",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645502704.087",
+         "CWPPERIOD_END":"1645510220.162",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453273-urmFb2",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000811",
+         "CWPPERIOD_GUNWPID":"200043",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510220.166",
+         "CWPPERIOD_END":"1645510651.09",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453274-Lhf5uf",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000823",
+         "CWPPERIOD_GUNWPID":"200043",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510651.093",
+         "CWPPERIOD_END":"1645511368.058",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453275-sHUZcG",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000219",
+         "CWPPERIOD_GUNWPID":"200043",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616725572.557",
+         "CWPPERIOD_END":"1616726066.893",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453276-9YgHbr",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000223",
+         "CWPPERIOD_GUNWPID":"200043",
+         "CWPPERIOD_WPCOUNT":"4",
+         "CWPPERIOD_START":"1616726066.895",
+         "CWPPERIOD_END":"1616736279.197",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453277-GPhY0Q",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000331",
+         "CWPPERIOD_GUNWPID":"200043",
+         "CWPPERIOD_WPCOUNT":"2011",
+         "CWPPERIOD_START":"1616736279.198",
+         "CWPPERIOD_END":"1616736310.484",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453278-x8UcMQ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000335",
+         "CWPPERIOD_GUNWPID":"200043",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616736310.486",
+         "CWPPERIOD_END":"1616737428.451",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453279-jW5vXK",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000384",
+         "CWPPERIOD_GUNWPID":"200043",
+         "CWPPERIOD_WPCOUNT":"22",
+         "CWPPERIOD_START":"1616737428.453",
+         "CWPPERIOD_END":"1616978467.773",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453280-0nwdga",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000523",
+         "CWPPERIOD_GUNWPID":"200043",
+         "CWPPERIOD_WPCOUNT":"2001",
+         "CWPPERIOD_START":"1616978467.775",
+         "CWPPERIOD_END":"1616979018.219",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453281-79aIsk",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000527",
+         "CWPPERIOD_GUNWPID":"200043",
+         "CWPPERIOD_WPCOUNT":"101",
+         "CWPPERIOD_START":"1616979018.221",
+         "CWPPERIOD_END":"1616999096.988",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453282-devLGV",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000556",
+         "CWPPERIOD_GUNWPID":"200044",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616999097.993",
+         "CWPPERIOD_END":"1618284500.031",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453283-OhKswX",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000616",
+         "CWPPERIOD_GUNWPID":"200044",
+         "CWPPERIOD_WPCOUNT":"478",
+         "CWPPERIOD_START":"1618284500.037",
+         "CWPPERIOD_END":"1645502705.514",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453284-FwDIR0",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000796",
+         "CWPPERIOD_GUNWPID":"200044",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645502705.52",
+         "CWPPERIOD_END":"1645510220.172",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453285-CQR4ak",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000812",
+         "CWPPERIOD_GUNWPID":"200044",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510220.174",
+         "CWPPERIOD_END":"1645510651.095",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453286-bEoFpQ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000824",
+         "CWPPERIOD_GUNWPID":"200044",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1645510651.1",
+         "CWPPERIOD_END":"1645511368.064",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453287-sfZ1Zl",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000220",
+         "CWPPERIOD_GUNWPID":"200044",
+         "CWPPERIOD_WPCOUNT":"2",
+         "CWPPERIOD_START":"1616725573.56",
+         "CWPPERIOD_END":"1616726067.895",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453288-2Bztsl",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000224",
+         "CWPPERIOD_GUNWPID":"200044",
+         "CWPPERIOD_WPCOUNT":"4",
+         "CWPPERIOD_START":"1616726067.897",
+         "CWPPERIOD_END":"1616736280.2",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453289-WjdZbT",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000332",
+         "CWPPERIOD_GUNWPID":"200044",
+         "CWPPERIOD_WPCOUNT":"2001",
+         "CWPPERIOD_START":"1616736280.201",
+         "CWPPERIOD_END":"1616736311.487",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453290-GZdrN2",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000336",
+         "CWPPERIOD_GUNWPID":"200044",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616736311.489",
+         "CWPPERIOD_END":"1616737429.453",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453291-ASz0Uw",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000385",
+         "CWPPERIOD_GUNWPID":"200044",
+         "CWPPERIOD_WPCOUNT":"22",
+         "CWPPERIOD_START":"1616737429.455",
+         "CWPPERIOD_END":"1616978468.776",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453292-HtH3vp",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000524",
+         "CWPPERIOD_GUNWPID":"200044",
+         "CWPPERIOD_WPCOUNT":"2001",
+         "CWPPERIOD_START":"1616978468.778",
+         "CWPPERIOD_END":"1616979016.024",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453293-pvO90T",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000526",
+         "CWPPERIOD_GUNWPID":"200044",
+         "CWPPERIOD_WPCOUNT":"101",
+         "CWPPERIOD_START":"1616979016.026",
+         "CWPPERIOD_END":"1616999097.991",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453294-KiuOjN",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000552",
+         "CWPPERIOD_GUNWPID":"200045",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616999056.135",
+         "CWPPERIOD_END":"1618284475.842",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453295-6WNAu4",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000337",
+         "CWPPERIOD_GUNWPID":"200045",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616736358.68",
+         "CWPPERIOD_END":"1616736371.389",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453296-UtsaGv",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000341",
+         "CWPPERIOD_GUNWPID":"200045",
+         "CWPPERIOD_WPCOUNT":"1",
+         "CWPPERIOD_START":"1616736371.392",
+         "CWPPERIOD_END":"1616736375.782",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453297-eluT4b",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000342",
+         "CWPPERIOD_GUNWPID":"200045",
+         "CWPPERIOD_WPCOUNT":"16",
+         "CWPPERIOD_START":"1616736375.784",
+         "CWPPERIOD_END":"1616736591.366",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453298-gLdW3W",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000343",
+         "CWPPERIOD_GUNWPID":"200045",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616736591.368",
+         "CWPPERIOD_END":"1616737437.013",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453299-z8tihv",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000386",
+         "CWPPERIOD_GUNWPID":"200045",
+         "CWPPERIOD_WPCOUNT":"11",
+         "CWPPERIOD_START":"1616737437.015",
+         "CWPPERIOD_END":"1616979432.332",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453300-lEcsxt",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000529",
+         "CWPPERIOD_GUNWPID":"200045",
+         "CWPPERIOD_WPCOUNT":"30",
+         "CWPPERIOD_START":"1616979432.335",
+         "CWPPERIOD_END":"1616979897.504",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453301-c9JzCZ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000532",
+         "CWPPERIOD_GUNWPID":"200045",
+         "CWPPERIOD_WPCOUNT":"59",
+         "CWPPERIOD_START":"1616979897.506",
+         "CWPPERIOD_END":"1616981897.534",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453302-Mfluqd",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000536",
+         "CWPPERIOD_GUNWPID":"200045",
+         "CWPPERIOD_WPCOUNT":"120",
+         "CWPPERIOD_START":"1616981897.537",
+         "CWPPERIOD_END":"1616997844.582",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453303-dgRppM",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000540",
+         "CWPPERIOD_GUNWPID":"200045",
+         "CWPPERIOD_WPCOUNT":"15",
+         "CWPPERIOD_START":"1616997844.585",
+         "CWPPERIOD_END":"1616999005.629",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453304-EGKrgZ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000548",
+         "CWPPERIOD_GUNWPID":"200045",
+         "CWPPERIOD_WPCOUNT":"11",
+         "CWPPERIOD_START":"1616999005.631",
+         "CWPPERIOD_END":"1616999056.133",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453305-Korb5f",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000338",
+         "CWPPERIOD_GUNWPID":"200046",
+         "CWPPERIOD_WPCOUNT":"20",
+         "CWPPERIOD_START":"1616736359.851",
+         "CWPPERIOD_END":"1616736592.822",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453306-42yOuH",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000344",
+         "CWPPERIOD_GUNWPID":"200046",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616736592.823",
+         "CWPPERIOD_END":"1616737438.014",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453307-Hg1r7b",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000387",
+         "CWPPERIOD_GUNWPID":"200046",
+         "CWPPERIOD_WPCOUNT":"11",
+         "CWPPERIOD_START":"1616737438.017",
+         "CWPPERIOD_END":"1616979433.339",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453308-XyZoZE",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000530",
+         "CWPPERIOD_GUNWPID":"200046",
+         "CWPPERIOD_WPCOUNT":"30",
+         "CWPPERIOD_START":"1616979433.341",
+         "CWPPERIOD_END":"1616979898.508",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453309-Zgg06t",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000533",
+         "CWPPERIOD_GUNWPID":"200046",
+         "CWPPERIOD_WPCOUNT":"59",
+         "CWPPERIOD_START":"1616979898.51",
+         "CWPPERIOD_END":"1616981898.536",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453310-T3dD17",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000537",
+         "CWPPERIOD_GUNWPID":"200046",
+         "CWPPERIOD_WPCOUNT":"120",
+         "CWPPERIOD_START":"1616981898.539",
+         "CWPPERIOD_END":"1616997845.587",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453311-gsuuFF",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000541",
+         "CWPPERIOD_GUNWPID":"200046",
+         "CWPPERIOD_WPCOUNT":"1",
+         "CWPPERIOD_START":"1616997845.589",
+         "CWPPERIOD_END":"1616999008.271",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453312-HsewCR",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000549",
+         "CWPPERIOD_GUNWPID":"200046",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616999008.273",
+         "CWPPERIOD_END":"1618284476.856",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453313-yYU3UY",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000401",
+         "CWPPERIOD_GUNWPID":"200047",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616807295.299",
+         "CWPPERIOD_END":"1616831104.4",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453314-MU8y3t",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000475",
+         "CWPPERIOD_GUNWPID":"200047",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616831104.402",
+         "CWPPERIOD_END":"1616831543.113",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453315-tzt1G2",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000339",
+         "CWPPERIOD_GUNWPID":"200047",
+         "CWPPERIOD_WPCOUNT":"20",
+         "CWPPERIOD_START":"1616736360.853",
+         "CWPPERIOD_END":"1616736593.854",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453316-2fDlEw",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000345",
+         "CWPPERIOD_GUNWPID":"200047",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616736593.856",
+         "CWPPERIOD_END":"1616807295.293",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453317-RTrQ1L",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000480",
+         "CWPPERIOD_GUNWPID":"200047",
+         "CWPPERIOD_WPCOUNT":"0",
+         "CWPPERIOD_START":"1616831543.114",
+         "CWPPERIOD_END":"1616911111.019",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453318-frvtDh",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000501",
+         "CWPPERIOD_GUNWPID":"200047",
+         "CWPPERIOD_WPCOUNT":"4",
+         "CWPPERIOD_START":"1616911111.059",
+         "CWPPERIOD_END":"1616979899.511",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453319-79Clzd",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000534",
+         "CWPPERIOD_GUNWPID":"200047",
+         "CWPPERIOD_WPCOUNT":"59",
+         "CWPPERIOD_START":"1616979899.513",
+         "CWPPERIOD_END":"1616981899.539",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453320-GPv0Bw",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000538",
+         "CWPPERIOD_GUNWPID":"200047",
+         "CWPPERIOD_WPCOUNT":"120",
+         "CWPPERIOD_START":"1616981899.541",
+         "CWPPERIOD_END":"1616997846.592",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453321-5DFJtG",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000542",
+         "CWPPERIOD_GUNWPID":"200047",
+         "CWPPERIOD_WPCOUNT":"1",
+         "CWPPERIOD_START":"1616997846.595",
+         "CWPPERIOD_END":"1616999009.274",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453322-X0yLa8",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000550",
+         "CWPPERIOD_GUNWPID":"200047",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616999009.276",
+         "CWPPERIOD_END":"1618284477.866",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453323-roltJW",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000551",
+         "CWPPERIOD_GUNWPID":"200048",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616999010.279",
+         "CWPPERIOD_END":"1618284478.878",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453324-51Pj0j",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000340",
+         "CWPPERIOD_GUNWPID":"200048",
+         "CWPPERIOD_WPCOUNT":"20",
+         "CWPPERIOD_START":"1616736361.856",
+         "CWPPERIOD_END":"1616736595.022",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453325-hapmbg",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000346",
+         "CWPPERIOD_GUNWPID":"200048",
+         "CWPPERIOD_WPCOUNT":"10",
+         "CWPPERIOD_START":"1616736595.024",
+         "CWPPERIOD_END":"1616737440.022",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453326-oKEFKt",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000388",
+         "CWPPERIOD_GUNWPID":"200048",
+         "CWPPERIOD_WPCOUNT":"11",
+         "CWPPERIOD_START":"1616737440.025",
+         "CWPPERIOD_END":"1616979435.346",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453327-ZvkjnC",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000531",
+         "CWPPERIOD_GUNWPID":"200048",
+         "CWPPERIOD_WPCOUNT":"30",
+         "CWPPERIOD_START":"1616979435.348",
+         "CWPPERIOD_END":"1616979900.514",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453328-aF75Em",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000535",
+         "CWPPERIOD_GUNWPID":"200048",
+         "CWPPERIOD_WPCOUNT":"59",
+         "CWPPERIOD_START":"1616979900.516",
+         "CWPPERIOD_END":"1616981900.543",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453329-9dyyfU",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000539",
+         "CWPPERIOD_GUNWPID":"200048",
+         "CWPPERIOD_WPCOUNT":"120",
+         "CWPPERIOD_START":"1616981900.546",
+         "CWPPERIOD_END":"1616997847.596",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+},
+{
+     "_id":"APPDB-TS-1653453330-b9dfEZ",
+     "category":"ACTIVATING",
+     "nick-name":"CWPPERIOD_WEARPARTPERIOD",
+     "properties":{
+         "CWPPERIOD_ID":"1000543",
+         "CWPPERIOD_GUNWPID":"200048",
+         "CWPPERIOD_WPCOUNT":"1",
+         "CWPPERIOD_START":"1616997847.598",
+         "CWPPERIOD_END":"1616999010.277",
+         "CWPPERIOD_STATUS":"STOPPED"
+         }
+}
+]

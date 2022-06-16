@@ -1,0 +1,46 @@
+[
+{
+     "_id":"APPDB-CS-1653450760-jXINBD",
+     "category":"mapping",
+     "nick-name":"CPC_PLCCOLLECTOR",
+     "properties":{
+         "CPC_PLCFLAG":"810",
+         "CPC_COLLECTORIP":"10.208.106.204",
+         "CPC_CMNAME":"cisv_001_12",
+         "CPC_ITEM":"JNQK_21_151001801_202205230322_0000000000000000810"
+         }
+},
+{
+     "_id":"APPDB-CS-1653450761-v0GJ1c",
+     "category":"mapping",
+     "nick-name":"CPC_PLCCOLLECTOR",
+     "properties":{
+         "CPC_PLCFLAG":"820",
+         "CPC_COLLECTORIP":"10.208.106.204",
+         "CPC_CMNAME":"cisv_001_12",
+         "CPC_ITEM":"JNQK_31_171001801_202205240380_0000000000000000820"
+         }
+},
+{
+     "_id":"APPDB-CS-1653450762-7rscLe",
+     "category":"mapping",
+     "nick-name":"CPC_PLCCOLLECTOR",
+     "properties":{
+         "CPC_PLCFLAG":"600",
+         "CPC_COLLECTORIP":"10.208.106.205",
+         "CPC_CMNAME":"cisv_001_13",
+         "CPC_ITEM":"JNQK_LS_182001801_202205240529_0000000000000000600"
+         }
+},
+{
+     "_id":"APPDB-CS-1653450763-p8Fn9u",
+     "category":"mapping",
+     "nick-name":"CPC_PLCCOLLECTOR",
+     "properties":{
+         "CPC_PLCFLAG":"700",
+         "CPC_COLLECTORIP":"10.208.106.204",
+         "CPC_CMNAME":"cisv_001_12",
+         "CPC_ITEM":"JNQK_RS_182001801_202205240494_0000000000000000700"
+         }
+}
+]

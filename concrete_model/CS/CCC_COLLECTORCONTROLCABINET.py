@@ -1,0 +1,50 @@
+[
+{
+     "_id":"APPDB-CS-1653531424-KnfeDV",
+     "category":"MAPPING",
+     "nick-name":"CCC_COLLECTORCONTROLCABINET",
+     "properties":{
+         "CCC_CONTROLCABINET":"/FD010/010R01",
+         "CCC_COLLECTORIP":"10.208.106.204",
+         "CCC_PLCFLAG":"810",
+         "CCC_ID":"1",
+         "CCC_PORT":"6012"
+         }
+},
+{
+     "_id":"APPDB-CS-1653531425-IH04mO",
+     "category":"MAPPING",
+     "nick-name":"CCC_COLLECTORCONTROLCABINET",
+     "properties":{
+         "CCC_CONTROLCABINET":"/FD010/010R01",
+         "CCC_COLLECTORIP":"10.208.106.204",
+         "CCC_PLCFLAG":"820",
+         "CCC_ID":"2",
+         "CCC_PORT":"6012"
+         }
+},
+{
+     "_id":"APPDB-CS-1653531426-RVO2s6",
+     "category":"MAPPING",
+     "nick-name":"CCC_COLLECTORCONTROLCABINET",
+     "properties":{
+         "CCC_CONTROLCABINET":"/FD010/010R01",
+         "CCC_COLLECTORIP":"10.208.106.204",
+         "CCC_PLCFLAG":"700",
+         "CCC_ID":"3",
+         "CCC_PORT":"6012"
+         }
+},
+{
+     "_id":"APPDB-CS-1653531427-2LDF7J",
+     "category":"MAPPING",
+     "nick-name":"CCC_COLLECTORCONTROLCABINET",
+     "properties":{
+         "CCC_CONTROLCABINET":"/FD010/010R02",
+         "CCC_COLLECTORIP":"10.208.106.205",
+         "CCC_PLCFLAG":"600",
+         "CCC_ID":"4",
+         "CCC_PORT":"6013"
+         }
+}
+]

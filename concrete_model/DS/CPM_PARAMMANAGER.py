@@ -1,0 +1,398 @@
+[
+{
+     "_id":"APPDB-DS-1653453358-BccOvZ",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"BAD_LOADED",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"0",
+         "cpm_cmname":"dssv_001_101"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453359-oeFuQb",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"CAMERASENSITIVITY",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"mssv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453360-ThwC3y",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"COLLECTORAUTOMARK0",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"sssv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453361-DLiRlQ",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"COLLECTORSENDDATA0",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"cisv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453362-8A6hdl",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"COLLECTOR_RAW_DATA",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"cisv_001_12"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453363-lioXjq",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"COLLECTOR_RAW_DATA",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"cisv_001_13"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453364-YRKN1N",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"CURRENT_VOLTAGE_SOURCE",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"pmsv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453365-inFsEn",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"DEST_NOT_ASSIGNED",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"0",
+         "cpm_cmname":"dssv_001_101"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453366-XDpx30",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"DEST_UNKNOWN",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"0",
+         "cpm_cmname":"dssv_001_101"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453367-L2VIrO",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"MAXDESTREQUEST",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"0",
+         "cpm_cmname":"dssv_001_101"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453368-BXg8xx",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"MAXRECIRCULATION",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"0",
+         "cpm_cmname":"dssv_001_101"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453369-EcDRWc",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"MULTIPLE_BC",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"0",
+         "cpm_cmname":"dssv_001_101"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453370-6qsaGS",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"NO_INSTRUCTION",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"0",
+         "cpm_cmname":"dssv_001_101"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453371-gZCYCw",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"NO_SORTPLAN",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"0",
+         "cpm_cmname":"dssv_001_101"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453372-lNL53y",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"N_VALUE",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"sssv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453373-RxcQy0",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"N_VALUE_01",
+         "cpm_cpa_nodeid":"11",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"sssv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453374-crbsnA",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"N_VALUE_02",
+         "cpm_cpa_nodeid":"12",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"sssv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453375-ShX05Z",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"N_VALUE_03",
+         "cpm_cpa_nodeid":"13",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"sssv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453376-1H3enX",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"N_VALUE_04",
+         "cpm_cpa_nodeid":"14",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"sssv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453377-AC1kob",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"N_VALUE_05",
+         "cpm_cpa_nodeid":"15",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"sssv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453378-SMBe8Z",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"N_VALUE_06",
+         "cpm_cpa_nodeid":"16",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"sssv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453379-MOtLO0",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"N_VALUE_07",
+         "cpm_cpa_nodeid":"17",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"sssv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453380-GVDwpQ",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"N_VALUE_08",
+         "cpm_cpa_nodeid":"18",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"sssv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453381-sW2QWJ",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"N_VALUE_09",
+         "cpm_cpa_nodeid":"19",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"sssv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453382-0wuHG0",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"N_VALUE_10",
+         "cpm_cpa_nodeid":"20",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"sssv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453383-nC24wv",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"N_VALUE_11",
+         "cpm_cpa_nodeid":"21",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"sssv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453384-Nriv21",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"N_VALUE_12",
+         "cpm_cpa_nodeid":"22",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"sssv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453385-4Kf37o",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"N_VALUE_13",
+         "cpm_cpa_nodeid":"23",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"sssv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453386-ELIVgq",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"OVERFLOW",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"0",
+         "cpm_cmname":"dssv_001_101"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453387-7v7IpB",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"PHOTOMODE",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"mssv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453388-UWCV2M",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"REJECT",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"0",
+         "cpm_cmname":"dssv_001_101"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453389-HEWSkM",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"TIMEPARAMETER_T1",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"mssv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453390-yygClf",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"TIMEPARAMETER_T2",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"mssv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453391-noUjXg",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"TIMEPARAMETER_T3",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"1",
+         "cpm_cmname":"mssv_001"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453392-1VzE3N",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"VCS_REJECT",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"0",
+         "cpm_cmname":"dssv_001_101"
+         }
+},
+{
+     "_id":"APPDB-DS-1653453393-VfzrBF",
+     "category":"dictionary",
+     "nick-name":"CPM_PARAMMANAGER",
+     "properties":{
+         "cpm_cpa_name":"VCS_TIMEOUT",
+         "cpm_cpa_nodeid":"1",
+         "cpm_cpa_subsystem_nodeid":"0",
+         "cpm_cmname":"dssv_001_101"
+         }
+}
+]

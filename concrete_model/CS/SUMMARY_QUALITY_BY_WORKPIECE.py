@@ -1,0 +1,8962 @@
+[
+{
+     "_id":"APPDB-CS-1653467727-ZenQEp",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648103335.726",
+         "END_TIME":"1648103350.795",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240809_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467728-4xToN9",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648103500.746",
+         "END_TIME":"1648103515.745",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240810_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467729-NG52bL",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648103680.757",
+         "END_TIME":"1648103695.825",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240811_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467730-wOyVXB",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648103770.768",
+         "END_TIME":"1648103785.774",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240812_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467731-CVfBnH",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648103860.77",
+         "END_TIME":"1648103880.831",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240813_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467732-dOj5oo",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648104140.808",
+         "END_TIME":"1648104155.768",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240814_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467733-xV0Pk6",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648104585.793",
+         "END_TIME":"1648104600.81",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240815_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467734-dJYWII",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648104675.755",
+         "END_TIME":"1648104690.734",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240816_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467735-Y8kl1r",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648104770.746",
+         "END_TIME":"1648104785.813",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240817_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467736-2hCpDC",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648104860.791",
+         "END_TIME":"1648104875.791",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240818_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467737-D7QJ1o",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648104950.898",
+         "END_TIME":"1648104970.799",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240819_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467738-3oBZWt",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648105050.796",
+         "END_TIME":"1648105065.808",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240820_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467739-rd3WIQ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648105140.871",
+         "END_TIME":"1648105160.748",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240821_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467740-KdmNC3",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648105230.823",
+         "END_TIME":"1648105250.825",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240822_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467741-mUoHOV",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648105325.764",
+         "END_TIME":"1648105345.772",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240823_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467742-OnZttT",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648105430.74",
+         "END_TIME":"1648105445.768",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240824_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467743-DLDpHV",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648105515.833",
+         "END_TIME":"1648105530.793",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240825_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467744-Mld01p",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648105610.797",
+         "END_TIME":"1648105710.758",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240826_0000000000000000820",
+         "SPOT_TOTAL":"18",
+         "OK_COUNT":"18",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467745-H5Az1O",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648105780.826",
+         "END_TIME":"1648105795.789",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240828_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467746-SDxHPG",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648105860.838",
+         "END_TIME":"1648105875.763",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240829_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467747-3VwJmf",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648105945.722",
+         "END_TIME":"1648105965.786",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240830_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467748-l7IC8t",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648106030.802",
+         "END_TIME":"1648106045.819",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240831_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467749-X77BCg",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648106110.812",
+         "END_TIME":"1648106130.797",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240832_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467750-LkoaVK",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648106195.826",
+         "END_TIME":"1648106215.782",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240833_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467751-bRH8TH",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648106370.753",
+         "END_TIME":"1648106385.797",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240834_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467752-DVsmB6",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648106485.802",
+         "END_TIME":"1648106505.806",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240835_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467753-MnfFZ3",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648106585.785",
+         "END_TIME":"1648106600.794",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240836_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467754-Xdjk9B",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648106675.844",
+         "END_TIME":"1648106690.797",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240837_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467755-bwHe8L",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648106760.776",
+         "END_TIME":"1648106775.796",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240838_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467756-EUgIcB",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648106850.732",
+         "END_TIME":"1648106870.809",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240839_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467757-MWi65x",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648106945.847",
+         "END_TIME":"1648106960.802",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240840_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467758-tmrHNS",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648107025.755",
+         "END_TIME":"1648107045.838",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240841_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467759-Uk5SBn",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648107110.77",
+         "END_TIME":"1648107125.759",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240842_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467760-1Eyht1",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648107195.765",
+         "END_TIME":"1648107210.753",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240843_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467761-l6sfqB",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648107285.739",
+         "END_TIME":"1648107300.797",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240844_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467762-idnTOm",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648107365.794",
+         "END_TIME":"1648107380.841",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240845_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467763-8WEUM8",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648107455.795",
+         "END_TIME":"1648107475.775",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240846_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467764-Q21W6h",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648107545.799",
+         "END_TIME":"1648107560.863",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240847_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467765-nPV2HB",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648107625.809",
+         "END_TIME":"1648107640.812",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240848_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467766-Y8qNCY",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648107715.829",
+         "END_TIME":"1648107730.756",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240849_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467767-mIYWIk",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648107805.7",
+         "END_TIME":"1648107820.793",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240850_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467768-lD3cNH",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648107895.744",
+         "END_TIME":"1648107910.768",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240851_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467769-su1kMW",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648107975.763",
+         "END_TIME":"1648107990.796",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240852_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467770-CYsJbX",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648108075.792",
+         "END_TIME":"1648108090.811",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240853_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467771-2ecjnE",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648108165.816",
+         "END_TIME":"1648108185.761",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240854_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467772-lN1MyP",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648108265.808",
+         "END_TIME":"1648186985.625",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240855_0000000000000000820",
+         "SPOT_TOTAL":"2234",
+         "OK_COUNT":"2234",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467773-wenhTU",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648173160.968",
+         "END_TIME":"1648173161.645",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250422_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467774-2G1Lmq",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648173161.722",
+         "END_TIME":"1648173161.961",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203250904_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467775-I1G1Cg",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648173190.721",
+         "END_TIME":"1648173195.783",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250423_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467776-6QINou",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648173210.806",
+         "END_TIME":"1648187004.306",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203250905_0000000000000000810",
+         "SPOT_TOTAL":"2781",
+         "OK_COUNT":"2781",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467777-y9oqp8",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648173285.836",
+         "END_TIME":"1648173290.78",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250424_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467778-siRMq6",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648173385.8",
+         "END_TIME":"1648173390.747",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250425_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467779-o9QUhk",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648173450.805",
+         "END_TIME":"1648173460.824",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250426_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467780-EJIG6Y",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648173525.8",
+         "END_TIME":"1648173530.751",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250427_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467781-8tDpBq",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648173600.979",
+         "END_TIME":"1648173605.796",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250428_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467782-l9DLpi",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648173670.798",
+         "END_TIME":"1648173680.712",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250429_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467783-8GrVEY",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648173745.711",
+         "END_TIME":"1648173750.728",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250430_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467784-J4CB17",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648173870.754",
+         "END_TIME":"1648173875.778",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250431_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467785-2AYRdy",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648173930.744",
+         "END_TIME":"1648173935.776",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250432_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467786-i8wLtm",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648174080.765",
+         "END_TIME":"1648174085.869",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250433_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467787-CEKLcG",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648174150.8",
+         "END_TIME":"1648174160.751",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250434_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467788-MulVXR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648174225.778",
+         "END_TIME":"1648174230.78",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250435_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467789-93cDPQ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648174295.781",
+         "END_TIME":"1648174300.787",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250436_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467790-orkVkD",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648174365.827",
+         "END_TIME":"1648174370.884",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250437_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467791-HEU742",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648174455.785",
+         "END_TIME":"1648174460.808",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250438_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467792-QfSpmp",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648174515.888",
+         "END_TIME":"1648174520.741",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250439_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467793-xGv3R2",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648174620.845",
+         "END_TIME":"1648174625.833",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250440_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467794-k6s6s6",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648174765.787",
+         "END_TIME":"1648174770.81",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250441_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467795-PZ1rOd",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648174830.818",
+         "END_TIME":"1648174835.74",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250442_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467796-6IQi9X",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648174900.745",
+         "END_TIME":"1648174905.883",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250443_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467797-pXHAxr",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648174980.829",
+         "END_TIME":"1648174985.864",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250444_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467798-g53q8Z",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648175070.859",
+         "END_TIME":"1648175080.786",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250445_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467799-8WUMNf",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648175145.729",
+         "END_TIME":"1648175155.721",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250446_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467800-VXpnhz",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648175225.841",
+         "END_TIME":"1648175230.817",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250447_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467801-l1DJGG",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648175330.88",
+         "END_TIME":"1648175335.897",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250448_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467802-2YhCnO",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644470694.791",
+         "END_TIME":"1644470711.987",
+         "WORKPIECE_ID":"sng0000000000000001_202202110424510002290000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467803-MFcB46",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644470644.174",
+         "END_TIME":"1644470661.365",
+         "WORKPIECE_ID":"sng0000000000000001_202202110424010002280000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467804-C4VxhU",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644471555.506",
+         "END_TIME":"1644471572.678",
+         "WORKPIECE_ID":"sng0000000000000001_202202110439120002460000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467805-MvCTrX",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644471201.111",
+         "END_TIME":"1644471218.361",
+         "WORKPIECE_ID":"sng0000000000000001_202202110433180002390000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467806-Its79D",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644471099.902",
+         "END_TIME":"1644471117.046",
+         "WORKPIECE_ID":"sng0000000000000001_202202110431370002370000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467807-7vu5LJ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644469024.091",
+         "END_TIME":"1644469041.276",
+         "WORKPIECE_ID":"sng0000000000000001_202202110357010001960000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467808-fBPtYN",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644468669.688",
+         "END_TIME":"1644468686.84",
+         "WORKPIECE_ID":"sng0000000000000001_202202110351060001890000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467809-MSrjYP",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644468467.253",
+         "END_TIME":"1644468484.402",
+         "WORKPIECE_ID":"sng0000000000000001_202202110347440001850000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467810-Ut6KcW",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644466999.088",
+         "END_TIME":"1644467016.205",
+         "WORKPIECE_ID":"sng0000000000000001_202202110323160001560000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467811-itcUd3",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644466897.777",
+         "END_TIME":"1644466914.953",
+         "WORKPIECE_ID":"sng0000000000000001_202202110321340001540000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467812-b1YDHW",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644467454.761",
+         "END_TIME":"1644467471.878",
+         "WORKPIECE_ID":"sng0000000000000001_202202110330510001650000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467813-dgUug2",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644467353.47",
+         "END_TIME":"1644467370.659",
+         "WORKPIECE_ID":"sng0000000000000001_202202110329100001630000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467814-POc2KG",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644465480.346",
+         "END_TIME":"1644465497.448",
+         "WORKPIECE_ID":"sng0000000000000001_202202110257570001260000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467815-yKJIRH",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644466594.05",
+         "END_TIME":"1644466611.221",
+         "WORKPIECE_ID":"sng0000000000000001_202202110316310001480000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467816-tUrcfU",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644464417.237",
+         "END_TIME":"1644464434.389",
+         "WORKPIECE_ID":"sng0000000000000001_202202110240140001050000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467817-RZFyf4",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644465075.408",
+         "END_TIME":"1644465092.512",
+         "WORKPIECE_ID":"sng0000000000000001_202202110251120001180000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467818-pPJ6WE",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644472061.748",
+         "END_TIME":"1644472078.931",
+         "WORKPIECE_ID":"sng0000000000000001_202202110447380002560000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467819-MwKtPE",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644472011.183",
+         "END_TIME":"1644472028.296",
+         "WORKPIECE_ID":"sng0000000000000001_202202110446480002550000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467820-9mwTfQ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644471707.379",
+         "END_TIME":"1644471724.533",
+         "WORKPIECE_ID":"sng0000000000000001_202202110441440002490000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467821-2CX4tn",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644471606.149",
+         "END_TIME":"1644471623.305",
+         "WORKPIECE_ID":"sng0000000000000001_202202110440030002470000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467822-YAyMjo",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644471353.037",
+         "END_TIME":"1644471370.157",
+         "WORKPIECE_ID":"sng0000000000000001_202202110435500002420000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467823-AvFyWT",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644471150.505",
+         "END_TIME":"1644471167.648",
+         "WORKPIECE_ID":"sng0000000000000001_202202110432270002380000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467824-8s7yaT",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644470492.351",
+         "END_TIME":"1644470509.48",
+         "WORKPIECE_ID":"sng0000000000000001_202202110421290002250000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467825-pra9h2",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644470391.032",
+         "END_TIME":"1644470408.212",
+         "WORKPIECE_ID":"sng0000000000000001_202202110419480002230000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467826-592lrT",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644469226.622",
+         "END_TIME":"1644469243.781",
+         "WORKPIECE_ID":"sng0000000000000001_202202110400230002000000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467827-5e9eH7",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644469176.042",
+         "END_TIME":"1644469193.15",
+         "WORKPIECE_ID":"sng0000000000000001_202202110359330001990000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467828-oBafZA",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644468973.461",
+         "END_TIME":"1644468990.623",
+         "WORKPIECE_ID":"sng0000000000000001_202202110356100001950000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467829-8Xaj76",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644468720.385",
+         "END_TIME":"1644468737.485",
+         "WORKPIECE_ID":"sng0000000000000001_202202110351570001900000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467830-3ioGk4",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644467404.127",
+         "END_TIME":"1644467421.267",
+         "WORKPIECE_ID":"sng0000000000000001_202202110330010001640000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467831-3WkwhH",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644466644.666",
+         "END_TIME":"1644466661.834",
+         "WORKPIECE_ID":"sng0000000000000001_202202110317210001490000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467832-R9LrBc",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644466543.42",
+         "END_TIME":"1644466560.613",
+         "WORKPIECE_ID":"sng0000000000000001_202202110315400001470000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467833-Fky3Lz",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644466442.158",
+         "END_TIME":"1644466459.312",
+         "WORKPIECE_ID":"sng0000000000000001_202202110313590001450000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467834-6jtsSa",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644466391.559",
+         "END_TIME":"1644466408.675",
+         "WORKPIECE_ID":"sng0000000000000001_202202110313080001440000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467835-01aQkQ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644466290.312",
+         "END_TIME":"1644466307.446",
+         "WORKPIECE_ID":"sng0000000000000001_202202110311270001420000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467836-osffy3",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644466037.209",
+         "END_TIME":"1644466054.372",
+         "WORKPIECE_ID":"sng0000000000000001_202202110307140001370000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467837-JAHIca",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644465834.723",
+         "END_TIME":"1644465851.843",
+         "WORKPIECE_ID":"sng0000000000000001_202202110303510001330000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467838-dRKTua",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644465277.868",
+         "END_TIME":"1644465294.998",
+         "WORKPIECE_ID":"sng0000000000000001_202202110254350001220000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467839-9QdItp",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644464923.487",
+         "END_TIME":"1644464940.696",
+         "WORKPIECE_ID":"sng0000000000000001_202202110248400001150000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467840-4WoVGK",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644464569.103",
+         "END_TIME":"1644464586.269",
+         "WORKPIECE_ID":"sng0000000000000001_202202110242460001080000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467841-NUtgyk",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644471859.275",
+         "END_TIME":"1644471876.434",
+         "WORKPIECE_ID":"sng0000000000000001_202202110444160002520000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467842-8yuMIM",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644471302.381",
+         "END_TIME":"1644471319.517",
+         "WORKPIECE_ID":"sng0000000000000001_202202110434590002410000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467843-ST603a",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644470036.618",
+         "END_TIME":"1644470053.768",
+         "WORKPIECE_ID":"sng0000000000000001_202202110413530002160000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467844-kbNeN9",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644469682.281",
+         "END_TIME":"1644469699.397",
+         "WORKPIECE_ID":"sng0000000000000001_202202110407590002090000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467845-AsZ7f9",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644468112.883",
+         "END_TIME":"1644468130.053",
+         "WORKPIECE_ID":"sng0000000000000001_202202110341500001780000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467846-SUUrvC",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644469277.294",
+         "END_TIME":"1644469294.394",
+         "WORKPIECE_ID":"sng0000000000000001_202202110401140002010000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467847-tMAvbi",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644467961.006",
+         "END_TIME":"1644467978.195",
+         "WORKPIECE_ID":"sng0000000000000001_202202110339180001750000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467848-ugIaz8",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644467910.393",
+         "END_TIME":"1644467927.576",
+         "WORKPIECE_ID":"sng0000000000000001_202202110338270001740000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467849-pqc2N0",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644467505.365",
+         "END_TIME":"1644467522.547",
+         "WORKPIECE_ID":"sng0000000000000001_202202110331420001660000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467850-NmuNqM",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644467302.836",
+         "END_TIME":"1644467320.031",
+         "WORKPIECE_ID":"sng0000000000000001_202202110328200001620000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467851-sP070A",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644467100.395",
+         "END_TIME":"1644467117.453",
+         "WORKPIECE_ID":"sng0000000000000001_202202110324570001580000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467852-lGtpyw",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644467049.698",
+         "END_TIME":"1644467066.842",
+         "WORKPIECE_ID":"sng0000000000000001_202202110324060001570000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467853-OyNBlQ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644466340.912",
+         "END_TIME":"1644466358.078",
+         "WORKPIECE_ID":"sng0000000000000001_202202110312180001430000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467854-riKA5v",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644466138.472",
+         "END_TIME":"1644466155.553",
+         "WORKPIECE_ID":"sng0000000000000001_202202110308550001390000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467855-Zvrb9q",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644465885.315",
+         "END_TIME":"1644465902.486",
+         "WORKPIECE_ID":"sng0000000000000001_202202110304420001340000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467856-lY65fU",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644465379.065",
+         "END_TIME":"1644465396.231",
+         "WORKPIECE_ID":"sng0000000000000001_202202110256160001240000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467857-5RJClh",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644464619.759",
+         "END_TIME":"1644464636.893",
+         "WORKPIECE_ID":"sng0000000000000001_202202110243360001090000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467858-hRpuPx",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644464214.689",
+         "END_TIME":"1644464231.874",
+         "WORKPIECE_ID":"sng0000000000000001_202202110236510001010000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"5",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467859-CV7V68",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644464012.134",
+         "END_TIME":"1644464029.316",
+         "WORKPIECE_ID":"sng0000000000000001_202202110233290000970000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"5",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467860-PdD4vl",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644472163.015",
+         "END_TIME":"1644472180.167",
+         "WORKPIECE_ID":"sng0000000000000001_202202110449200002580000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467861-K3IaeG",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644472112.459",
+         "END_TIME":"1644472129.564",
+         "WORKPIECE_ID":"sng0000000000000001_202202110448290002570000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467862-SWRPuF",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644470542.91",
+         "END_TIME":"1644470560.074",
+         "WORKPIECE_ID":"sng0000000000000001_202202110422200002260000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467863-r5OCga",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644471808.676",
+         "END_TIME":"1644471825.823",
+         "WORKPIECE_ID":"sng0000000000000001_202202110443250002510000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467864-ru4P3f",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644470441.745",
+         "END_TIME":"1644470458.856",
+         "WORKPIECE_ID":"sng0000000000000001_202202110420380002240000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467865-ONu8F7",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644470340.419",
+         "END_TIME":"1644470357.563",
+         "WORKPIECE_ID":"sng0000000000000001_202202110418570002220000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467866-XmfOVa",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644470239.13",
+         "END_TIME":"1644470256.347",
+         "WORKPIECE_ID":"sng0000000000000001_202202110417160002200000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467867-UwwPbd",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644470087.233",
+         "END_TIME":"1644470104.442",
+         "WORKPIECE_ID":"sng0000000000000001_202202110414440002170000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467868-cf6l0o",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644469834.119",
+         "END_TIME":"1644469851.271",
+         "WORKPIECE_ID":"sng0000000000000001_202202110410310002120000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467869-ZqqwMQ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644469783.468",
+         "END_TIME":"1644469800.694",
+         "WORKPIECE_ID":"sng0000000000000001_202202110409400002110000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467870-O4jDLs",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644469580.996",
+         "END_TIME":"1644469598.112",
+         "WORKPIECE_ID":"sng0000000000000001_202202110406180002070000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467871-RtGfX3",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644468872.212",
+         "END_TIME":"1644468889.356",
+         "WORKPIECE_ID":"sng0000000000000001_202202110354290001930000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"5",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467872-Po0eyz",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644468770.936",
+         "END_TIME":"1644468788.092",
+         "WORKPIECE_ID":"sng0000000000000001_202202110352480001910000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467873-3F4nJi",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644467859.726",
+         "END_TIME":"1644467876.89",
+         "WORKPIECE_ID":"sng0000000000000001_202202110337360001730000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467874-yh73Kp",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644466948.432",
+         "END_TIME":"1644466965.61",
+         "WORKPIECE_ID":"sng0000000000000001_202202110322250001550000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467875-FqJMOu",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644467556.027",
+         "END_TIME":"1644467573.187",
+         "WORKPIECE_ID":"sng0000000000000001_202202110332330001670000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467876-MUtt9K",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644466796.517",
+         "END_TIME":"1644466813.692",
+         "WORKPIECE_ID":"sng0000000000000001_202202110319530001520000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467877-xPUN6g",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644466695.311",
+         "END_TIME":"1644466712.459",
+         "WORKPIECE_ID":"sng0000000000000001_202202110318120001500000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467878-3cB7ps",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644466239.628",
+         "END_TIME":"1644466256.817",
+         "WORKPIECE_ID":"sng0000000000000001_202202110310360001410000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467879-vGg82G",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644466189.029",
+         "END_TIME":"1644466206.197",
+         "WORKPIECE_ID":"sng0000000000000001_202202110309460001400000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467880-CtvTFN",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644465733.423",
+         "END_TIME":"1644465750.55",
+         "WORKPIECE_ID":"sng0000000000000001_202202110302100001310000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467881-GOM1HV",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644465429.716",
+         "END_TIME":"1644465446.866",
+         "WORKPIECE_ID":"sng0000000000000001_202202110257060001250000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467882-lBFWAg",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644465227.219",
+         "END_TIME":"1644465244.372",
+         "WORKPIECE_ID":"sng0000000000000001_202202110253440001210000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467883-AYqG4x",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644464872.877",
+         "END_TIME":"1644464890.005",
+         "WORKPIECE_ID":"sng0000000000000001_202202110247500001140000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467884-k6VEjp",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644464822.333",
+         "END_TIME":"1644464839.433",
+         "WORKPIECE_ID":"sng0000000000000001_202202110246590001130000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467885-DrkZht",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644464265.328",
+         "END_TIME":"1644464282.492",
+         "WORKPIECE_ID":"sng0000000000000001_202202110237420001020000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467886-TLfXFl",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644463910.891",
+         "END_TIME":"1644463928.041",
+         "WORKPIECE_ID":"sng0000000000000001_202202110231480000950000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"5",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467887-3854de",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644463809.706",
+         "END_TIME":"1644463826.818",
+         "WORKPIECE_ID":"sng0000000000000001_202202110230060000930000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"5",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467888-1yMZg6",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644471656.74",
+         "END_TIME":"1644471673.92",
+         "WORKPIECE_ID":"sng0000000000000001_202202110440530002480000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467889-kVKWs8",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644471454.315",
+         "END_TIME":"1644471471.416",
+         "WORKPIECE_ID":"sng0000000000000001_202202110437310002440000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467890-EpJhmd",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644471049.268",
+         "END_TIME":"1644471066.426",
+         "WORKPIECE_ID":"sng0000000000000001_202202110430460002360000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467891-XrA1x9",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644470897.409",
+         "END_TIME":"1644470914.622",
+         "WORKPIECE_ID":"sng0000000000000001_202202110428140002330000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467892-53rexn",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644470846.767",
+         "END_TIME":"1644470863.92",
+         "WORKPIECE_ID":"sng0000000000000001_202202110427230002320000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467893-mfIzMc",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644470796.114",
+         "END_TIME":"1644470813.281",
+         "WORKPIECE_ID":"sng0000000000000001_202202110426330002310000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467894-BG5izM",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644469530.388",
+         "END_TIME":"1644469547.444",
+         "WORKPIECE_ID":"sng0000000000000001_202202110405270002060000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467895-X26tTJ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644469479.713",
+         "END_TIME":"1644469496.848",
+         "WORKPIECE_ID":"sng0000000000000001_202202110404360002050000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467896-0ZvYQG",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644470289.749",
+         "END_TIME":"1644470306.918",
+         "WORKPIECE_ID":"sng0000000000000001_202202110418060002210000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467897-bGk4eR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644469732.927",
+         "END_TIME":"1644469750.027",
+         "WORKPIECE_ID":"sng0000000000000001_202202110408500002100000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467898-cJi2om",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644468163.502",
+         "END_TIME":"1644468180.703",
+         "WORKPIECE_ID":"sng0000000000000001_202202110342400001790000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467899-VkS4NQ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644468062.293",
+         "END_TIME":"1644468079.439",
+         "WORKPIECE_ID":"sng0000000000000001_202202110340590001770000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467900-Z5TQ5Y",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644469074.755",
+         "END_TIME":"1644469091.901",
+         "WORKPIECE_ID":"sng0000000000000001_202202110357510001970000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467901-U8Bdof",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644468315.352",
+         "END_TIME":"1644468332.486",
+         "WORKPIECE_ID":"sng0000000000000001_202202110345120001820000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467902-22txmY",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644467758.502",
+         "END_TIME":"1644467775.626",
+         "WORKPIECE_ID":"sng0000000000000001_202202110335550001710000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467903-LdqVXN",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644467707.894",
+         "END_TIME":"1644467725.049",
+         "WORKPIECE_ID":"sng0000000000000001_202202110335050001700000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467904-5zDvEU",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644467150.946",
+         "END_TIME":"1644467168.128",
+         "WORKPIECE_ID":"sng0000000000000001_202202110325480001590000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467905-ag89sl",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644466745.913",
+         "END_TIME":"1644466763.062",
+         "WORKPIECE_ID":"sng0000000000000001_202202110319030001510000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467906-jGRYoL",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644464467.851",
+         "END_TIME":"1644464485.01",
+         "WORKPIECE_ID":"sng0000000000000001_202202110241050001060000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467907-Wa6n3h",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644464366.623",
+         "END_TIME":"1644464383.761",
+         "WORKPIECE_ID":"sng0000000000000001_202202110239230001040000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467908-s8mMbR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644464316.009",
+         "END_TIME":"1644464333.168",
+         "WORKPIECE_ID":"sng0000000000000001_202202110238330001030000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467909-IhJ6L6",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644465024.751",
+         "END_TIME":"1644465041.888",
+         "WORKPIECE_ID":"sng0000000000000001_202202110250210001170000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467910-JdfnyT",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644464062.814",
+         "END_TIME":"1644464079.956",
+         "WORKPIECE_ID":"sng0000000000000001_202202110234190000980000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"5",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467911-cc3CbC",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644470593.55",
+         "END_TIME":"1644470610.728",
+         "WORKPIECE_ID":"sng0000000000000001_202202110423100002270000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467912-n6bF9X",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644471758.078",
+         "END_TIME":"1644471775.199",
+         "WORKPIECE_ID":"sng0000000000000001_202202110442350002500000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467913-uJ7NDo",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644471251.774",
+         "END_TIME":"1644471268.901",
+         "WORKPIECE_ID":"sng0000000000000001_202202110434080002400000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467914-f4rZjx",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644470998.674",
+         "END_TIME":"1644471015.807",
+         "WORKPIECE_ID":"sng0000000000000001_202202110429550002350000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467915-1D8cv3",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644470948.003",
+         "END_TIME":"1644470965.184",
+         "WORKPIECE_ID":"sng0000000000000001_202202110429050002340000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467916-LQk9ox",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644470745.468",
+         "END_TIME":"1644470762.629",
+         "WORKPIECE_ID":"sng0000000000000001_202202110425420002300000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467917-aBMGka",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644469429.07",
+         "END_TIME":"1644469446.226",
+         "WORKPIECE_ID":"sng0000000000000001_202202110403460002040000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467918-xmQYGg",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644469378.491",
+         "END_TIME":"1644469395.598",
+         "WORKPIECE_ID":"sng0000000000000001_202202110402550002030000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467919-V5OqMZ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644470137.881",
+         "END_TIME":"1644470155.028",
+         "WORKPIECE_ID":"sng0000000000000001_202202110415350002180000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467920-z3TJQd",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644469985.967",
+         "END_TIME":"1644470003.118",
+         "WORKPIECE_ID":"sng0000000000000001_202202110413030002150000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467921-f1Klar",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644469935.366",
+         "END_TIME":"1644469952.512",
+         "WORKPIECE_ID":"sng0000000000000001_202202110412120002140000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467922-rNkOK0",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644469631.567",
+         "END_TIME":"1644469648.747",
+         "WORKPIECE_ID":"sng0000000000000001_202202110407080002080000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467923-eonzza",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644468517.865",
+         "END_TIME":"1644468534.983",
+         "WORKPIECE_ID":"sng0000000000000001_202202110348350001860000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467924-La3mRN",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644468416.613",
+         "END_TIME":"1644468433.781",
+         "WORKPIECE_ID":"sng0000000000000001_202202110346530001840000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467925-HAuLOU",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644468214.144",
+         "END_TIME":"1644468231.288",
+         "WORKPIECE_ID":"sng0000000000000001_202202110343310001800000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467926-c7cfQx",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644467657.274",
+         "END_TIME":"1644467674.42",
+         "WORKPIECE_ID":"sng0000000000000001_202202110334140001690000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467927-R4ruzV",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644467252.219",
+         "END_TIME":"1644467269.393",
+         "WORKPIECE_ID":"sng0000000000000001_202202110327290001610000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467928-wPBaah",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644467201.565",
+         "END_TIME":"1644467218.752",
+         "WORKPIECE_ID":"sng0000000000000001_202202110326380001600000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467929-ijxPHE",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644465581.6",
+         "END_TIME":"1644465598.685",
+         "WORKPIECE_ID":"sng0000000000000001_202202110259380001280000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467930-UEDOUF",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644466087.797",
+         "END_TIME":"1644466104.943",
+         "WORKPIECE_ID":"sng0000000000000001_202202110308040001380000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467931-2yCLHm",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644465682.811",
+         "END_TIME":"1644465699.978",
+         "WORKPIECE_ID":"sng0000000000000001_202202110301190001300000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467932-i7RytT",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644464164.111",
+         "END_TIME":"1644464181.208",
+         "WORKPIECE_ID":"sng0000000000000001_202202110236010001000000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"5",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467933-u0P3m9",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644471909.947",
+         "END_TIME":"1644471927.055",
+         "WORKPIECE_ID":"sng0000000000000001_202202110445070002530000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467934-CLSQG2",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644472213.628",
+         "END_TIME":"1644472223.914",
+         "WORKPIECE_ID":"sng0000000000000001_202202110450100002590000000110",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467935-Sl40yX",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644471504.955",
+         "END_TIME":"1644471522.053",
+         "WORKPIECE_ID":"sng0000000000000001_202202110438220002450000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467936-QzZB7J",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644471403.7",
+         "END_TIME":"1644471420.878",
+         "WORKPIECE_ID":"sng0000000000000001_202202110436400002430000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467937-gVvEIT",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644468922.846",
+         "END_TIME":"1644468939.992",
+         "WORKPIECE_ID":"sng0000000000000001_202202110355200001940000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467938-MuG96x",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644468619.125",
+         "END_TIME":"1644468636.227",
+         "WORKPIECE_ID":"sng0000000000000001_202202110350160001880000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467939-FVMJoK",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644468568.446",
+         "END_TIME":"1644468585.587",
+         "WORKPIECE_ID":"sng0000000000000001_202202110349250001870000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467940-q5qG8o",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644465632.222",
+         "END_TIME":"1644465649.319",
+         "WORKPIECE_ID":"sng0000000000000001_202202110300290001290000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467941-amnfse",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644465530.949",
+         "END_TIME":"1644465548.104",
+         "WORKPIECE_ID":"sng0000000000000001_202202110258480001270000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467942-2G1lok",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644465986.587",
+         "END_TIME":"1644466003.728",
+         "WORKPIECE_ID":"sng0000000000000001_202202110306230001360000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467943-6cictI",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644465935.965",
+         "END_TIME":"1644465953.14",
+         "WORKPIECE_ID":"sng0000000000000001_202202110305330001350000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467944-ZyAvKo",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644465784.108",
+         "END_TIME":"1644465801.259",
+         "WORKPIECE_ID":"sng0000000000000001_202202110303010001320000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467945-s6x5AB",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644465328.436",
+         "END_TIME":"1644465345.616",
+         "WORKPIECE_ID":"sng0000000000000001_202202110255250001230000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467946-3rq7uW",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644464771.644",
+         "END_TIME":"1644464788.82",
+         "WORKPIECE_ID":"sng0000000000000001_202202110246080001120000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467947-kQUGtD",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644464670.43",
+         "END_TIME":"1644464687.569",
+         "WORKPIECE_ID":"sng0000000000000001_202202110244270001100000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467948-ac2ZCu",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644464113.431",
+         "END_TIME":"1644464130.584",
+         "WORKPIECE_ID":"sng0000000000000001_202202110235100000990000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"5",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467949-KAdnqh",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644463961.538",
+         "END_TIME":"1644463978.645",
+         "WORKPIECE_ID":"sng0000000000000001_202202110232380000960000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"5",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467950-3jHFmp",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644471960.554",
+         "END_TIME":"1644471977.692",
+         "WORKPIECE_ID":"sng0000000000000001_202202110445570002540000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467951-4pqbVJ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644470188.477",
+         "END_TIME":"1644470205.657",
+         "WORKPIECE_ID":"sng0000000000000001_202202110416250002190000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467952-1JnnRj",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644469884.714",
+         "END_TIME":"1644469901.924",
+         "WORKPIECE_ID":"sng0000000000000001_202202110411210002130000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467953-H6LIm5",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644468011.649",
+         "END_TIME":"1644468028.79",
+         "WORKPIECE_ID":"sng0000000000000001_202202110340080001760000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467954-6PvkJ4",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644469327.84",
+         "END_TIME":"1644469344.964",
+         "WORKPIECE_ID":"sng0000000000000001_202202110402050002020000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467955-TQsYUR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644469125.377",
+         "END_TIME":"1644469142.536",
+         "WORKPIECE_ID":"sng0000000000000001_202202110358420001980000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467956-r9CCc2",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644468821.591",
+         "END_TIME":"1644468838.719",
+         "WORKPIECE_ID":"sng0000000000000001_202202110353380001920000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467957-34cLqa",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644468365.994",
+         "END_TIME":"1644468383.122",
+         "WORKPIECE_ID":"sng0000000000000001_202202110346030001830000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467958-0t5Mrh",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644468264.781",
+         "END_TIME":"1644468281.878",
+         "WORKPIECE_ID":"sng0000000000000001_202202110344210001810000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467959-nmza99",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644466847.135",
+         "END_TIME":"1644466864.354",
+         "WORKPIECE_ID":"sng0000000000000001_202202110320440001530000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467960-VuZd2U",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644467809.127",
+         "END_TIME":"1644467826.304",
+         "WORKPIECE_ID":"sng0000000000000001_202202110336460001720000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467961-wtAtIN",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644467606.653",
+         "END_TIME":"1644467623.783",
+         "WORKPIECE_ID":"sng0000000000000001_202202110333230001680000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467962-AMWsg0",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644466492.765",
+         "END_TIME":"1644466509.968",
+         "WORKPIECE_ID":"sng0000000000000001_202202110314490001460000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467963-ZvvpRj",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644465176.614",
+         "END_TIME":"1644465193.751",
+         "WORKPIECE_ID":"sng0000000000000001_202202110252530001200000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467964-8g5KPa",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644465126.025",
+         "END_TIME":"1644465143.152",
+         "WORKPIECE_ID":"sng0000000000000001_202202110252030001190000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467965-nhdZjm",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644464974.109",
+         "END_TIME":"1644464991.28",
+         "WORKPIECE_ID":"sng0000000000000001_202202110249310001160000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467966-c13PHp",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644464721.015",
+         "END_TIME":"1644464738.175",
+         "WORKPIECE_ID":"sng0000000000000001_202202110245180001110000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467967-D72kZQ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644464518.474",
+         "END_TIME":"1644464535.617",
+         "WORKPIECE_ID":"sng0000000000000001_202202110241550001070000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467968-Xefm7K",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1644463860.341",
+         "END_TIME":"1644463874.004",
+         "WORKPIECE_ID":"sng0000000000000001_202202110230570000940000000110",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"5",
+         "CREATED_TIME":"0",
+         "UPDATED_TIME":"0"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467969-FLdh9W",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648095505.659",
+         "END_TIME":"1648095520.65",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240728_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467970-AM69cx",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648095560.604",
+         "END_TIME":"1648095565.653",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240281_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467971-ZVN7qZ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648095585.645",
+         "END_TIME":"1648095600.695",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240729_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467972-ElDiGx",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648095640.592",
+         "END_TIME":"1648177945.83",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203230001_0000000000000000600",
+         "SPOT_TOTAL":"580",
+         "OK_COUNT":"580",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467973-XYNfpR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648095680.635",
+         "END_TIME":"1648095685.598",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240282_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467974-yNdbqS",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648095710.655",
+         "END_TIME":"1648095725.65",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240730_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467975-KT4i7R",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648095765.59",
+         "END_TIME":"1648095775.591",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240283_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467976-lZY6WS",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648095795.597",
+         "END_TIME":"1648095810.611",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240731_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467977-4InVEx",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648095850.63",
+         "END_TIME":"1648095860.641",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240284_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467978-nt2PDf",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648095880.642",
+         "END_TIME":"1648095900.723",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240732_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467979-ukonCT",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648095940.62",
+         "END_TIME":"1648095945.635",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240285_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467980-QcvU9N",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648095960.635",
+         "END_TIME":"1648095980.642",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240733_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467981-hiIpfT",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096020.642",
+         "END_TIME":"1648096025.64",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240286_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467982-I9H93n",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096040.68",
+         "END_TIME":"1648096055.647",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240734_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467983-OgIZrU",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096095.606",
+         "END_TIME":"1648096105.665",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240287_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467984-dp6O8q",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096120.646",
+         "END_TIME":"1648096135.786",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240735_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467985-fcNzm6",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096175.67",
+         "END_TIME":"1648096180.717",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240288_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467986-1uBruX",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096200.692",
+         "END_TIME":"1648096215.66",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240736_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467987-WR7zqC",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096255.716",
+         "END_TIME":"1648096260.698",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240289_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467988-uf3PN6",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096280.648",
+         "END_TIME":"1648096295.65",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240737_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467989-9u0uuX",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096335.626",
+         "END_TIME":"1648096340.644",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240290_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467990-Nisga3",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096360.625",
+         "END_TIME":"1648096375.662",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240738_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467991-Tgj2nt",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096415.647",
+         "END_TIME":"1648096420.743",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240291_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467992-f4hURa",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096440.653",
+         "END_TIME":"1648096455.652",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240739_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467993-qxDnOq",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096505.603",
+         "END_TIME":"1648096510.631",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240292_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467994-hrPota",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096525.653",
+         "END_TIME":"1648096540.699",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240740_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467995-rhCc9z",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096580.655",
+         "END_TIME":"1648096590.667",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240293_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467996-rk5TCR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096605.75",
+         "END_TIME":"1648096620.705",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240741_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467997-Z2UO8h",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096660.62",
+         "END_TIME":"1648096665.656",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240294_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467998-EQktop",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096685.679",
+         "END_TIME":"1648096700.661",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240742_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653467999-1OuDES",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096740.722",
+         "END_TIME":"1648096750.736",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240295_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468000-fa5LCd",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096765.705",
+         "END_TIME":"1648096785.688",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240743_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468001-6Z770K",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096825.608",
+         "END_TIME":"1648096830.649",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240296_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468002-fY5f6x",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096845.668",
+         "END_TIME":"1648096865.702",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240744_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468003-Tn658C",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096905.676",
+         "END_TIME":"1648096910.681",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240297_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468004-9QY9bf",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096925.726",
+         "END_TIME":"1648096940.656",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240745_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468005-MATO5z",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648096985.659",
+         "END_TIME":"1648096995.646",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240298_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468006-bRW86I",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648097015.598",
+         "END_TIME":"1648097030.686",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240746_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468007-RBO1pZ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648097070.684",
+         "END_TIME":"1648097075.679",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240299_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468008-4nNUF2",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648097100.779",
+         "END_TIME":"1648097120.637",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240747_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468009-B5jC8S",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648097160.672",
+         "END_TIME":"1648097165.699",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240300_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468010-sLESUn",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648097190.706",
+         "END_TIME":"1648097205.709",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240748_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468011-Mw4x1K",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648097275.667",
+         "END_TIME":"1648097290.663",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240749_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468012-HR4Z6N",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648097370.697",
+         "END_TIME":"1648097380.661",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240301_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468013-WenChn",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648097395.638",
+         "END_TIME":"1648097415.745",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240750_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468014-jfGC6j",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648097460.756",
+         "END_TIME":"1648097465.807",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240302_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468015-jAkS4U",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648097490.674",
+         "END_TIME":"1648097505.72",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240751_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468016-BUiVvc",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648097550.583",
+         "END_TIME":"1648097560.642",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240303_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468017-9uZBmQ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648097580.676",
+         "END_TIME":"1648097595.697",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240752_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468018-O5n9BO",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648097635.625",
+         "END_TIME":"1648097640.796",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240304_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468019-DimcGX",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648097660.673",
+         "END_TIME":"1648097680.671",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240753_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468020-mIfbbN",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648097720.623",
+         "END_TIME":"1648097725.693",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240305_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468021-R5qBj1",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648097750.692",
+         "END_TIME":"1648097765.715",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240754_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468022-S8ewxs",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648097805.71",
+         "END_TIME":"1648097815.708",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240306_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468023-Y4M6xR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648097835.675",
+         "END_TIME":"1648097850.687",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240755_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468024-l3LRnZ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648097895.768",
+         "END_TIME":"1648097905.648",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240307_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468025-wrgpVP",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648097925.72",
+         "END_TIME":"1648097940.79",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240756_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468026-5nDz0t",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648097985.664",
+         "END_TIME":"1648097990.754",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240308_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468027-6PK259",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098010.663",
+         "END_TIME":"1648098025.757",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240757_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468028-7uGWZf",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098065.715",
+         "END_TIME":"1648098075.686",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240309_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468029-iKzvh8",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098095.694",
+         "END_TIME":"1648098110.688",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240758_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468030-muOegd",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098160.674",
+         "END_TIME":"1648098165.718",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240310_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468031-f4lkU8",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098190.648",
+         "END_TIME":"1648098205.685",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240759_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468032-jIJAu2",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098255.69",
+         "END_TIME":"1648098260.749",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240311_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468033-I0emAR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098285.659",
+         "END_TIME":"1648098305.698",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240760_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468034-Wicv8w",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098345.688",
+         "END_TIME":"1648098350.715",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240312_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468035-zzPyNc",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098370.652",
+         "END_TIME":"1648098385.725",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240761_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468036-hnH42b",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098430.642",
+         "END_TIME":"1648098440.696",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240313_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468037-KYSHOB",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098465.709",
+         "END_TIME":"1648098480.704",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240762_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468038-ZEg8ay",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098520.669",
+         "END_TIME":"1648098525.705",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240314_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468039-Rn98UE",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098555.662",
+         "END_TIME":"1648098570.695",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240763_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468040-g97JSy",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098610.689",
+         "END_TIME":"1648098620.669",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240315_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468041-1BCQc3",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098635.703",
+         "END_TIME":"1648098655.704",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240764_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468042-6M6PR3",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098695.706",
+         "END_TIME":"1648098700.669",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240316_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468043-bRHxqs",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098715.685",
+         "END_TIME":"1648098730.648",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203240765_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468044-ztkt0W",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098770.63",
+         "END_TIME":"1648098775.666",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240317_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468045-l3KZYF",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098850.67",
+         "END_TIME":"1648098865.673",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240766_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468046-k4BYRG",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098905.666",
+         "END_TIME":"1648098910.635",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240318_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468047-RUGYze",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098930.61",
+         "END_TIME":"1648098945.633",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240767_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468048-wjruo3",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648098985.677",
+         "END_TIME":"1648098990.686",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240319_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468049-LifR8t",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648099010.746",
+         "END_TIME":"1648099030.716",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240768_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468050-OAaX16",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648099075.684",
+         "END_TIME":"1648099080.774",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240320_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468051-LZPSQw",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648099100.772",
+         "END_TIME":"1648099115.694",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240769_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468052-7YhMV9",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648099165.742",
+         "END_TIME":"1648099170.746",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240321_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468053-BZzTi4",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648099195.673",
+         "END_TIME":"1648099210.744",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240770_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468054-b9yfXM",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648099250.716",
+         "END_TIME":"1648099255.799",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240322_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468055-EEPSzG",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648099275.668",
+         "END_TIME":"1648099290.705",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240771_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468056-mQMKWu",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648099335.756",
+         "END_TIME":"1648099345.749",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240323_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468057-n6PIol",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648099365.639",
+         "END_TIME":"1648099380.755",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240772_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468058-blTsRT",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648099420.72",
+         "END_TIME":"1648099430.729",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240324_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468059-3VQ0XZ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648099445.694",
+         "END_TIME":"1648099460.705",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240773_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468060-wYiD8b",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648099510.676",
+         "END_TIME":"1648099515.706",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240325_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468061-E3ublR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648099530.711",
+         "END_TIME":"1648099545.802",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240774_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468062-NlmrxT",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648099585.78",
+         "END_TIME":"1648099595.691",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240326_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468063-AwTzpl",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648099615.693",
+         "END_TIME":"1648099630.744",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240775_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468064-1GMdAI",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648099670.702",
+         "END_TIME":"1648099675.745",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240327_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468065-Wy6Ol9",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648099710.686",
+         "END_TIME":"1648099795.725",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240776_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468066-lBRqeR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648100225.721",
+         "END_TIME":"1648100230.743",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240328_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468067-PqfjEe",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648100260.745",
+         "END_TIME":"1648100275.723",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240777_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468068-WzBP9X",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648100315.697",
+         "END_TIME":"1648100320.707",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240329_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468069-Zbxcar",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648100345.7",
+         "END_TIME":"1648100445.676",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240778_0000000000000000820",
+         "SPOT_TOTAL":"18",
+         "OK_COUNT":"18",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468070-7zOgzb",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648100405.743",
+         "END_TIME":"1648100410.74",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240330_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468071-mlYvgg",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648100485.645",
+         "END_TIME":"1648100490.73",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240331_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468072-tQBQ4p",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648100530.676",
+         "END_TIME":"1648100545.681",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240780_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468073-LhRheh",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648100590.73",
+         "END_TIME":"1648100595.728",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240332_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468074-2XXOIs",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648100615.698",
+         "END_TIME":"1648100630.731",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240781_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468075-Wo5Fce",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648100675.755",
+         "END_TIME":"1648100680.737",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240333_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468076-u3pIOz",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648100700.744",
+         "END_TIME":"1648100715.765",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240782_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468077-6duwp2",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648100755.719",
+         "END_TIME":"1648100760.781",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240334_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468078-lZcN9F",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648100780.751",
+         "END_TIME":"1648100800.681",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240783_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468079-I0MW6U",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648100840.719",
+         "END_TIME":"1648100845.793",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240335_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468080-mh5xpk",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648100865.67",
+         "END_TIME":"1648100880.791",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240784_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468081-pt6cdF",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648100920.69",
+         "END_TIME":"1648100925.733",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240336_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468082-by49zN",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648100945.762",
+         "END_TIME":"1648100960.777",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240785_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468083-JLNvUr",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101000.724",
+         "END_TIME":"1648101005.724",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240337_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468084-RLY89S",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101025.692",
+         "END_TIME":"1648101040.738",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240786_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468085-maUWn1",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101090.684",
+         "END_TIME":"1648101095.718",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240338_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468086-AZWEwb",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101115.736",
+         "END_TIME":"1648101130.693",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240787_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468087-cuo604",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101170.732",
+         "END_TIME":"1648101175.698",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240339_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468088-jDKcXo",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101195.75",
+         "END_TIME":"1648101210.763",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240788_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468089-YrgYE8",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101250.702",
+         "END_TIME":"1648101260.693",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240340_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468090-zBDT3v",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101275.714",
+         "END_TIME":"1648101290.722",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240789_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468091-rpjZrq",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101345.735",
+         "END_TIME":"1648101355.727",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240341_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468092-OcNp8j",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101445.699",
+         "END_TIME":"1648101460.694",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240790_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468093-pUwGxu",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101505.717",
+         "END_TIME":"1648101510.751",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240342_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468094-yXjzUi",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101530.633",
+         "END_TIME":"1648101545.702",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240791_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468095-MYPFwJ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101590.686",
+         "END_TIME":"1648101600.782",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240343_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468096-M8k4BB",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101615.724",
+         "END_TIME":"1648101630.753",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240792_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468097-dWuKlK",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101670.707",
+         "END_TIME":"1648101680.777",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240344_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468098-1G80Gq",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101695.859",
+         "END_TIME":"1648101710.785",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240793_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468099-XDlvsU",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101750.773",
+         "END_TIME":"1648101755.688",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240345_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468100-SPYvSF",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101775.817",
+         "END_TIME":"1648101790.7",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240794_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468101-IocSVR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101830.809",
+         "END_TIME":"1648101835.782",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240346_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468102-Wvmb7d",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101855.713",
+         "END_TIME":"1648101870.747",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240795_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468103-WQ60lX",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101910.766",
+         "END_TIME":"1648101915.8",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240347_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468104-cMQ6Ez",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648101935.789",
+         "END_TIME":"1648101950.786",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240796_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468105-OYoctn",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102000.829",
+         "END_TIME":"1648102005.746",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240348_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468106-OSqgue",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102020.692",
+         "END_TIME":"1648102035.719",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240797_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468107-88GS6N",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102075.745",
+         "END_TIME":"1648102085.788",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240349_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468108-4VeHkI",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102100.695",
+         "END_TIME":"1648102115.737",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240798_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468109-rC5Opf",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102155.734",
+         "END_TIME":"1648102160.855",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240350_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468110-3gsVGb",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102180.784",
+         "END_TIME":"1648102195.765",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240799_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468111-VitbKO",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102240.771",
+         "END_TIME":"1648102250.8",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240351_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468112-VuWyRA",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102265.741",
+         "END_TIME":"1648102285.74",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240800_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468113-TQUYPA",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102325.706",
+         "END_TIME":"1648102330.79",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240352_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468114-BwuzpM",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102345.718",
+         "END_TIME":"1648102365.79",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240801_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468115-FX0fp1",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102405.74",
+         "END_TIME":"1648102410.712",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240353_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468116-MfDruH",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102435.76",
+         "END_TIME":"1648102450.786",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240802_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468117-t4bMbi",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102490.749",
+         "END_TIME":"1648102500.792",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240354_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468118-MPLdS8",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102520.68",
+         "END_TIME":"1648102535.761",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240803_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468119-0QDxdx",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102575.829",
+         "END_TIME":"1648102580.789",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240355_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468120-944WHp",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102605.748",
+         "END_TIME":"1648102620.796",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240804_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468121-M26v4o",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102660.789",
+         "END_TIME":"1648102665.863",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240356_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468122-uxVBjN",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102700.846",
+         "END_TIME":"1648102715.872",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240805_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468123-II1U52",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102755.832",
+         "END_TIME":"1648102760.749",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240357_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468124-i1Vevx",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102780.724",
+         "END_TIME":"1648102795.745",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240806_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468125-uthl65",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102835.803",
+         "END_TIME":"1648102840.899",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240358_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468126-dEPs5k",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102860.851",
+         "END_TIME":"1648102880.816",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240807_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468127-l27UU0",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648102920.775",
+         "END_TIME":"1648102925.742",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240359_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468128-8aqQYX",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648103050.734",
+         "END_TIME":"1648103055.783",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203240360_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468129-YtdExL",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648103115.811",
+         "END_TIME":"1648103130.804",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203240808_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44644",
+         "UPDATED_TIME":"44644"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468130-UrAmQn",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648187230.99",
+         "END_TIME":"1648189625.864",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250364_0000000000000000600",
+         "SPOT_TOTAL":"30",
+         "OK_COUNT":"30",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468131-H96XFH",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648187231.095",
+         "END_TIME":"1648187231.171",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250493_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468132-yck2VP",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648187820.867",
+         "END_TIME":"1648187825.879",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250494_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468133-PNGgC5",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648187910.866",
+         "END_TIME":"1648187920.82",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250495_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468134-Woczav",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648189545.847",
+         "END_TIME":"1648189550.922",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250496_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468135-NJQBQ4",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648189660.916",
+         "END_TIME":"1648190056.005",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250365_0000000000000000600",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468136-9NhZ9z",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190025.907",
+         "END_TIME":"1648190030.904",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250497_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468137-wzjgFA",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190045.89",
+         "END_TIME":"1648190060.94",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203250937_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468138-dtfwhL",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190110.939",
+         "END_TIME":"1648190120.89",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250498_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468139-Vo17dB",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190130.888",
+         "END_TIME":"1648190130.912",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250366_0000000000000000600",
+         "SPOT_TOTAL":"2",
+         "OK_COUNT":"2",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468140-AU80nN",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190135.874",
+         "END_TIME":"1648190150.97",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203250938_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468141-2U2pnA",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190200.95",
+         "END_TIME":"1648190205.981",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250499_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468142-o8q8yR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190225.894",
+         "END_TIME":"1648190241.013",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203250939_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468143-EqdMpw",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190230.951",
+         "END_TIME":"1648190231.005",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250367_0000000000000000600",
+         "SPOT_TOTAL":"2",
+         "OK_COUNT":"2",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468144-26D0xL",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190281.056",
+         "END_TIME":"1648190286.083",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250500_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468145-SRdz02",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190310.957",
+         "END_TIME":"1648190310.988",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250368_0000000000000000600",
+         "SPOT_TOTAL":"2",
+         "OK_COUNT":"2",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468146-kFSkxF",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190310.972",
+         "END_TIME":"1648190330.975",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203250940_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468147-70hpZP",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190370.917",
+         "END_TIME":"1648190376.016",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250501_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468148-ONI1DG",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190395.932",
+         "END_TIME":"1648190421.321",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203250941_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468149-XbDIOi",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190421.19",
+         "END_TIME":"1648190491.163",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250369_0000000000000000600",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468150-zKFOAX",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190456.057",
+         "END_TIME":"1648190461.377",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250502_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468151-8xeM13",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190486.156",
+         "END_TIME":"1648190501.124",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203250942_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468152-CAR6Rn",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190541.31",
+         "END_TIME":"1648190546.391",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250503_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468153-XBdOKt",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190566.277",
+         "END_TIME":"1648190581.167",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203250943_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468154-vpMdMD",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190571.154",
+         "END_TIME":"1648190656.325",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250370_0000000000000000600",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468155-nbnfjT",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190621.425",
+         "END_TIME":"1648190626.331",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250504_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468156-PxkKzd",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190651.156",
+         "END_TIME":"1648190666.254",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203250944_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468157-tiJk59",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190706.17",
+         "END_TIME":"1648190716.392",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250505_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468158-xlpImZ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190736.164",
+         "END_TIME":"1648190741.16",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250371_0000000000000000600",
+         "SPOT_TOTAL":"2",
+         "OK_COUNT":"2",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468159-FQIDch",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190741.197",
+         "END_TIME":"1648190761.407",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203250945_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468160-RfrXIA",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190801.102",
+         "END_TIME":"1648190806.177",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250506_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468161-LlJ9Po",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190826.302",
+         "END_TIME":"1648191011.199",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250372_0000000000000000600",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468162-NjQdwo",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190906.131",
+         "END_TIME":"1648190926.255",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203250946_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468163-dA8LfN",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190966.154",
+         "END_TIME":"1648190971.139",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250507_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468164-noXv8q",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648190991.296",
+         "END_TIME":"1648191011.179",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203250947_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468165-JzRm76",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648191066.182",
+         "END_TIME":"1648191076.223",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250508_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468166-79zke4",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648191081.305",
+         "END_TIME":"1648191571.192",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250373_0000000000000000600",
+         "SPOT_TOTAL":"14",
+         "OK_COUNT":"14",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468167-swcPWT",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648191106.156",
+         "END_TIME":"1648191121.167",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203250948_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468168-cK76qF",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648191311.297",
+         "END_TIME":"1648191326.287",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203250949_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468169-jftl8h",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648191371.236",
+         "END_TIME":"1648191376.209",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250509_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468170-ZRzg0K",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648191396.138",
+         "END_TIME":"1648191411.232",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203250950_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468171-sQiR4h",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648191451.346",
+         "END_TIME":"1648191461.194",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250510_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468172-1xinJl",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648191586.255",
+         "END_TIME":"1648191601.196",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203250951_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468173-0gzCj4",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648191646.099",
+         "END_TIME":"1648191656.127",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250511_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468174-kqVd4m",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648191671.253",
+         "END_TIME":"1648191691.193",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203250952_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468175-Tirg2B",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648191711.26",
+         "END_TIME":"1648191721.162",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250512_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468176-UUOtq6",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648191741.253",
+         "END_TIME":"1648191746.133",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250374_0000000000000000600",
+         "SPOT_TOTAL":"2",
+         "OK_COUNT":"2",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468177-wLa4KT",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648191746.157",
+         "END_TIME":"1648191761.101",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203250953_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468178-ZOpD2W",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648191801.162",
+         "END_TIME":"1648191806.215",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250513_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468179-D1eMFZ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648191831.217",
+         "END_TIME":"1648191831.245",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250375_0000000000000000600",
+         "SPOT_TOTAL":"2",
+         "OK_COUNT":"2",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468180-hM3pMq",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648191831.27",
+         "END_TIME":"1648191846.173",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203250954_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468181-J3kKll",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648191886.222",
+         "END_TIME":"1648191896.312",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250514_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468182-UAtQae",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648191911.497",
+         "END_TIME":"1648191926.113",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203250955_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468183-yqEktC",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648191916.892",
+         "END_TIME":"1648191921.292",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250376_0000000000000000600",
+         "SPOT_TOTAL":"2",
+         "OK_COUNT":"2",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468184-UDoTzZ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648191976.075",
+         "END_TIME":"1648191981.206",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250515_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468185-wfUZKh",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648191996.102",
+         "END_TIME":"1648192016.09",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203250956_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468186-XFm3fh",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648192006.218",
+         "END_TIME":"1648192006.259",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250377_0000000000000000600",
+         "SPOT_TOTAL":"2",
+         "OK_COUNT":"2",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468187-AJ1vRI",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648192061.178",
+         "END_TIME":"1648192066.198",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250516_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468188-uOkBYf",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648192081.171",
+         "END_TIME":"1648192096.146",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203250957_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468189-y3J3oz",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648192091.171",
+         "END_TIME":"1648192091.221",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250378_0000000000000000600",
+         "SPOT_TOTAL":"2",
+         "OK_COUNT":"2",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468190-ZtPRmA",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648192136.184",
+         "END_TIME":"1648192146.229",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250517_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468191-EXw01I",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648192161.242",
+         "END_TIME":"1648192176.14",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203250958_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468192-CMpJ4L",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648192166.401",
+         "END_TIME":"1648192171.228",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250379_0000000000000000600",
+         "SPOT_TOTAL":"2",
+         "OK_COUNT":"2",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468193-sR6taH",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648192216.156",
+         "END_TIME":"1648192226.272",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250518_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468194-L6SPfV",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648192241.295",
+         "END_TIME":"1648192256.212",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203250959_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468195-0ZgcE6",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648192246.178",
+         "END_TIME":"1648192251.192",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250380_0000000000000000600",
+         "SPOT_TOTAL":"2",
+         "OK_COUNT":"2",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468196-wcpQHY",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648192306.232",
+         "END_TIME":"1648192311.362",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250519_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468197-x7wqQL",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648192326.146",
+         "END_TIME":"1648192421.212",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250381_0000000000000000600",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468198-IVJz8Y",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648192331.258",
+         "END_TIME":"1648192346.24",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203250960_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468199-mDd7bg",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648192386.191",
+         "END_TIME":"1648192391.163",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250520_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468200-gKVJC4",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648192426.203",
+         "END_TIME":"1648192446.312",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203250961_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468201-mOq6DG",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648192486.214",
+         "END_TIME":"1648192491.253",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250521_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468202-tAIruv",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648192511.136",
+         "END_TIME":"1648192526.25",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203250962_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468203-KCnsgK",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648192516.19",
+         "END_TIME":"1648192691.162",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250382_0000000000000000600",
+         "SPOT_TOTAL":"6",
+         "OK_COUNT":"6",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468204-Ghmh9O",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648192566.248",
+         "END_TIME":"1648192571.288",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250522_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468205-fzx5Um",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648197966.271",
+         "END_TIME":"1648197981.354",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203251023_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468206-iS7wBV",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648197971.269",
+         "END_TIME":"1648197976.302",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250417_0000000000000000600",
+         "SPOT_TOTAL":"2",
+         "OK_COUNT":"2",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468207-o2EQjU",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198026.347",
+         "END_TIME":"1648198031.434",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250580_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468208-33GUYW",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198051.356",
+         "END_TIME":"1648198066.361",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203251024_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468209-DT2kdP",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198051.39",
+         "END_TIME":"1648198056.31",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250418_0000000000000000600",
+         "SPOT_TOTAL":"2",
+         "OK_COUNT":"2",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468210-HL5KIq",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198106.422",
+         "END_TIME":"1648198116.362",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250581_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468211-RiNyI6",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198136.335",
+         "END_TIME":"1648198151.263",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203251025_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468212-36drER",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198136.351",
+         "END_TIME":"1648198141.405",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250419_0000000000000000600",
+         "SPOT_TOTAL":"2",
+         "OK_COUNT":"2",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468213-IU2O56",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198191.298",
+         "END_TIME":"1648198201.294",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250582_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468214-Cq8GJW",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198221.403",
+         "END_TIME":"1648198226.389",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250420_0000000000000000600",
+         "SPOT_TOTAL":"2",
+         "OK_COUNT":"2",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468215-iSXPKk",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198231.317",
+         "END_TIME":"1648198246.438",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203251026_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468216-kPEprS",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198286.336",
+         "END_TIME":"1648198291.382",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250583_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468217-o25HCH",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198311.378",
+         "END_TIME":"1648198326.302",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203251027_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468218-1ns7td",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198316.422",
+         "END_TIME":"1648198316.454",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250421_0000000000000000600",
+         "SPOT_TOTAL":"2",
+         "OK_COUNT":"2",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468219-dwSDFt",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198366.311",
+         "END_TIME":"1648198371.385",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250584_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468220-cAbYDr",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198391.268",
+         "END_TIME":"1648198406.294",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203251028_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468221-fZOPIN",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198431.335",
+         "END_TIME":"1648198436.346",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250585_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468222-k2Y2Wt",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198451.391",
+         "END_TIME":"1648198471.271",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203251029_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468223-alGZyb",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198491.316",
+         "END_TIME":"1648198501.301",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250586_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468224-CmtsVe",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198516.444",
+         "END_TIME":"1648198531.381",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203251030_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468225-NSVAFZ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198556.322",
+         "END_TIME":"1648198561.291",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250587_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468226-vZy9sz",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198581.386",
+         "END_TIME":"1648198596.342",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203251031_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468227-zB9SZE",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198621.371",
+         "END_TIME":"1648198626.344",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250588_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468228-WYr6bC",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198646.354",
+         "END_TIME":"1648198661.291",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203251032_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468229-1obTSS",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198826.292",
+         "END_TIME":"1648198841.283",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203251033_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468230-YtMEry",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648198891.278",
+         "END_TIME":"1648198911.267",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203251034_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468231-28VphR",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648199031.251",
+         "END_TIME":"1648199041.429",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250589_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468232-BQTyfA",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648199056.384",
+         "END_TIME":"1648199071.36",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203251035_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468233-bccFQK",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648199096.281",
+         "END_TIME":"1648199101.357",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250590_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468234-Vb1y2p",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648199121.338",
+         "END_TIME":"1648199141.316",
+         "WORKPIECE_ID":"JNQK_21_151001801_202203251036_0000000000000000810",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468235-5ZBdZo",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648199161.256",
+         "END_TIME":"1648199171.381",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250591_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468236-QQh0wt",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648199806.231",
+         "END_TIME":"1648199821.295",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251037_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468237-p8E4VZ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648199846.348",
+         "END_TIME":"1648199851.381",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250592_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468238-nkpVr4",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648199876.328",
+         "END_TIME":"1648199896.327",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251038_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468239-tVg10i",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648199916.32",
+         "END_TIME":"1648199926.307",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250593_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468240-8ZZunA",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648199941.309",
+         "END_TIME":"1648199956.366",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251039_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468241-o5LJp9",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648199981.355",
+         "END_TIME":"1648199986.343",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250594_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468242-CFuOev",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200006.326",
+         "END_TIME":"1648200021.438",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251040_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468243-0kM2PN",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200046.426",
+         "END_TIME":"1648200051.427",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250595_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468244-TBpUYh",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200071.38",
+         "END_TIME":"1648200086.315",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251041_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468245-uR4EN1",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200111.378",
+         "END_TIME":"1648200116.324",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250596_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468246-j2OkzQ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200136.49",
+         "END_TIME":"1648200151.358",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251042_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468247-bmZIr7",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200176.323",
+         "END_TIME":"1648200181.405",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250597_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468248-Xaxh4C",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200201.327",
+         "END_TIME":"1648200216.263",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251043_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468249-Q1Dqrf",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200241.424",
+         "END_TIME":"1648200246.371",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250598_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468250-NqGDVX",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200266.456",
+         "END_TIME":"1648200281.414",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251044_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468251-mBJ5iT",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200306.308",
+         "END_TIME":"1648200311.354",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250599_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468252-YsfOBC",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200331.34",
+         "END_TIME":"1648200351.421",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251045_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468253-jRlsB0",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200371.287",
+         "END_TIME":"1648200381.401",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250600_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468254-kZzVmI",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200401.422",
+         "END_TIME":"1648200416.317",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251046_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468255-QOz1Uz",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200461.329",
+         "END_TIME":"1648200466.471",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250601_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468256-dfo3vH",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200486.287",
+         "END_TIME":"1648200501.366",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251047_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468257-QFSp3i",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200526.298",
+         "END_TIME":"1648200531.447",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250602_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468258-7u2anu",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200556.342",
+         "END_TIME":"1648200571.406",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251048_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468259-zBIn9i",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200596.249",
+         "END_TIME":"1648200601.358",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250603_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468260-4aAW3O",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200626.312",
+         "END_TIME":"1648200646.444",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251049_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468261-W0aofK",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200786.411",
+         "END_TIME":"1648200796.344",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250604_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468262-gQqT47",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200811.332",
+         "END_TIME":"1648200831.438",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251050_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468263-VPiU1s",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200851.276",
+         "END_TIME":"1648200861.356",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250605_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468264-gAeqhY",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200876.404",
+         "END_TIME":"1648200896.315",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251051_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468265-eAd5lP",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200916.332",
+         "END_TIME":"1648200926.388",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250606_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468266-PGfOWY",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200951.305",
+         "END_TIME":"1648200971.369",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251052_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468267-9fXnQK",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648200991.449",
+         "END_TIME":"1648201001.309",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250607_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468268-wtJubu",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648201021.355",
+         "END_TIME":"1648201036.492",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251053_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468269-Fx4vFF",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648201061.413",
+         "END_TIME":"1648201066.346",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250608_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468270-EhMCCe",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648201086.333",
+         "END_TIME":"1648201101.456",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251054_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468271-iNILzj",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648201126.307",
+         "END_TIME":"1648201131.419",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250609_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468272-ZUypby",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648201171.38",
+         "END_TIME":"1648201186.364",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251055_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468273-2v9Vt8",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648201226.343",
+         "END_TIME":"1648201231.36",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250610_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468274-HtpQaE",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648201251.457",
+         "END_TIME":"1648201271.41",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251056_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468275-ui7i5z",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648201296.471",
+         "END_TIME":"1648201301.364",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250611_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468276-IrsfvX",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648201326.28",
+         "END_TIME":"1648201341.428",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251057_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468277-HZJQ0d",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648201371.323",
+         "END_TIME":"1648201376.342",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250612_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468278-ZUSOOa",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648201401.324",
+         "END_TIME":"1648201416.415",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251058_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468279-KRCVeF",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648201641.352",
+         "END_TIME":"1648201646.519",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250613_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468280-DVGj7V",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648175435.943",
+         "END_TIME":"1648175440.846",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250449_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468281-ruqfyH",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648175525.887",
+         "END_TIME":"1648175530.833",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250450_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468282-0CAOrT",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648175600.823",
+         "END_TIME":"1648175605.792",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250451_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468283-tYf9NL",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648175675.758",
+         "END_TIME":"1648175680.843",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250452_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468284-dgHXSI",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648175750.762",
+         "END_TIME":"1648175755.771",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250453_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468285-Nv2Oob",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648175815.769",
+         "END_TIME":"1648175820.906",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250454_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468286-DK5UvV",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648175930.785",
+         "END_TIME":"1648175935.975",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250455_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468287-alzagK",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648175995.886",
+         "END_TIME":"1648176000.907",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250456_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468288-I8pVhK",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648176060.919",
+         "END_TIME":"1648176065.878",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250457_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468289-vcujF3",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648176130.901",
+         "END_TIME":"1648176140.908",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250458_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468290-PU1xCZ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648176215.921",
+         "END_TIME":"1648176220.912",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250459_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468291-kh9jWA",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648176305.786",
+         "END_TIME":"1648176310.824",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250460_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468292-kC5kUa",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648176440.807",
+         "END_TIME":"1648176445.818",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250461_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468293-ZmivqV",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648177650.79",
+         "END_TIME":"1648177655.919",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250462_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468294-gXxC9G",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648177760.848",
+         "END_TIME":"1648177765.827",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250463_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468295-wd5976",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648177870.828",
+         "END_TIME":"1648177880.763",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250464_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468296-7Kj6Yb",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648177990.831",
+         "END_TIME":"1648178000.858",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250465_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468297-yhtJQN",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648178020.878",
+         "END_TIME":"1648187004.278",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203250349_0000000000000000600",
+         "SPOT_TOTAL":"2180",
+         "OK_COUNT":"2180",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468298-Mq45WB",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648178065.843",
+         "END_TIME":"1648178070.867",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250466_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468299-zd73AG",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648178140.836",
+         "END_TIME":"1648186836.048",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250467_0000000000000000700",
+         "SPOT_TOTAL":"652",
+         "OK_COUNT":"652",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468300-a8mYbd",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648201661.395",
+         "END_TIME":"1648201676.375",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251059_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468301-gEOSui",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648201706.302",
+         "END_TIME":"1648201711.375",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250614_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468302-BGRab8",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648201976.338",
+         "END_TIME":"1648201991.361",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251060_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468303-UFowSD",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648202016.355",
+         "END_TIME":"1648202021.421",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250615_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468304-EBNLgu",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648202041.329",
+         "END_TIME":"1648202061.451",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251061_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468305-X3MLgr",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648202101.4",
+         "END_TIME":"1648202106.414",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250616_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468306-GxrhjC",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648202171.322",
+         "END_TIME":"1648202191.345",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251062_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468307-4gEiOJ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648202221.473",
+         "END_TIME":"1648202226.456",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250617_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468308-syYxjm",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648202261.289",
+         "END_TIME":"1648202276.396",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251063_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468309-mqWcnH",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648202311.313",
+         "END_TIME":"1648202316.299",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250618_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468310-jDp260",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648202371.308",
+         "END_TIME":"1648202386.347",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251064_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468311-pvZQU7",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648202456.369",
+         "END_TIME":"1648202461.578",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250619_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468312-ET3UWF",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648202491.356",
+         "END_TIME":"1648202506.335",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251065_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468313-nkZ0IY",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648202531.385",
+         "END_TIME":"1648202536.441",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203250620_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468314-HEla3G",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648202556.318",
+         "END_TIME":"1648202576.366",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251066_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468315-elctGV",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648202676.374",
+         "END_TIME":"1648202691.38",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251067_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468316-YNpSpv",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648202746.417",
+         "END_TIME":"1648202766.358",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251068_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468317-zpPHML",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648202816.266",
+         "END_TIME":"1648202831.371",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251069_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468318-Rx0bEd",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648202896.294",
+         "END_TIME":"1648202911.4",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251070_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468319-ONAay0",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648202976.408",
+         "END_TIME":"1648202991.356",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251071_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468320-aobtWJ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648203041.546",
+         "END_TIME":"1648203056.374",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251072_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468321-mqTab1",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648203116.419",
+         "END_TIME":"1648203131.377",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251073_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468322-FY0QH7",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648203186.395",
+         "END_TIME":"1648203201.363",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251074_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468323-GSdZ67",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648203256.316",
+         "END_TIME":"1648203271.368",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251075_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468324-vsP5gU",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648203341.511",
+         "END_TIME":"1648203356.395",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251076_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468325-VBw0W9",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648203411.283",
+         "END_TIME":"1648203431.405",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251077_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468326-2wcrks",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648203491.385",
+         "END_TIME":"1648203506.354",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251078_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468327-XfHyZL",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648203571.422",
+         "END_TIME":"1648203586.377",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251079_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468328-RaBb6a",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648203646.36",
+         "END_TIME":"1648203666.523",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251080_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468329-LpiWy8",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648203726.528",
+         "END_TIME":"1648203746.336",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203251081_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44645",
+         "UPDATED_TIME":"44645"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468330-rqJJir",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253186.389",
+         "END_TIME":"1648253201.38",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203261082_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468331-ZzL02Z",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253226.429",
+         "END_TIME":"1648253231.381",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203260621_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468332-QmZUtf",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253261.315",
+         "END_TIME":"1648253281.385",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203261083_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468333-3XyJqp",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253336.504",
+         "END_TIME":"1648253351.342",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203261084_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468334-2yFxs8",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253376.398",
+         "END_TIME":"1648253381.431",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203260622_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468335-m8UbQr",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253416.421",
+         "END_TIME":"1648253431.402",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203261085_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468336-Tk7EpY",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253461.464",
+         "END_TIME":"1648253471.448",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203260623_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468337-D8Kp3E",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253496.418",
+         "END_TIME":"1648253516.432",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203261086_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468338-0XUsyU",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253551.366",
+         "END_TIME":"1648253556.358",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203260624_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468339-B9eKkL",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253576.277",
+         "END_TIME":"1648253596.454",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203261087_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468340-JN6cdo",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253626.373",
+         "END_TIME":"1648253631.412",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203260625_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468341-kJ4jZq",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253661.355",
+         "END_TIME":"1648253681.548",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203261088_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468342-5UzffI",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253701.478",
+         "END_TIME":"1648253711.367",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203260626_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468343-DQV8UQ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253726.417",
+         "END_TIME":"1648253746.46",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203261089_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468344-vsHVC8",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253771.469",
+         "END_TIME":"1648253776.387",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203260627_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468345-KfZ9Fh",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253801.477",
+         "END_TIME":"1648253801.499",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203260422_0000000000000000600",
+         "SPOT_TOTAL":"2",
+         "OK_COUNT":"2",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468346-0brbwQ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253806.413",
+         "END_TIME":"1648253826.384",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203261090_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468347-Fl66Mv",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253866.262",
+         "END_TIME":"1648253871.358",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203260628_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468348-zglWrp",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253891.394",
+         "END_TIME":"1648253906.373",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203261091_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468349-oz6eTP",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253896.443",
+         "END_TIME":"1648253896.462",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203260423_0000000000000000600",
+         "SPOT_TOTAL":"2",
+         "OK_COUNT":"2",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468350-FDHqas",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253946.284",
+         "END_TIME":"1648253951.459",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203260629_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468351-F8W2XW",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648253971.395",
+         "END_TIME":"1648253991.38",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203261092_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468352-bizZ1v",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648254016.435",
+         "END_TIME":"1648254021.401",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203260630_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468353-qANeFp",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648254041.372",
+         "END_TIME":"1648254056.46",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203261093_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468354-JR7FHI",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648254081.367",
+         "END_TIME":"1648254086.403",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203260631_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468355-JYbGSX",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648259695.191",
+         "END_TIME":"1648259700.266",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203260685_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468356-DmX0l3",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648259720.23",
+         "END_TIME":"1648259735.211",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203261148_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468357-NGG39T",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648259790.165",
+         "END_TIME":"1648259795.197",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203260686_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468358-43VzKn",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648259815.236",
+         "END_TIME":"1648259830.184",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203261149_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468359-VMO8ev",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648259855.195",
+         "END_TIME":"1648259860.208",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203260687_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468360-mJWgZK",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648259880.217",
+         "END_TIME":"1648259900.184",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203261150_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468361-QUrVqW",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648259885.189",
+         "END_TIME":"1648259885.217",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203260467_0000000000000000600",
+         "SPOT_TOTAL":"2",
+         "OK_COUNT":"2",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468362-0JYxZZ",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648259940.209",
+         "END_TIME":"1648259945.263",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203260688_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468363-AaBDj1",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648259965.21",
+         "END_TIME":"1648259980.196",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203261151_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468364-lUWZjy",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648259970.2",
+         "END_TIME":"1648260050.34",
+         "WORKPIECE_ID":"JNQK_LS_182001801_202203260468_0000000000000000600",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468365-LIn3p1",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648260020.212",
+         "END_TIME":"1648260025.21",
+         "WORKPIECE_ID":"JNQK_RS_182001801_202203260689_0000000000000000700",
+         "SPOT_TOTAL":"4",
+         "OK_COUNT":"4",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+},
+{
+     "_id":"APPDB-CS-1653468366-OWebVx",
+     "category":"SUMMARY",
+     "nick-name":"SUMMARY_QUALITY_BY_WORKPIECE",
+     "properties":{
+         "START_TIME":"1648260050.181",
+         "END_TIME":"1648260065.236",
+         "WORKPIECE_ID":"JNQK_31_171001801_202203261152_0000000000000000820",
+         "SPOT_TOTAL":"9",
+         "OK_COUNT":"9",
+         "CREATED_TIME":"44646",
+         "UPDATED_TIME":"44646"
+         }
+}
+]
