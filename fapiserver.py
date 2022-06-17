@@ -26,7 +26,6 @@ mqtt_client = MQTTClient(db, 'FAPI-DB')
 app = FastAPI()
 fapi_port = 5001
 
-from bloc import convert_dict
 @app.get("/")
 async def index():
     return {'hello': "World!"}
@@ -39,20 +38,17 @@ async def index():
 #
 #
 #
+from bloc.convert_dict import convert
 
-@app.get("/hkhget/{param}")
-async def get_id(param):
-    queries = param[1:].split('&')
-    qdic = {}
-    for q in queries:
-        key, value = q.split('=')
-        key = 'properties.' + key
-        if value.isdigit():
-            value = eval(value)
-        qdic[key] = value
-    res = db.find('TS', qdic)[0]
-    # new_dic = convert_dict(res)
-    return res
+@app.get("/hkhget/")  # hkhget/?pageSize=<pageSize:integer>
+async def get_id(pageSize: int):
+    qdic = {'properties.pageSize': pageSize}
+    lst = db.find('TS', qdic)
+    if len(lst) > 0:
+        result = convert(lst[0])
+        return result
+    else:
+        return {}
 
 
 @app.post("/plcmsg")

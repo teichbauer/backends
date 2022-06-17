@@ -20,16 +20,6 @@ class DB:
     def drop_collection(self, collection_name):
         self.db.drop_collection(collection_name)
 
-    def get_names(self, dic):
-        if 'database_name' in dic:
-            dbname = dic.pop('database_name')
-        else:
-            dbname = self.db_name
-        if 'collection_name' in dic:
-            colname = dic.pop('collection_name')
-        else:
-            colname = 'XX'
-        return dbname, colname
 
     def insert1(self, dic, cname):
         try:
@@ -38,7 +28,7 @@ class DB:
             else:
                 ID = dic['_id']
 
-            # mongoDB _id contains onlt 24 bytes. 
+            # mongoDB _id contains only 24 bytes. 
             # APPDB-TS-1653531424212-KnfeDV has 26: 
             # _id should cut-off db-name: TS-1653531424212-KnfeDV (23 long)
             # -----------------------------------------------------

@@ -41,7 +41,7 @@ def insert_db(db, collection_names, dics):
         for dic in dic_lst:
             inserted = db.insert1(dic, cn)
             if not inserted:
-                ID = dic['_id']
+                ID = dic.get('_id','000')
                 print(f'cry: {fn}-{ID}')
 
 
