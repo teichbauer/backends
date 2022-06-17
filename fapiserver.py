@@ -31,6 +31,14 @@ from bloc import convert_dict
 async def index():
     return {'hello': "World!"}
 
+# @app.get("/hkhget/abc/{param}")
+#
+#
+#
+#
+#
+#
+#
 
 @app.get("/hkhget/{param}")
 async def get_id(param):
@@ -43,8 +51,8 @@ async def get_id(param):
             value = eval(value)
         qdic[key] = value
     res = db.find('TS', qdic)[0]
-    new_dic = convert_dict(res)
-    return new_dic
+    # new_dic = convert_dict(res)
+    return res
 
 
 @app.post("/plcmsg")
@@ -92,7 +100,7 @@ async def load_meta_data():
 
 if __name__ == '__main__':
     # -----------------------
-    mqtt_client.subscribe()
+    mqtt_client.subscribe('DB/save/#')
     mqtt_client.subscribe('sng/test')
     mqtt_client.start()
     # -----------------------

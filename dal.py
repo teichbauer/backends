@@ -33,11 +33,15 @@ class DB:
 
     def insert1(self, dic, cname):
         try:
+            if '_id' not in dic:
+                ID = generate_id(self.db_name, cname)
+            else:
+                ID = dic['_id']
+
             # mongoDB _id contains onlt 24 bytes. 
             # APPDB-TS-1653531424212-KnfeDV has 26: 
             # _id should cut-off db-name: TS-1653531424212-KnfeDV (23 long)
             # -----------------------------------------------------
-            ID = dic['_id']
             if ID.startswith(self.db_name):
                 dic['_id'] = ID[6:]
             # ret = self.db[cname].insert_one(dic)

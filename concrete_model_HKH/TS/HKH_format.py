@@ -1,6 +1,5 @@
 [
 {
-     "_id":"APPDB-TS-1653531424-KnfeDV",
      "category":"HKH",
      "nick-name":"SPOT",
      "properties":{
@@ -61,7 +60,6 @@
 },
 
 {
-     "_id":"APPDB-TS-1653531424-Knfe02",
      "category":"HKH",
      "nick-name":"SPOT",
      "properties":{
@@ -69,7 +67,7 @@
          "PSL":{
              "PSL_CREATETIME": 1648106126.853,
              "PSL_SPOTINDEX": 9,
-             "PSL_SPOTTIME": "2022-03-24 15:15:24",
+             "PSL_SPOTTIME": "2022-03-24",
              "PSL_TRIGGERTYPE": 4,
              "PSL_DURATION": 885,
              "PSL_SENSORINFO": 1,
@@ -132,7 +130,6 @@
 },
 
 {
-     "_id":"APPDB-TS-1653531424-Knfe03",
      "category":"HKH",
      "nick-name":"SPOT",
      "properties":{

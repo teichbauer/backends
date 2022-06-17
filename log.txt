@@ -1,3 +1,7 @@
+[2022-06-16a]
+- dal.py/DB - when inserting dic into DB (insert1), 
+  generate _id if missing
+
 [2022-06-16]
 - requirements.txt
 - bloc: convert_dict
