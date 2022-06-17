@@ -26,7 +26,7 @@ mqtt_client = MQTTClient(db, 'FAPI-DB')
 app = FastAPI()
 fapi_port = 5001
 
-
+from bloc import convert_dict
 @app.get("/")
 async def index():
     return {'hello': "World!"}
@@ -43,7 +43,8 @@ async def get_id(param):
             value = eval(value)
         qdic[key] = value
     res = db.find('TS', qdic)[0]
-    return res
+    new_dic = convert_dict(res)
+    return new_dic
 
 
 @app.post("/plcmsg")

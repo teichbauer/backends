@@ -7,3 +7,4 @@ pydantic == 1.9.0
 pymongo >= 4.1.1
 paho-mqtt >= 1.6.1
 toml
+file_read_backwards
